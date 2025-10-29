@@ -1,1392 +1,1392 @@
-| title | link | snippet |
-|---|---|---|
-| Machine Learning Systems | https://harvard-edge.github.io/cs249r_book/ | Sneak Peek: Tiny Torch. Exercises to build your own machine learning system from scratch! New Hardware: Seeed TinyML Kit. Latest hands-on learning platform. |
-| Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/ | Interpretable Machine Learning. A Guide for Making Black Box Models Explainable. Author. Christoph Molnar. About the Book. Summary. Machine learning is part of ... |
-| Machine Learning CO2 Impact Calculator | https://mlco2.github.io/impact/ | Machine Learning has in impact on our climate. Here's how to estimate your GPU's carbon emissions. |
-| scikit-learn: machine learning in Python — scikit-learn 1.7.2 ... | http://scikit-learn.github.io/stable | Machine Learning in Python · Simple and efficient tools for predictive data analysis · Accessible to everybody, and reusable in various contexts · Built on NumPy, ... |
-| Machine learning functions — Trino 477 Documentation | https://trinodb.github.io/docs.trino.io/current/functions/ml.html | The machine learning plugin provides machine learning functionality as an aggregation function. It enables you to train Support Vector Machine (SVM) based ... |
-| Machine learning for molecular and materials science \| Nature | https://dandavies99.github.io/files/2018_nature.pdf | Jul 25, 2018 ... We summarize recent progress in machine learning for the chemical sciences. We outline machine-learning techniques that are suitable for addressing research ... |
-| ML-Helio \| Machine Learning in Heliophysics | https://ml-helio.github.io/ | The goal of the ML- Helio conference is to leverage the advancements happening in disciplines such as machine learning, deep learning, statistical analysis. |
-| Machine Learning at Brown University | https://stephenbach.github.io/cs142-s25-www/ | We explore the theory and practice of statistical machine learning, focusing on computational methods for supervised and unsupervised data analysis. |
-| TensorFlow: A System for Large-Scale Machine Learning | https://readingxtra.github.io/docs/ml-gpu/tensorflow-osdi16.pdf | Nov 4, 2016 ... TensorFlow is a machine learning system that operates at large scale and in heterogeneous environments. Tensor-. Flow uses dataflow graphs to ... |
-| Machine Learning for Artists | https://ml4a.github.io/ | ml4a is a collection of free educational resources devoted to machine learning for artists. It contains an in-progress book which is being written by @ ... |
-| a few useful things to Know about machine Learning | https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning//Lectures/L20-AfewUseful.pdf | Oct 2, 2012 ... as more data becomes available, more ambitious problems can be tackled. machine learning is widely used in computer science and other fields. |
-| Stop explaining black box machine learning models for high stakes ... | https://csethics.github.io/docs/rudin2019.pdf | May 13, 2019 ... ... machine learning, and provides several example applications where interpretable models could potentially replace black box models in ... |
-| How I learn machine learning \| Vicki Boykis | https://veekaybee.github.io/2022/11/10/how-i-learn-machine-learning/ | Nov 10, 2022 ... My overarching goal as an MLE is to continuously work towards designing and deploying well-designed, and transparent machine learning systems. |
-| “Probabilistic machine learning”: a book series by Kevin Murphy ... | https://probml.github.io/pml-book/ | pml-book. "Probabilistic Machine Learning" - a book series by Kevin Murphy. Project maintained by probml Hosted on GitHub Pages — Theme by mattgraham ... |
-| Applied Machine Learning Using mlr3 in R | https://mlr-org.github.io/mlr3book/ | This book will teach you about the mlr3 universe of packages, from machine learning methodology to implementations of complex algorithmic pipelines. |
-| Mallet: MAchine Learning for LanguagE Toolkit \| Mallet | https://mimno.github.io/Mallet/ | Mallet: MAchine Learning for LanguagE Toolkit. MALLET is a Java-based package for statistical natural language processing, document classification, clustering, ... |
-| COMS30035 - Machine Learning - Computer Science Department ... | https://uob-coms30035.github.io/ | This unit seeks to acquaint students with machine learning algorithms which are important in many modern data and computer science applications. |
-| MLU-Explain | https://mlu-explain.github.io/ | MLU-Explain exists to teach important machine learning concepts through visual essays in a fun, informative, and accessible manner. |
-| Machine Learning with Adversaries: Byzantine Tolerant Gradient ... | https://id2223kth.github.io/papers/2017%20-%20Machine%20Learning%20with%20Adversaries_%20Byzantine%20Tolerant%20Gradient%20Descent.pdf | We study the resilience to Byzantine failures of distributed implementations of. Stochastic Gradient Descent (SGD). So far, distributed machine learning ... |
-| 6.7930/HST.956: Machine Learning for Healthcare | https://mlhcmit.github.io/ | 956: Machine Learning for Healthcare. MIT Spring 2025. Graduate level; Units 4-0-8 (counts as an AUS2, AI+D_AUS, AAGS, and II ... |
-| Machine Learning @ VU \| MLVU | https://mlvu.github.io/ | The BSc course Machine Learning at the Vrije Universiteit Amsterdam. |
-| Machine Learning for Beginners | https://microsoft.github.io/ML-For-Beginners/ | A 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning. |
-| 2 Interpretability – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/interpretability.html | The more interpretable a machine learning model, the easier it is for someone to understand why certain decisions or predictions were made. |
-| Introduction to Machine Learning with Scikit Learn | https://carpentries-incubator.github.io/machine-learning-novice-sklearn/ | An introduction to machine learning. Prerequisites: A basic understanding of Python. You will need to know how to write a for loop, if statement, use functions ... |
-| DS-GA 1003: Machine Learning, Spring 2022 | https://nyu-ds1003.github.io/spring2022/ | This course covers a wide variety of introductory topics in machine learning and statistical modeling, including statistical learning theory, convex ... |
-| Probabilistic Machine Learning: Advanced Topics | https://probml.github.io/pml-book/book2.html | "Kevin Murphy has distilled the vast and confusing literature on machine learning and neural networks into a beautifully written and extremely clear textbook ... |
-| Stanford Machine Learning Group | https://stanfordmlgroup.github.io/ | Stanford Machine Learning Group. Our mission is to significantly improve people's lives through our work in Artificial Intelligence. Professor Andrew Ng ... |
-| Automatic Differentiation in Machine Learning: a Survey | https://gbaydin.github.io/assets/pdf/baydin-2018-ad-machinelearning.pdf | Conventionally, many methods in machine learning have required the evaluation of derivatives and most of the traditional learning algorithms have relied on the ... |
-| Machine Learning Lunches at Vector | https://ml-lunch-vector.github.io/ | The Machine Learning Lunch is a weekly 20-minute talk series for folks in the Vector Institute and University of Toronto ecosystem who are interested in ... |
-| MLG Cambridge | https://cambridge-mlg.github.io/ | 4F13: Probabilistic Machine Learning. Taught by Zoubin Ghahramani and Carl Rasmussen. Course web page. Previous Events. Cambridge Ellis Unit Summer ... |
-| The reproducibility crisis in Machine Learning | https://mariushobbhahn.github.io/2020-03-22-case_for_rep_ML/ | Mar 22, 2020 ... I want to argue why some of the code and ideas that are produced in current Machine Learning (ML) research are not reproducible and why this is a problem. |
-| Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/ | Qiskit Machine Learning introduces fundamental computational building blocks, such as Quantum Kernels and Quantum Neural Networks, used in various applications. |
-| Cover - Machine Learning in Production: From Models to Products | https://mlip-cmu.github.io/book/ | Apr 8, 2025 ... by Christian Kästner, Carnegie Mellon University. What does it take to build software products with machine learning, not just models and ... |
-| Machine Learning and the Physical Sciences, NeurIPS 2025 | https://ml4physicalsciences.github.io/ | Website for the Machine Learning and the Physical Sciences (MLPS) workshop at the 39th Conference on Neural Information Processing Systems (NeurIPS) |
-| Fast Machine Learning Lab | https://fastmachinelearning.github.io/ | Fast ML Lab is a research collective of physicists, engineers, and computer scientists interested in deploying machine learning algorithms for unique and ... |
-| Oblivious Multi-Party Machine Learning on Trusted Processors | https://aasthakm.github.io/files/sec16-oblivML.pdf | Aug 10, 2016 ... We propose data-oblivious machine learning algo- rithms for support vector machines, matrix factorization, neural networks, decision trees, and ... |
-| Getting machine learning to production \| Vicki Boykis | http://veekaybee.github.io/2020/06/09/ml-in-prod/?mkt_tok=eyJpIjoiWkdJNE5USXlaRE5qTTJJMyIsInQiOiJMWUlmY0h1WmFvZXdFdnFBY05lYUdielJsMlJub1pcL29mVkRxTjVTUUZ5OGR4S3I4SkxBSWRHd25ybmZZa0QxMFNENittTnpxdFlUNkQxdnFBUDlkazdLR1ZLeGRNalFYaVB1NURKY04xY3lNekZrdHNVUDNwZjFFbXBzOGJGcW0ifQ%3D%3D | Jun 9, 2020 ... This post covers the process of creating an end-to-end proof-of-concept (POC) machine learning product, Venti, which is a Medium-like site that generates VC ... |
-| The Problem of Induction and Machine Learning \| Vaden Masrani | https://vmasrani.github.io/blog/2021/problem-of-induction/ | Oct 17, 2021 ... So what exactly did Popper refute? Then why is it common to hear that “Popper refuted induction”? What about machine learning? Refuted by Popper ... |
-| Understanding Data Scientists' Use of Interpretability Tools for ... | https://harmanpk.github.io/Papers/CHI2020_Interpretability.pdf | •Computing methodologies → Machine learning;. •Human-centered computing → User studies;. INTRODUCTION. Machine learning (ML) has become ubiquitous in our every-. |
-| Penn Machine Learning Benchmarks | https://epistasislab.github.io/pmlb/ | Penn Machine Learning Benchmarks (PMLB) is a large collection of curated benchmark datasets for evaluating and comparing supervised machine learning algorithms. |
-| Delayed Impact of Fair Machine Learning – The Berkeley Artificial ... | https://bairblog.github.io/2018/05/17/delayed-impact/ | May 17, 2018 ... In this post, we talk about our recent work on aligning decisions made by machine learning with long term social welfare goals. |
-| mlip-cmu: Machine Learning in Production @ CMU | https://mlip-cmu.github.io/ | Machine Learning in Production @ CMU. Find resources related to teaching and research on how to build, deploy, assure, and maintain software products with ... |
-| Hands-On Machine Learning with R | https://bradleyboehmke.github.io/HOML/ | Hands-On Machine Learning with R. Bradley Boehmke & Brandon Greenwell. 2020-02-01. Preface. This book is sold by Taylor & Francis Group, ... |
-| Technology readiness levels for machine learning systems \| Nature ... | https://gbaydin.github.io/assets/pdf/lavin-2022-technology.pdf | Oct 20, 2022 ... The development and deployment of machine learning systems can be executed easily with modern tools, but the process is typically rushed and ... |
-| Machine Learning - Argo Workflows - The workflow engine for ... | https://argoproj.github.io/argo-workflows/use-cases/machine-learning/ | Machine Learning¶. Docs¶. Try out Hera for writing Workflows in Python. Also read: How To Get the Most out of Hera for Data Science. |
-| Efficient and Robust Automated Machine Learning | https://aaronkl.github.io/assets/pdf/autosklearn.pdf | Recent work has started to tackle this automated machine learning (AutoML) problem with the help of efficient Bayesian optimization methods. Building on this, ... |
-| The Discipline of Machine Learning | https://aykuterdem.github.io/classes/bbm406/readings/MachineLearning.pdf | Over the past 50 years the study of Machine Learning has grown from the efforts of a handful of computer en- gineers exploring whether computers could learn ... |
-| Overview – IDS705: Principles of Machine Learning | https://kylebradbury.github.io/ids705/ | Overview. IDS:705 Principles of Machine Learning. Author. Affiliation. Kyle Bradbury. Duke University ... |
-| My Machine Learning Research Jobhunt – Generalized Error ... | https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/ | Apr 8, 2019 ... Generalized Error. Machine Learning Researcher. Blog About. My Machine Learning Research Jobhunt. In the last few months, I interviewed at a ... |
-| MLDS Lab: Welcome | https://martinastro.github.io/ | Machine Learning for Dynamical Systems is a center of excellence advancing artificial intelligence and astrodynamics research. |
-| ML For Systems: Announcement | http://mlforsystems.github.io/ | The ML for Systems workshop presents cutting-edge work on ML in computer systems and aims to develop a unified methodology for the field. Machine Learning (ML) ... |
-| Machine Learning Tutorials - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html | Machine Learning Tutorials: Quantum Neural Networks, Neural Network Classifier & Regressor, Training a Quantum Model on a Real Dataset, Quantum Kernel Machine ... |
-| Foundations of Machine Learning - Maximilian Kasy | https://maxkasy.github.io/home/ML_Oxford_2022/ | Foundations of Machine Learning. Tentative Syllabus: Syllabus_ML_Oxford_2022.pdf. Foundations. Review of decision theory Slides; Probably approximately ... |
-| Multimodal Machine Learning | https://cmu-mmml.github.io/ | 11-777 - Multimodal Machine Learning - Carnegie Mellon University. |
-| DoubleML — DoubleML documentation | http://doubleml.github.io/ | The Python and R package DoubleML provide an implementation of the double / debiased machine learning framework of Chernozhukov et al. (2018). |
-| Machine Learning for Discrete Optimization (MS&E 236 / CS 225 ... | https://vitercik.github.io/ml4do/ | Machine Learning for Discrete Optimization. Course information. Quarter: Spring 2024; Lecture time: Mondays and Wednesdays 1:30-2:50pm; Lecture location: 200 ... |
-| 17-445 Machine Learning in Production / AI Engineering | https://mlip-cmu.github.io/s2025/ | This is a course for those who want to build software products with machine learning, not just models and demos. |
-| Machine Learning for Variance Reduction in Online Experiments | https://dominiccoey.github.io/assets/papers/variance_reduction.pdf | We propose a machine learning regression-adjusted treatment effect estimator, which we call MLRATE. MLRATE uses machine learning predictors of the outcome to ... |
-| Machine Learning in Heliophysics - ML-Helio | https://ml-helio.github.io/2019/index_2019.html | The goal of this first ML- Helio conference is to leverage the advancements happening in disciplines such as machine learning, deep learning, ... |
-| Classes of Kernels for Machine Learning: A Statistics Perspective | https://marcgenton.github.io/2001.G.JMLR.pdf | Abstract. In this paper, we present classes of kernels for machine learning from a statistics perspective. Indeed, kernels are positive definite functions ... |
-| Machine Learning Team Projects: a Survival Guide – Daniele ... | https://danielegrattarola.github.io/posts/2018-03-20/ml-team-projects.html | Mar 20, 2018 ... Ever since I started getting closer to machine learning, well before I started my PhD, I have always found it extremely annoying to keep ... |
-| Machine learning with ROOT - ROOT | https://root-project.github.io/web/manual/tmva/ | Most of the external machine learning libraries will accept (or expect) a collection of Numpy arrays as the input dataset, either for training or testing. It is ... |
-| Home \| CS 189/289A | https://berkeleyml.github.io/ | This course introduces the theoretical foundations, algorithms, and applications of machine learning, combining mathematical rigor with practical experience. |
-| Machine Learning and the Physical Sciences, NeurIPS 2022 | https://ml4physicalsciences.github.io/2022/ | Website for the Machine Learning and the Physical Sciences (MLPS) workshop at the 35th Conference on Neural Information Processing Systems (NeurIPS) |
-| General Insurance Machine Learning in Reserving Working Party ... | https://institute-and-faculty-of-actuaries.github.io/mlr-blog/ | Looking for our posts about machine learning and reserving? Check out our recent and older blog posts on research, issues, literature. |
-| CMS Machine Learning Documentation | https://cms-ml.github.io/documentation/index.html | Welcome to the documentation hub for the CMS Machine Learning Group! The goal of this page is to provide CMS analyzers a centralized place to gather machine ... |
-| Machine Learning Symposium - 2025 - BayLearn | https://baylearn-org.github.io/www/ | Thu, Oct 16th 2025, Santa Clara University. The BayLearn Symposium aims at gathering scientists in machine learning from the San Francisco Bay Area. While it ... |
-| Machine Learning Experiments | https://trekhleb.github.io/machine-learning-experiments/ | This is a demo app for Machine Learning Experiments GitHub repository. Go there if you want to see how all these models were trained. Digits Recognition ... |
-| Foundations of Machine Learning | https://bloomberg.github.io/foml/ | This course covers a wide variety of topics in machine learning and statistical modeling. The primary goal of the class is to help participants gain a deep ... |
-| Machine Learning for Health - ML4H | https://ml4health.github.io/2019/ | ML4H 2019: a workshop at NeurIPS 2019 December 2019 Vancouver Convention Centre, Vancouver, Canada This workshop will bring together machine learning ... |
-| Applied Machine Learning | https://kuleshov-group.github.io/aml-website/ | This open online course is a broad introduction to the field of machine learning (ML), based on CS 5785 at Cornell Tech. It covers machine learning algorithms ( ... |
-| Getting started - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/getting_started.html | Installation¶. Qiskit Machine Learning depends on Qiskit, which has its own installation instructions detailing installation options and its supported ... |
-| Introduction to Machine Learning (I2ML) | https://slds-lmu.github.io/i2ml/ | This website offers an open and free introductory course on (supervised) machine learning. The course is constructed as self-contained as possible. |
-| Aalto Dictionary of Machine Learning (ADictML) \| AaltoDictionaryofML | https://aaltodictionaryofml.github.io/ | Welcome! This is the working draft of the Aalto Dictionary of Machine Learning (ADictML) — a growing collection of short, clear definitions for key terms ... |
-| Machine Learning for Algorithm Design (MS&E/CS 331) | https://vitercik.github.io/ml4algs/ | Machine Learning for Algorithm Design. Course information. Quarter: Spring 2023; Lecture time: Tuesday and Thursdays 3:00-4:20pm; Lecture location: ... |
-| Introduction to Machine Learning | https://hsf-training.github.io/hsf-training-ml-webpage/ | This tutorial explores Machine Learning using scikit-learn and PyTorch for applications in high energy physics. |
-| Combining rule engines and machine learning - nlathia.github.io | https://nlathia.github.io/2020/10/ML-and-rule-engines.html | Oct 9, 2020 ... In the infamous Rules of Machine Learning, one of the first sections states “don't be afraid to launch a product without machine learning” ... |
-| Chemical reaction networks and opportunities for machine learning | https://espottesmith.github.io/files/papers/wen_chemical_reaction_2023.pdf | To capture increasingly complex phenomena, CRNs can be leveraged alongside data-driven methods and machine learning (ML). In this. Perspective, we assess the ... |
-| IBM Watson Machine Learning | https://ibm.github.io/watson-machine-learning-sdk/index.html | The ibm-watson-machine-learning Python library allows you to work with IBM Watson Machine Learning services. You can train, store, and deploy your models. |
-| Machine Learning on GPU | https://hsf-training.github.io/hsf-training-ml-gpu-webpage/ | This tutorial explores Machine Learning using GPU-enabled PyTorch for applications in high energy physics. |
-| SoK: Security and Privacy in Machine Learning | https://oaklandsok.github.io/papers/papernot2018.pdf | Advances in the science of machine learning (ML) cou- pled with growth in computational capacities transformed the technology landscape, as embodied by the ... |
-| AdvML 2024 - New Frontiers in Adversarial Machine Learning | https://advml-frontier.github.io/ | The 3rd New Frontiers. in Adversarial Machine Learning. (AdvML Frontiers @NeurIPS2024). Dec. 14, 2024. East Ballroom C. Vancouver Convention Center. |
-| Machine Learning @Sapienza \| ML-s2-2025 | https://erodola.github.io/ML-s2-2025/ | Machine Learning @Sapienza. Course material, 2nd semester a.y. 2024/2025, Mathematical Sciences for AI (SMIA). News 🗞️. 13/05/2025: The list of projects has ... |
-| Quantum Kernel Machine Learning - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/03_quantum_kernel.html | In this notebook, you will learn how to define quantum kernels using qiskit-machine-learning and how these can be plugged into different algorithms. |
-| ML Hardware and Systems | https://abdelfattah-class.github.io/ece5545/ | A master's level course that takes a hardware-centric view of machine learning systems, from constrained embedded microcontrollers to large distributed multi- ... |
-| Interpretable Machine Learning (IML) | https://slds-lmu.github.io/iml/ | This website offers an open and free introductory course on Interpretable Machine Learning. The course is constructed as self-contained as possible. |
-| Accord.NET Machine Learning Framework | http://accord-net.github.io/ | Accord.NET is a .NET machine learning framework combined with audio and image processing libraries completely written in C# ready to be used in commercial ... |
-| Machine learning functions — Starburst Enterprise | https://starburstdata.github.io/latest/functions/ml.html | The machine learning plugin provides machine learning functionality as an aggregation function. It enables you to train Support Vector Machine (SVM) based ... |
-| What Is Machine Learning? \| Python Data Science Handbook | https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html | Machine learning involves building mathematical models to help understand data. "Learning" enters the fray when we give these models tunable parameters. |
-| AstroML: Machine Learning and Data Mining for Astronomy ... | http://astroml.github.io/ | It contains a growing library of statistical and machine learning routines for analyzing astronomical data in Python, loaders for several open astronomical ... |
-| Theorem Proving and Machine Learning in the age of LLMs: SoA ... | https://europroofnet.github.io/wg5-edinburgh25/ | Machine learning (ML) has been shown to be very successful in programming and translation tasks, and creates new opportunities combining AI with proofs. |
-| 36 Citing this Book – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/cite.html | You can cite the book like this: Molnar, C. (2025). Interpretable Machine Learning: A Guide for Making Black Box Models Explainable (3rd ed.). |
-| Machine Learning for Biologists | https://carpentries-incubator.github.io/ml4bio-workshop/ | The Machine Learning for Biologists (ML4Bio) workshop is aimed at biologists with no previous machine learning experience and minimal computational experience. |
-| Machine Learning \| Computer Science \| The University of Sheffield | https://sheffieldml.github.io/ | Machine Learning. Machine Learning. We explore and develop the capacity for algorithms to learn and make decisions and predictions from their environment. We ... |
-| A Survey of Machine Learning for Big Code and Naturalness ... | https://ml4code.github.io/ | Contact Miltos Allamanis about this survey or website. Made with Jekyll and Hyde. Machine Learning on Source Code. The billions of lines of source code that ... |
-| Human & Machine Intelligence | https://lake-lab.github.io/ | In 2017, Brenden Lake started the Human & Machine Learning Lab at New York University in 2017. In 2025, the lab moved to Princeton University and evolved ... |
-| Machine Learning Explanations with Topological Data Analysis | https://sauln.github.io/blog/tda_explanations.html/ | In this work, we will focus on understanding the exploratory power of Mapper and how we can apply it to understand a machine learning model. |
-| Cargese2025 \| Website of the Cargese 2025 event | https://cargese2025.github.io/ | The statistical physics community and the machine learning ones have long been connected and indeed many concepts and algorithms of machine learning have ... |
-| Intro to AI for GLAM: Applying Machine Learning | https://carpentries-incubator.github.io/machine-learning-librarians-archivists/06-applying-machine-learning.html | What skills and people should be involved in a machine learning project? How can machine learning models predictions be utilised by an organization? Objectives. |
-| Machine Learning Playground | https://peterleong.github.io/ML-Playground/ | Machine Learning Playground. Feedback. Upload Data. Save Data. Clear all. K Nearest Neighbors. Perceptron. Support Vector Machine. Artificial Neural Network ... |
-| Deep Learning Course | https://brown-deep-learning.github.io/dl-website-2022/ | This course is there to give students a practical understanding of how Deep Learning works, how to implement neural networks, and how to apply them ethically. |
-| DEEP LEARNING · Deep Learning | https://atcold.github.io/NYU-DLSP21/ | Deep Learning. DEEP LEARNING. DS-GA 1008 · SPRING 2021 · NYU CENTER FOR DATA SCIENCE. INSTRUCTORS, Yann LeCun & Alfredo Canziani. LECTURES, Wednesday 9:30 – 11: ... |
-| Understanding Deep Learning | https://udlbook.github.io/udlbook/ | Slides for 20 lecture undergraduate deep learning course: Introduction PPTX; Supervised Learning PPTX; Shallow Neural Networks PPTX; Deep Neural Networks PPTX ... |
-| Introduction to deep learning: Summary and Setup | https://carpentries-incubator.github.io/deep-learning-intro/ | This is a hands-on introduction to the first steps in Deep Learning, intended for researchers who are familiar with (non-deep) Machine Learning. |
-| Deep Learning Rules of Thumb - Jeff Macaluso | https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/ | Dec 19, 2018 ... Deep Learning Rules of Thumb. 26 minute read. When I first learned about neural networks in grad school, I asked my professor if there were ... |
-| Recommending music on Spotify with deep learning – Sander ... | http://benanne.github.io/2014/08/05/spotify-cnns.html | Aug 5, 2014 ... What to do when no usage data is available. Predicting listening preferences with deep learning. Music recommendation based on audio signals. |
-| Uncertainty in Deep Learning | https://seunghan96.github.io/assets/pdf/BNN/paper/20.Uncertainty%20in%20Deep%20Learning%20(2016).pdf | Deep learning has attracted tremendous attention from researchers in various fields of information engineering such as AI, computer vision, and language ... |
-| Deep Learning for Event-Driven Stock Prediction - Xiao Ding ... | https://frcchang.github.io/pub/ijcai15.xiao.pdf | We propose a deep learning method for event- driven stock market prediction. First, events are extracted from news text, and represented as dense vectors ... |
-| Deep Learning For Code | https://dl4c.github.io/ | We are pleased to announce that after three successful installations at ICLR'22, '23, and '25, the 4th Deep Learning for Code (DL4C) worshop **Deep Learning ... |
-| TREC 2023 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning.html | The Deep Learning Track in 2023 will continue to have the passage ranking and document ranking tasks; and two subtasks in each case: full ranking and reranking. |
-| Deep Learning, NLP, and Representations - colah's blog | https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ | Jul 7, 2014 ... Deep Learning, NLP, and Representations · Introduction. In the last few years, deep neural networks have dominated pattern recognition. · One ... |
-| Practical Deep Learning | https://fastai.github.io/course22-web/ | A free course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems. |
-| Overview — deep learning for molecules & materials | https://whitead.github.io/dmol-book | Deep learning is becoming a standard tool in chemistry and materials science. Deep learning is specifically about connecting some input data (features) and ... |
-| Analogies between Biology and Deep Learning [rough note ... | https://colah.github.io/notes/bio-analogies/ | Oct 2, 2021 ... There are a number of exciting connections between physics and deep learning. Perhaps the most discussed are scaling laws (e.g. Kaplan et al ... |
-| 6.S898 Deep Learning, Fall 2023 | https://phillipi.github.io/6.s898/ | Fundamentals of deep learning, including both theory and applications. Topics include neural net architectures (MLPs, CNNs, RNNs, graph nets, transformers), ... |
-| CS565600 Deep Learning | https://nthu-datalab.github.io/ml/ | Fundamentals of machine learning, deep learning, and AI. |
-| Meet “Iva”, my mini Deep Learning rig \| Chan Kha Vu | https://hav4ik.github.io/meet-iva-my-dl-rig/ | Nov 24, 2023 ... I built a cheap-ish 2x3090 RTX Deep Learning rig for my personal projects and experiments. In this post, I will share my build philosophy, inspirations, and ... |
-| Deep learning algorithm predicts diabetic retinopathy progression in ... | https://maguire-lab.github.io/health_data_science_research_2024/static_files/literature/retinopathy_progression.pdf | Sep 20, 2019 ... We describe an algorithm to predict DR progression by means of deep learning (DL), using as input color fundus photographs (CFPs) acquired at a single visit ... |
-| Grokking Deep Learning - i am trask | https://iamtrask.github.io/2016/08/17/grokking-deep-learning/ | Aug 17, 2016 ... If you passed high school math and can hack around in Python, I want to teach you Deep Learning. Edit: 50% Coupon Code: "mltrask" (expires ... |
-| Deep Learning for Economists | https://econdl.github.io/redirects/publications/econdl | Jul 22, 2024 ... Abstract page for arXiv paper 2407.15339: Deep Learning for Economists. ... When suitable methods are used, deep learning models can be cheap to ... |
-| Optimal Auctions through Deep Learning | https://marketdesign.github.io/files/duetting19a.pdf | We. Page 2. Optimal Auctions through Deep Learning adopt the Augmented Lagrangian Method to solve the result- ing constrained optimization problem, where in ... |
-| Learning Deep Representations of Data Distributions | https://ma-lab-berkeley.github.io/deep-representation-learning-book/ | About this Book. In the current era of deep learning and especially "generative artificial intelligence", there is significant investment in training very large ... |
-| Deep Learning and Scientific Computing with R torch | https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/ | Apr 1, 2023 ... This is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks. |
-| EconDL \| Blog | https://econdl.github.io/ | ... deep learning in their research. This website contains user-friendly software and dataset resources, and a knowledge base that goes into considerably more ... |
-| An End-to-End Deep Learning Architecture for Graph Classification | https://muhanzhang.github.io/papers/AAAI_2018_DGCNN.pdf | many other deep learning methods for graph classification. 2 Deep Graph Convolutional Neural. Network (DGCNN). DGCNN has three sequential stages: 1) graph ... |
-| Building A Flexible Configuration System For Deep Learning Models ... | https://julienbeaulieu.github.io/2020/03/16/building-a-flexible-configuration-system-for-deep-learning-models/ | Mar 16, 2020 ... ... deep learning projects, whether for work or personal. I loved their approach and decided to join them. This post is an attempt to summarize ... |
-| Lessons from Optics, The Other Deep Learning – arg min blog | http://benjamin-recht.github.io/2018/01/25/optics/ | Jan 25, 2018 ... Would you say deep learning is mature enough to be taught in high schools? Here's why I ask. Some time ago, I received an email from a ... |
-| 10417/10617 Fall 2019 : Intermediate Deep Learning | https://deeplearning-cmu-10417.github.io/ | 08/26/19 Welcome to 10417/10617 Deep Learning Coursework! We look forward to meeting you on Monday 08/26/2018. Course Outline. Building intelligent machines ... |
-| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2025 | https://erodola.github.io/DLAI-s2-2025/ | Deep Learning & Applied AI @Sapienza. Course material, 2nd semester a.y. 2024/2025, Dept. of Computer Science. News 🗞️. 25/05/2025: The exam dates are now ... |
-| UvA Deep Learning II Course | https://uvadl2c.github.io/ | About. Deep learning II is taught in the MSc program in Artificial Intelligence of the University of Amsterdam. In this course we study the theory of deep ... |
-| Building a deep learning rig \| part-1 - Samsja | https://samsja.github.io/blogs/rig/part_1/ | Building a deep learning rig \| part-1. 03 february, 2024. I just got my hands on a mining rig with 3 rtx 3090 founder edition for the modest sum of 1.7k ... |
-| DEEP LEARNING · Deep Learning | https://atcold.github.io/NYU-DLSP20/ | This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning. |
-| Information Theory of Deep Learning – Aditya Sharma – Data ... | https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/ | Dec 17, 2018 ... I will assume some knowledge of basic deep learning and neural networks along with some familiarity with the fundamentals of machine learning ( ... |
-| Deep learning with COTS HPC systems | https://readingxtra.github.io/docs/ml-gpu/coates-dl-gpu-icml13.pdf | Scaling up deep learning algorithms has been shown to lead to increased performance in benchmark tasks and to enable discovery of. |
-| What Uncertainties Do We Need in Bayesian Deep Learning for ... | https://seunghan96.github.io/assets/pdf/BNN/paper/29.What%20Uncertainties%20Do%20We%20Need%20in%20Bayesian%20Deep%20Learning(2017).pdf | For this we present a Bayesian deep learning framework combining input-dependent aleatoric uncer- tainty together with epistemic uncertainty. We study models ... |
-| Dataflowr - Deep Learning DIY | https://dataflowr.github.io/website/ | May 28, 2025 ... Practical deep learning course · Mathematics: basics of linear algebra, probability, differential calculus and optimization · Programming: Python. |
-| Deep learning benchmark — AI Power Meter documentation | https://greenai-uppa.github.io/AIPowerMeter/experiments/experiments.html | This section describes energy measurements for classic deep learning models. For each model, the experiment is as follows: |
-| Untitled | https://bana-handaga.github.io/cv/deeplearning/contents/intro.html | we call this approach to AI deep learning. Many of the early successes of AI took ... |
-| IndabaX Nigeria - Deep Learning Indaba 2025 | https://indabaxng.github.io/ | Deep Learning IndabaX. Nigeria 2025. Empowering Nigeria's AI Ecosystem for Sustainable Development. Registration Closed. 16th - 17th July, 2025. Physical ... |
-| Deep Learning @ VU | https://dlvu.github.io/ | Deep Learning at VU University Amsterdam · 7. · 10. Reinforcement learning · 12. Generalization · 13. Explainability ... |
-| 11-785 Deep Learning | https://cmu-ideel.github.io/ | The Course. “Deep Learning” systems, typified by deep neural networks, are increasingly taking over all the AI tasks, ranging from language understanding, ... |
-| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2024 | https://erodola.github.io/DLAI-s2-2024/ | Deep Learning & Applied AI @Sapienza. Course material, 2nd semester a.y. 2023/2024, Dept. of Computer Science. News 🗞️. 14/09/2024: The grades for the ... |
-| Deep Learning Drizzle | https://deep-learning-drizzle.github.io/ | 1. Neural Networks for Machine Learning, Geoffrey Hinton, University of Toronto · 2. Neural Networks Demystified · 3. Deep Learning at Oxford · 4. Deep Learning ... |
-| Deep Learning for Entity Matching: A Design Space Exploration | https://chu-data-lab.github.io/CS8803Fall2018/CS8803-Fall2018-DML-Papers/deepmatcher-space-exploration.pdf | Finally, we analyze. DL's performance and discuss future research directions. KEYWORDS. Deep learning; entity matching; entity resolution. ACM Reference Format:. |
-| DeepLog: Anomaly Detection and Diagnosis from System Logs ... | https://machine-learning-and-security.github.io/papers/mlsec17_paper_49.pdf | Oct 30, 2017 ... DeepLog can separate out different tasks from a log file and construct a work- flow model for each task using both deep learning (LSTM) and. |
-| 6.7960 Deep Learning, Fall 2025 | https://deeplearning6-7960.github.io/ | Course Overview. Description: Fundamentals of deep learning, including both theory and applications. Topics include neural net architectures (MLPs, CNNs, ... |
-| UvA - An Introduction to Group Equivariant Deep Learning \| uvagedl | https://uvagedl.github.io/ | Welcome to the public page for the mini-course on Group Equivariant Deep Learning. The course is still under development, in the upcoming months I will ... |
-| A Deep Learning Approach to Data Compression – The Berkeley ... | https://bairblog.github.io/2019/09/19/bit-swap/ | Sep 19, 2019 ... We introduce Bit-Swap, a scalable and effective lossless data compression technique based on deep learning. |
-| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2023 | https://erodola.github.io/DLAI-s2-2023/ | Deep Learning & Applied AI @Sapienza. Course material, 2nd semester a.y. 2022/2023, Dept. of Computer Science. News. 01/08/2023: The grades for the written ... |
-| Deep Learning: Do-It-Yourself! 2019 version \| dataflowr | https://mlelarge.github.io/dataflowr-web/dldiy_ens.html | Deep Learning: Do-It-Yourself! 2019 version. Please visit dataflowr for the most recent version. Course description. Recent developments in neural network ... |
-| The Limitations of Deep Learning in Adversarial Settings | https://beerkay.github.io/papers/Berkay2016DLLimitationEuroSP.pdf | Nov 24, 2015 ... Saarbrucken, Germany. Abstract—Deep learning takes advantage of large datasets and computationally efficient training algorithms to outperform. |
-| Spring 2021 6.874 Computational Systems Biology: Deep Learning ... | https://mit6874.github.io/ | Course materials and notes for MIT class 6.802 / 6.874 / 20.390 / 20.490 / HST.506 Computational Systems Biology: Deep Learning in the Life Sciences. |
-| TREC 2019 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2019.html | The deep learning track has two tasks: Passage ranking and document ranking. You can submit up to three runs for each of these tasks. |
-| CS 2952N \| CSCI 2470 | https://brown-deep-learning.github.io/csci2470_f24/ | Our course aims to offer students the mathematical foundation and engineering skills necessary to understand, utilize, and design state-of-the-art deep ... |
-| An Introduction to Deep Learning - Melissa Dell | https://dell-research-harvard.github.io/intro/2023/01/18/lecture1.html | Jan 18, 2023 ... The lecture will provide a couple of case studies of deep learning applied to economic data. We will then turn to an overview of neural networks ... |
-| Course Info \| INF6953PE - Deep Learning Dynamics | https://chandar-lab.github.io/INF6953PE/ | Welcome to the Winter 2025 edition of the Deep Learning Dynamics course! This course explores the theoretical and practical aspects of how neural networks ... |
-| Poseidon: An Efficient Communication Architecture for Distributed ... | https://readingxtra.github.io/docs/ml-gpu/atc17-zhang-dlgpu.pdf | Jul 12, 2017 ... Deep learning models can take weeks to train on a single. GPU-equipped machine, necessitating scaling out DL training to a GPU-cluster. |
-| Concept-based Interpretable Deep Learning | https://conceptlearning.github.io/ | Project website for our AAAI 2025 Tutorial on Concept-based Interpretable Deep Learning. |
-| Untitled | https://bana-handaga.github.io/cv/deeplearning/contents/guidelines.html | to do well by beginning with an appropriate deep learning model. First, choose the general category of model based on the structure of your. data. If you w ... |
-| CIS 522 | https://cis-522.github.io/website/ | The purpose of this course is to deconstruct the hype by teaching deep learning theories, models, skills, and applications that are useful for applications. |
-| The 9 Deep Learning Papers You Need To Know About ... | https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html | Aug 24, 2016 ... The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3). Introduction. Link to Part 1 · Link to Part 2. In this post, we' ... |
-| course-deep-learning \| Teaching materials for the deep learning ... | https://interactiveaudiolab.github.io/course-deep-learning/ | This is a first course in Deep Learning. We will study deep learning architectures: perceptrons, multi-layer perceptrons, convolutional networks, recurrent ... |
-| Overview of Active Learning for Deep Learning | http://jacobgil.github.io/deeplearning/activelearning | Active Learning for Deep Learning · Deep neural networks aren't really good at telling when they are not sure. The output from the final softmax layer tends to ... |
-| TREC 2021 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021.html | The Deep Learning Track has two tasks: Passage ranking and document ranking; and two subtasks in each case: full ranking and reranking. |
-| NEW! DEEP LEARNING DO IT YOURSELF \| dataflowr | https://mlelarge.github.io/dataflowr-web/ | Largely inspired by fast.ai course: Practical Deep Learning For Coders (but with a different focus). The main goal of the courses is to allow students to ... |
-| Deep Learning based Wireless Localization for Indoor Navigation | https://dineshb-ucsd.github.io/files/papers/mobicom20-dloc.pdf | WiFi, Path planning, Deep Learning, Wireless Sensing, Indoor Nav- igation, WiFi Localization. ACM Reference Format: Roshan Ayyalasomayajula†, Aditya Arun ... |
-| TREC 2020 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2020.html | The Deep Learning Track has two tasks: Passage ranking and document ranking; and two subtasks in each case: full ranking and re-ranking. |
-| An Overview of Deep Learning for Curious People \| Lil'Log | https://lilianweng.github.io/posts/2017-06-21-overview/ | Jun 21, 2017 ... Deep learning models, in simple words, are large and deep artificial neural nets. A neural network (“NN”) can be well presented in a directed acyclic graph. |
-| STOR 566: Intro to Deep Learning | https://liyao880.github.io/stor566/ | This is an introduction course to deep learning. Topics covered by this course include but are not limited to: Machine Learning Overview; Optimization; MLP, CNN ... |
-| LEMNA: Explaining Deep Learning based Security Applications | https://henrygwb.github.io/publications/ccs18.pdf | Mar 20, 2018 ... Using a mixture regression model enhanced by fused lasso, LEMNA generates high-fidelity explanation results for a range of deep learning models ... |
-| TTIC 31230: Fundamentals of Deep Learning | https://mcallester.github.io/ttic-31230/ | TTIC 31230: Fundamentals of Deep Learning. Lectures: David McAllester (mcallester@ttic.edu). This class is intended to provide students with an ... |
-| Approximate Inference in Bayesian Deep Learning | https://izmailovpavel.github.io/neurips_bdl_competition/ | ... Deep Learning workshop. Additionally, we provide monetary prizes: Extended track: First prize: $2000, Second prize: $500. Light track: First prize $1000 ... |
-| Improving Palliative Care with Deep Learning | https://stanfordmlgroup.github.io/projects/improving-palliative-care/ | We build a program using Deep Learning to identify hospitalized patients with a high risk of death in the next 3-12 months by only inspecting their Electronic ... |
-| Deep Learning on Graphs | https://yaoma24.github.io/dlg_book/ | This book covers comprehensive contents in developing deep learning techniques for graph structured data with a specific focus on Graph Neural Networks ... |
-| CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays ... | https://stanfordmlgroup.github.io/projects/chexnet/ | CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning. Pranav Rajpurkar*, Jeremy Irvin*, Kaylie Zhu, Brandon Yang, Hershel Mehta ... |
-| Deep learning for fast spatially-varying deconvolution | https://waller-lab.github.io/MultiWienerNet/ | We propose a deep learning-based approach that leverages knowledge about the system's spatially-varying PSFs for fast 2D and 3D reconstructions. |
-| 3 Probability and Information Theory | https://bana-handaga.github.io/cv/deeplearning/contents/prob.html | be suﬃcient to successfully carry out deep learning research projects, but we do. suggest that you consult an additional resource, such as Jaynes (2003). |
-| Advanced Deep Learning for Robotics | https://bbaeuml.github.io/tum-adlr/adlr/index.html | This is the advanced deep learning lecture with a specific focus on Robotics and deep reinforcement learning (including a guest lecture from DeepMind). This ... |
-| CSCI 4961/6961 Deep Learning (Spring 2024) | https://yaoma24.github.io/csci4961_6961/index.html | Jan 8, 2024 ... Christopher Bishop, Pattern Recognition and Machine Learning. Springer 2007. Ian Goodfellow and Yoshua Bengio and Aaron Courville, Deep Learning ... |
-| MIT 6.S090 - Deep Learning for Control | https://pulkitag.github.io/rlbootcamp-iap/ | Deep Learning for Control. IAP 2021. Course Description. An overview of current deep reinforcement learning methods, challenges ... |
-| Deep Learning Streamer — Open Edge Platform Documentation | https://dlstreamer.github.io/ | DL Streamer consists of: Deep Learning Streamer Pipeline Framework for designing, creating, building, and running media analytics pipelines. It includes C++ and ... |
-| An Empirical Study on Program Failures of Deep Learning Jobs | https://wencongxiao.github.io/res/icse20/icse20-main-199.pdf | To train and test models more efficiently, enterprise developers submit and run their deep learning programs on a shared, multi-tenant platform. However, some ... |
-| DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for ... | https://taskflow.github.io/taskflow/lin_19_01.pdf | We take a totally new perspective of making analogy between placement and deep learning, and build an open-source generic analytical placement framework that ... |
-| UCSD ECE176: Introduction to Deep Learning & Applications ... | https://xiaolonw.github.io/ece176/ | This course covers the fundamentals in deep learning, basics in deep neural network including different network architectures (eg, ConvNet, RNN), and the ... |
-| Wordle Solving with Deep Reinforcement Learning \| Not A Real ... | https://andrewkho.github.io/wordle-solver/ | Deep Learning. Enter model-based approaches, where you use some parameterized function to approximate the Q-table , say a linear combination of the state ... |
-| Deep Learning for Search and Matching Models | https://yangycpku.github.io/files/DeepSAM_paper.pdf | We then use deep learning to solve the model and estimate economic parameters using the simulated method of moments. This allows us to study a wide class of ... |
-| CMSC 35200 - Deep Learning Systems | https://uchicago-cs.github.io/cmsc35200/index.html | Course Description¶. Deep learning is emerging as a major technique for solving problems in a variety of fields, including computer vision, ... |
-| Automated Quantification of Photoreceptor alteration in macular ... | https://ignaciorlando.github.io/publication/2020-sr-photoreceptors/2020-sr-photoreceptors.pdf | Mar 27, 2020 ... ... deep learning approach for automatically segmenting and characterising photoreceptor alteration. The photoreceptor layer is segmented using ... |
-| 6.7960 Deep Learning, Fall 2024 | https://phillipi.github.io/6.7960/ | Fundamentals of deep learning, including both theory and applications. Topics include neural net architectures (MLPs, CNNs, RNNs, graph nets, transformers), ... |
-| Follow the Moving Leader in Deep Learning | https://szhengac.github.io/papers/icml17.pdf | Recent advances in deep learning optimization focus mainly on stochastic gradient descent (SGD) (Bottou,. 1998) and its variants (Sutskever et al., 2013). |
-| TREC 2022 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2022.html | The Deep Learning Track in 2022 will continue to have the passage ranking and document ranking tasks; and two subtasks in each case: full ranking and reranking. |
-| A Survey of Clustering With Deep Learning: From the Perspective of ... | https://xifengguo.github.io/papers/Access-survey.pdf | INDEX TERMS Clustering, deep learning, data representation, network architecture. I. INTRODUCTION. Data clustering is a basic problem in many areas, such as. |
-| 10-417/617 Fall 2020 : Intermediate Deep Learning | https://andrejristeski.github.io/10417-20/ | The goal of this course is to introduce students to both the foundational ideas and the recent advances in deep learning. |
-| Deep Learning with Limited Numerical Precision | https://readingxtra.github.io/docs/ml-fpga/limited-precision-gupta15.pdf | To a large extent, the success of deep learning techniques is contingent upon the underlying hardware platform's ability to perform fast, supervised training of ... |
-| Adit Deshpande – Engineering at Forward \| UCLA CS '19 | https://adeshpande3.github.io/ | Adit Deshpande. Engineering at Forward \| UCLA CS '19. Blog About GitHub Resume · The Last 5 Years In Deep Learning. We've come quite a long way. |
-| Deep learning for particle physicists — Introduction to deep learning ... | https://hsf-training.github.io/deep-learning-intro-for-hep/ | This book is an introduction to modern neural networks (deep learning), intended for particle physicists. |
-| Deep Reinforcement Learning: Pong from Pixels | http://karpathy.github.io/2016/05/31/rl/ | May 31, 2016 ... A chat room for deep learning experts: taticti.com. The topic is general AI. Shalabh Singh • 8 years ago. This post is so good !! This was ... |
-| ECBM E4040 Neural Networks and Deep Learning | https://ecbme4040.github.io/ | The course uses Python coding language, TensorFlow deep learning framework, and Google Cloud computational platform with graphics processing units (GPUs). The ... |
-| UBC CPEN 455 (2025 Winter Term 1): Deep Learning \| UBC Course | https://lrjconan.github.io/UBC-CPEN455-DL/ | Overview. Deep Learning has transformed fields like computer vision, speech recognition, and natural language processing, becoming a cornerstone of modern ... |
-| NVIDIA Learning and Perception Research | https://nvlabs.github.io/lpr/ | Resource-Efficient Deep Learning: pruning, NAS, efficient backbones, weakly- and self-supervised learning, etc. Graduate students interested in interning ... |
-| Welcome to the Deep Reinforcement Learning Course - Hugging ... | https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ | This course will teach you about Deep Reinforcement Learning from beginner to expert. It's completely free and open-source! |
-| Deep Reinforcement Learning: Pong from Pixels | http://karpathy.github.io/2016/05/31/rl/ | May 31, 2016 ... This is a long overdue blog post on Reinforcement Learning (RL). RL is hot! You may have noticed that computers can now automatically learn ... |
-| A (Long) Peek into Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2018-02-19-rl-overview/ | Feb 19, 2018 ... The goal of Reinforcement Learning (RL) is to learn a good strategy for the agent from experimental trials and relative simple feedback received. |
-| Reinforcement Learning: Theory and Algorithms | https://rltheorybook.github.io/ | Reinforcement Learning: Theory and Algorithms. Alekh Agarwal Nan Jiang Sham M. Kakade Wen Sun · PDF. We will be frequently updating the book this fall, 2021 ... |
-| DeepMimic: Example-Guided Deep Reinforcement Learning of ... | https://xbpeng.github.io/projects/DeepMimic/index.html | DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills. Transactions on Graphics (Proc. ACM SIGGRAPH 2018) |
-| Wordle Solving with Deep Reinforcement Learning \| Not A Real ... | https://andrewkho.github.io/wordle-solver/ | Wordle Solving with Deep Reinforcement Learning. Jan 2022. github. TL;DR. You can test out the Deep RL agent yourself here. (This is hosted on ... |
-| Program Synthesis using Deduction-Guided Reinforcement Learning? | https://fredfeng.github.io/papers/cav20.pdf | In this paper, we present a new program synthesis algorithm based on reinforcement learning. Given an initial policy (i.e. statistical model) trained off-line, ... |
-| Reinforcement Learning (Spring 2024) | https://bahh723.github.io/rl2024sp/ | Reinforcement learning (RL) is a powerful learning paradigm through which machines learn to make (sequential) decisions. It has been playing a pivotal role in ... |
-| Going Deeper Into Reinforcement Learning: Understanding Q ... | https://danieltakeshi.github.io/2016/10/31/going-deeper-into-reinforcement-learning-understanding-q-learning-and-linear-function-approximation/ | Going Deeper Into Reinforcement Learning: Understanding Q-Learning and Linear Function Approximation. Oct 31, 2016. As I mentioned in my review on ... |
-| Learning to Play Settlers of Catan with Deep Reinforcement Learning | https://settlers-rl.github.io/ | Apr 3, 2022 ... Learning to Play Settlers of Catan with Deep Reinforcement Learning. Screenshot of the Settlers-RL simulator built for this project. Author. |
-| Course Info \| INF8953DE - Reinforcement Learning | https://chandar-lab.github.io/INF8953DE/ | This course introduces Reinforcement Learning as a general framework to design such autonomous decision making systems. |
-| Reinforcement learning is supervised learning on optimized data ... | https://bairblog.github.io/2020/10/13/supervised-rl/ | Oct 13, 2020 ... The two most common perspectives on Reinforcement learning (RL) are optimization and dynamic programming. Methods that compute the gradients ... |
-| Going Deeper Into Reinforcement Learning: Fundamentals of Policy ... | https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/ | Mar 27, 2017 ... Policy gradients, which are a popular class of reinforcement learning algorithms which estimate a gradient for a function approximator. |
-| RaMP: Self-Supervised Reinforcement Learning that Transfers ... | https://buoyancy99.github.io/ramp-rl/ | RaMP is a self-supervised reinforcement learning algorithm that pre-training on exploration trajectories without (or with unknown) reward. |
-| SERL: A Software Suite for Sample-Efficient Robotic Reinforcement ... | https://serl-robot.github.io/ | SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning. |
-| Exploration Strategies in Deep Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2020-06-07-exploration-drl/ | Jun 7, 2020 ... ... Reinforcement Learning. We'd like the RL agent to find the best solution as fast as possible. However, in the meantime, committing to ... |
-| Introduction to Reinforcement Learning \| A course on reinforcement ... | https://amfarahmand.github.io/IntroRL/ | This is an introductory course on reinforcement learning (RL) and sequential decision-making under uncertainty with an emphasis on understanding the ... |
-| QwQ-32B: Embracing the Power of Reinforcement Learning \| Qwen | https://qwenlm.github.io/blog/qwq-32b/ | Mar 6, 2025 ... QWEN CHAT Hugging Face ModelScope DEMO DISCORD Scaling Reinforcement Learning (RL) has the potential to enhance model performance beyond ... |
-| Solving the Traveling Salesman Problem with Reinforcement Learning | https://ekimetrics.github.io/blog/2021/11/03/tsp/ | Nov 3, 2021 ... A practical use of Reinforcement Learning and the Q-Learning algorithm to solve the Traveling Salesman Problem. |
-| Visual Reinforcement Learning with Imagined Goals – The Berkeley ... | https://bairblog.github.io/2018/09/06/rig/ | Sep 6, 2018 ... However, the typical reinforcement learning paradigm involves training an agent to solve an individual task with a manually designed reward. For ... |
-| Selecting CPU and GPU for a Reinforcement Learning Workstation ... | https://deeepwin.github.io/experience/hardware/2021/05/11/selecting-cpu-and-gpu.html | May 11, 2021 ... Number of CPU cores matter the most in reinforcement learning. As more cores you have as better. Use a GPU with a lot of memory. 11GB is minimum ... |
-| AI Ethics: Inverse Reinforcement Learning to the Rescue? - Daniel ... | https://dkasenberg.github.io/inverse-reinforcement-learning-rescue/ | Aug 4, 2025 ... This post is about inverse reinforcement learning (IRL), a machine learning technique that has been proposed as a way of accomplishing this. |
-| Risk-Constrained Reinforcement Learning with Percentile Risk Criteria | https://stanfordasl.github.io/wp-content/papercite-data/pdf/Chow.Ghavamzadeh.Janson.Pavone.JMLR18.pdf | Keywords: Markov Decision Process, Reinforcement Learning, Conditional Value-at-Risk, Chance-. Constrained Optimization, Policy Gradient Algorithms, Actor ... |
-| Reinforcement Learning | https://mlu-explain.github.io/reinforcement-learning/ | Reinforcement learning (RL) is an area of machine learning that focuses on how learning from interacting with an environment can occur effectively for ... |
-| Reinforcement Learning — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/index.html | Isaac Lab supports multiple reinforcement learning frameworks. In this section, we show existing scripts for running reinforcement learning with supported RL ... |
-| Model-Based Reinforcement Learning:Theory and Practice – The ... | https://bairblog.github.io/2019/12/12/mbpo/ | Dec 12, 2019 ... Reinforcement learning systems can make decisions in one of two ways. In the model-based approach, a system uses a predictive model of the ... |
-| Data-Driven Deep Reinforcement Learning – The Berkeley Artificial ... | https://bairblog.github.io/2019/12/05/bear/ | Dec 5, 2019 ... A data-driven paradigm for reinforcement learning will enable us to pre-train and deploy agents capable of sample-efficient learning in the real-world. |
-| Meta Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2019-06-23-meta-rl/ | Meta Reinforcement Learning. Date: June 23, 2019 \| Estimated Reading Time: 22 min \| Author: Lilian Weng. Table of Contents. On the Origin of Meta-RL. |
-| Contents — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/index.html | Single-agent Reinforcement Learning. Markov Decision Processes · Value-based methods · Policy-based methods · Modelling and abstraction for MDPs. |
-| HIL-SERL: Precise and Dexterous Robotic Manipulation via Human ... | https://hil-serl.github.io/ | HIL-SERL: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning. |
-| Reinforcement-Learning \| Lil'Log | https://lilianweng.github.io/tags/reinforcement-learning/ | Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely ... |
-| UTK ECE 414/517: Reinforcement Learning (Fall 2024) | https://lnnx2006.github.io/teaching/ece517_fall24/index.html | This course offers a comprehensive introduction to reinforcement learning, a type of machine learning where agents learn to make decisions by interacting with ... |
-| Visual Model-Based Reinforcement Learning as a Path towards ... | https://bairblog.github.io/2018/11/30/visual-rl/ | Nov 30, 2018 ... Visual Model-Based Reinforcement Learning as a Path towards Generalist Robots. Chelsea Finn^*, Frederik Ebert^*, Sudeep Dasari, Annie Xie, Alex ... |
-| ARLET | https://arlet-workshop.github.io/ | Aligning Reinforcement Learning Experimentalists and Theorists. Workshop at the Conference on Neural Information Processing Systems, date to be defined. San ... |
-| Theoretical Foundations of Reinforcement Learning Workshop | https://wensun.github.io/rl_theory_workshop_2020_ICML.github.io/ | As part of the ICML 2020 conference, this workshop will be held virtually. It will feature keynote talks from six reinforcement learning experts tackling ... |
-| Reinforcement Learning Scripts — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_existing_scripts.html | Reinforcement Learning Scripts#. We provide wrappers to different reinforcement libraries. These wrappers convert the data from the environments into the ... |
-| Decentralized Reinforcement Learning:Global Decision-Making ... | https://bairblog.github.io/2020/07/11/auction/ | Decentralized Reinforcement Learning: Global Decision-Making via. Local Economic Transactions. Michael Chang and Sidhant Kaushik Jul 11, 2020. |
-| Learning to Optimize with Reinforcement Learning – The Berkeley ... | https://bairblog.github.io/2017/09/12/learning-to-optimize-with-rl/ | Sep 12, 2017 ... Crucially, the reinforcement learning algorithm does not have direct access to this state transition probability distribution, and therefore the ... |
-| Reinforcement Learning: Theory and Algorithms | https://rltheorybook.github.io/rltheorybook_AJKS.pdf | In reinforcement learning, the interactions between the agent and the environment are often described by an infinite- horizon, discounted Markov Decision ... |
-| RL4AA Collaboration \| Homepage | https://rl4aa.github.io/ | Reinforcement Learning for Autonomous Accelerator Collaboration - https://github.com/RL4AA. |
-| Steering Your Diffusion Policy with Latent Space Reinforcement ... | https://diffusion-steering.github.io/ | We propose DSRL: steering diffusion policies to desired behaviors by running reinforcement learning over their latent-noise space. |
-| Sutton and Barto's Reinforcement Learning Textbook | https://danieltakeshi.github.io/2019/08/18/rl-00/ | Aug 18, 2019 ... Sutton and Barto's book is the standard textbook in reinforcement learning, and for good reason. It is relatively easy to read, and provides sufficient ... |
-| Beyond Tabula Rasa: Reincarnating Reinforcement Learning | https://agarwl.github.io/reincarnating_rl/ | Reincarnating Reinforcement Learning: Reusing Prior Computation to Accelerate Progress. Neural Information Processing Systems (NeurIPS) 2022. Oral at ICML ... |
-| Review of Deep Reinforcement Learning (CS 294-112) at Berkeley | https://danieltakeshi.github.io/2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/ | Review of Deep Reinforcement Learning (CS 294-112) at Berkeley. Dec 17, 2015 • Daniel Seita. Update October 31, 2016: I received an announcement that CS ... |
-| Reward shaping — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/single-agent/reward-shaping.html | We can modify our reinforcement learning algorithm slightly to give the algorithm some information to help, while also guaranteeing optimality. This information ... |
-| DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep ... | https://xbpeng.github.io/projects/DeepLoco/index.html | DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep Reinforcement Learning. Transactions on Graphics (Proc. ACM SIGGRAPH 2017) |
-| MAPLE: Augmenting Reinforcement Learning with Behavior ... | https://ut-austin-rpl.github.io/maple/ | While deep reinforcement learning methods have recently emerged as a promising paradigm for automating manipulation behaviors, they usually fall short in long- ... |
-| Combining Imitation Learning and Reinforcement Learning Using ... | https://danieltakeshi.github.io/2019/04/30/il-and-rl/ | Apr 30, 2019 ... Imitation Learning (IL) and Reinforcement Learning (RL) are often introduced assimilar, but separate problems. Imitation learning involves a ... |
-| I trained an A.I. to beat Minesweeper.. without teaching it any rules ... | https://sdlee94.github.io/Minesweeper-AI-Reinforcement-Learning/ | Reinforcement Learning (RL) is an area of machine learning that aims to train a computer to accomplish a task. The following are the key components of RL: The ... |
-| Learning Diverse Skills via Maximum Entropy Deep Reinforcement ... | https://bairblog.github.io/2017/10/06/soft-q-learning/ | Oct 6, 2017 ... Deep reinforcement learning (deep RL) has achieved success in many tasks, such as playing video games from raw pixels (Mnih et al., 2015), ... |
-| Preserving and Combining Knowledge in Robotic Lifelong ... | https://ghiara.github.io/LEGION/ | Our study introduces a robotic lifelong reinforcement learning framework that addresses this gap by incorporating a non-parametric Bayesian model into the ... |
-| NeurIPS 2019 Optimization Foundations of Reinforcement Learning ... | https://optrl2019.github.io/ | Dynamic programming (DP) based algorithms, which apply various forms of the Bellman operator, dominate the literature on model-free reinforcement learning (RL). |
-| SFV: Reinforcement Learning of Physical Skills from Videos | https://xbpeng.github.io/projects/SFV/index.html | SFV: Reinforcement Learning of Physical Skills from Videos. Transactions on Graphics (Proc. ACM SIGGRAPH Asia 2018) Xue Bin Peng Angjoo Kanazawa Jitendra ... |
-| Pablo Samuel Castro | https://psc-g.github.io/ | I have worked at Google since 2012, and am currently a staff research scientist in Google DeepMind in Montreal, focusing on fundamental Reinforcement Learning ... |
-| Contrastive Learning As a Reinforcement Learning Algorithm ... | https://ben-eysenbach.github.io/contrastive_rl/ | tldr: Representation learning is an integral part of successful reinforcement learning (RL) algorithms, and most prior methods treat representation learning ... |
-| Information Theoretic MPC for Model-Based Reinforcement Learning | https://nolanwagener.github.io/media/mppi/paper.pdf | The types of reinforcement learning problems encountered in robotic tasks are frequently in the continuous state-action space and high dimensional [1]. The ... |
-| An Object-Oriented Representation for Efficient Reinforcement ... | https://carlosdiuk.github.io/papers/OORL.pdf | Rich representations in reinforcement learning have been studied for the purpose of enabling generalization and making learning feasible in. |
-| Reinforcement Learning Coach | https://intellabs.github.io/coach/ | Reinforcement Learning Coach¶. Coach is a python framework which models the interaction between an agent and an environment in a modular way. |
-| A Brief Introduction to Reinforcement Learning – Emma Benjaminson | https://sassafras13.github.io/RL/ | Dec 9, 2019 ... Reinforcement learning is a subcategory of machine learning. It uses a combination of rewards and penalties to make the computer solve a problem ... |
-| Deep Decision Making and Reinforcement Learning | https://nyu-robot-learning.github.io/deep-decision-making-2024/ | Deep Decision Making and Reinforcement Learning. CSCI-GA 3033, Spring ... Reinforcement Learning (RL). Applications across industries such as gaming ... |
-| Deep Reinforcement Learning & Control | https://cmudeeprl.github.io/403website_s22/ | This course brings together many disciplines of Artificial Intelligence (including computer vision, robot control, reinforcement learning, language ... |
-| d1: Scaling Reasoning in Diffusion Large Language Models via ... | https://dllm-reasoning.github.io/ | Recent large language models (LLMs) have demonstrated strong reasoning capabilities that benefit from online reinforcement learning (RL). These capabilities ... |
-| n-step reinforcement learning — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/single-agent/n-step.html | In the previous sections on of this chapter, we looked at two fundamental temporal difference (TD) methods for reinforcement learning: Q-learning and SARSA. |
-| REINFORCEMENT LEARNING WITH UNKNOWN REWARD ... | https://tarl2019.github.io/assets/papers/eysenbach2019reinforcement.pdf | In practical reinforcement learning (RL) scenarios, algorithm designers might ex- press uncertainty over which reward function best captures real-world ... |
-| Rliable: Better Evaluation for Reinforcement Learning - A Visual ... | https://araffin.github.io/post/rliable/ | Oct 29, 2021 ... It is critical for Reinforcement Learning (RL) practitioners to properly evaluate and compare results. Reporting results with poor ... |
-| Policy and Value Transfer in Lifelong Reinforcement Learning | https://jinnaiyuu.github.io/pdf/papers/ICML-18.pdf | The lifelong reinforcement learning (RL) setting formalizes the problem of building agents that must solve a series of related tasks drawn from a task ... |
-| CS 224R Deep Reinforcement Learning | http://cs224r.github.io/ | This course is about algorithms for deep reinforcement learning – methods for learning behavior from experience, with a focus on practical algorithms. |
-| PRL Workshop Series \| Bridging the Gap Between AI Planning and ... | https://prl-theworkshop.github.io/ | Bridging the Gap Between AI Planning and Reinforcement Learning. |
-| DPOK: Reinforcement Learning for Fine-tuning Text-to-Image ... | https://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf | diffusion models with reinforcement learning. arXiv preprint arXiv:2305.13301, 2023. 3, 18. [3] Chi, Cheng, Feng, Siyuan, Du, Yilun, Xu, Zhenjia, Cousineau ... |
-| Training Diffusion Models with Reinforcement Learning | https://rl-diffusion.github.io/ | We train diffusion models directly on downstream objectives using reinforcement learning (RL). We do this by posing denoising diffusion as a multi-step ... |
-| PYSE: Automatic Worst-Case Test Generation by Reinforcement ... | https://helix979.github.io/jkoo/pdf/[ICST19]%20PYSE%20Automatic%20Worst-Case%20Test%20Generation%20by%20Reinforcement%20Learning.pdf | Such exploration by random action with probability is called the -greedy strategy in reinforcement learning literature [18]. To get a better understanding ... |
-| NeurIPS 2019 Deep Reinforcement Learning Workshop | https://mishalaskin.github.io/research/2019/11/06/blac.html | About. In recent years, the use of deep neural networks as function approximators has enabled researchers to extend reinforcement learning techniques to solve ... |
-| Shared Autonomy via Deep Reinforcement Learning – The Berkeley ... | https://bairblog.github.io/2018/04/18/shared-autonomy/ | Shared Autonomy via Deep Reinforcement Learning. Siddharth Reddy Apr 18, 2018. A blind, autonomous pilot (left), suboptimal human pilot (center), ... |
-| RLDG: Robotic Generalist Policy Distillation via Reinforcement ... | https://generalist-distillation.github.io/ | Train specialist policies on narrowly scoped tasks using online Reinforcement Learning. This could look like training a separate policy for each type of ... |
-| Dissecting Reinforcement Learning-Part.1 | https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html | Dec 9, 2016 ... This post is an introduction to reinforcement learning and it is meant to be the starting point for a reader who already has some machine learning background. |
-| Learning to play Yahtzee with Advantage Actor-Critic (A2C ... | https://dionhaefner.github.io/2021/04/yahtzotron-learning-to-play-yahtzee-with-advantage-actor-critic/ | Apr 1, 2021 ... I wanted to build a bot that could learn to play Yahtzee close to perfection through self-play (via reinforcement learning, RL). |
-| Asynchronous Methods for Deep Reinforcement Learning | https://readingxtra.github.io/docs/ml-gpu/mniha-drl-icml16.pdf | We present asynchronous variants of four standard reinforcement learning algorithms and show that parallel actor-learners have a stabilizing effect on training ... |
-| Grounded Reinforcement Learning for Visual Reasoning | https://visually-grounded-rl.github.io/ | We introduce ViGoRL (Visually Grounded Reinforcement Learning), a vision-language model trained with RL to explicitly anchor each reasoning step to specific ... |
-| CS 6789 Foundations of RL | https://wensun.github.io/CS6789.html | This graduate level course focuses on theoretical and algorithmic foundations of Reinforcement Learning. The four main themes of the course are (1) provably ... |
-| Reinforcement Learning - Sutton (Book Notes) | https://strikingloo.github.io/wiki/reinforcement-learning-sutton | Jul 10, 2022 ... 81…etc. The algorithms presented for tabular Reinforcement Learning all fall into the GPI (generalized policy iteration) paradigm: they estimate ... |
-| A Bag of Tricks for Deep Reinforcement Learning \| Jeremiah Coholich | https://jmcoholich.github.io/post/rl_bag_of_tricks/ | Sep 17, 2022 ... When I first started studying reinforcement learning (RL), I implemented Proximal Policy Optimization (PPO) from scratch using only the ... |
-| Reinforcement Learning as One Big Sequence Modeling Problem | https://trajectory-transformer.github.io/ | We view reinforcement learning as a generic sequence modeling problem and investigate how much of the usual machinery of reinforcement learning algorithms can ... |
-| Reinforcement Learning - AirSim | https://microsoft.github.io/AirSim/reinforcement_learning/ | Reinforcement Learning in AirSim#. We below describe how we can implement DQN in AirSim using an OpenAI gym wrapper around AirSim API, and using stable ... |
-| Accelerating Reinforcement Learning with Learned Skill Priors | https://clvrai.github.io/spirl/ | Intelligent agents rely heavily on prior experience when learning a new task, yet most modern reinforcement learning (RL) approaches learn every task from ... |
-| SFP: State-free Priors for Exploration in Off-Policy Reinforcement ... | https://eth-ait.github.io/sfp/ | Effective exploration is a crucial challenge in deep reinforcement learning. Behavioral priors have been shown to tackle this problem successfully, ... |
-| Teaching AI Agents Ethical Values Using Reinforcement Learning ... | https://krvarshney.github.io/pubs/NoothigattuBMCMVCSR_ijcai2019.pdf | We detail a novel approach that uses inverse reinforcement learning to learn a set of unspecified constraints from demonstra- tions and reinforcement learning ... |
-| Sequence Modeling Solutions for Reinforcement Learning Problems ... | https://bairblog.github.io/2021/11/19/trajectory-transformer/ | Nov 19, 2021 ... The Trajectory Transformer. The standard framing of reinforcement learning focuses on decomposing a complicated long-horizon problem into ... |
-| Diversity-Driven Exploration Strategy for Deep Reinforcement ... | https://williamd4112.github.io/pubs/nips2018_div.pdf | In recent years, deep reinforcement learning (DRL) has attracted attention in a variety of application domains, such as game playing [1, 2] and robot navigation ... |
-| Workshop on Programmatic Reinforcement Learning at RLC 2025 | https://prl-workshop.github.io/ | ... reinforcement learning (RL). By leveraging structured representations, we ... We invite the submission of research papers and position papers on the topic of ... |
-| Reinforcement Learning for Ising Model | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_248.pdf | 3 Reinforcement Learning Algorithm. 3.1 Deterministic REINFORCE Algorithm. REINFORCE is a policy gradient algorithm in reinforcement learning. It directly ... |
-| Regularization in Reinforcement Learning | https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf | Human-level control through deep reinforcement learning. Nature, 2015. Page 12. Theoretical analysis. ○ DQN is a form of approximate ... |
-| CS 4789/5789 Intro to RL | https://wensun.github.io/CS4789.html | This course focuses on basics of Reinforcement Learning. The four main parts of the course are (1) basics of Markov Decision Process, (2) Planning and Control ... |
-| Reverse Curriculum Generation for Reinforcement Learning Agents ... | https://bairblog.github.io/2017/12/20/reverse-curriculum/ | Dec 20, 2017 ... Reinforcement Learning (RL) is a powerful technique capable of solving complex tasks such as locomotion, Atari games, racing games, ... |
-| Review of "Entity Abstraction in Visual Model-Based Reinforcement ... | https://sassafras13.github.io/EntAbs1/ | May 22, 2020 ... Review of "Entity Abstraction in Visual Model-Based Reinforcement Learning". Today I am going to try to tackle a very impressive (and very dense) ... |
-| Learning to Land on Mars with Reinforcement Learning | https://antoinebrl.github.io/blog/rl-mars-lander/ | Feb 6, 2022 ... This is the story of how I landed a rover on Mars using reinforcement learning. CodinGame Mars Lander; Coding the Game. The Interface; Action ... |
-| Random Latent Exploration for Deep Reinforcement Learning | https://srinathm1359.github.io/random-latent-exploration/ | We introduce Random Latent Exploration (RLE), a simple yet effective exploration strategy in reinforcement learning (RL). |
-| Three Dogmas of Reinforcement Learning | https://david-abel.github.io/tdorl.pdf | First, reinforcement learning (RL) is a good candidate for a complete paradigm for the science of intelligent agents, precisely because "it explicitly considers. |
-| TDM: From Model-Free to Model-Based Deep Reinforcement Learning | https://bairblog.github.io/2018/04/26/tdm/ | TDM: From Model-Free to Model-Based Deep Reinforcement Learning. Vitchyr Pong Apr 26, 2018. You've decided that you want to bike from your house by UC ... |
-| RUDDER - Reinforcement Learning with Delayed Rewards \| rudder | https://ml-jku.github.io/rudder/ | Recently, tasks with delayed rewards that required model-free reinforcement learning attracted a lot of attention via complex strategy games. For example ... |
-| Reinforcement Learning Library Comparison — Isaac Lab ... | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_frameworks.html | In this section, we provide an overview of the supported reinforcement learning libraries in Isaac Lab, along with performance benchmarks across the libraries. |
-| Alibaba HPN: A Data Center Network for Large Language Model ... | https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf | Network Architecture, AI Infrastructure, Large Language Model,. Model Training, Data Center Networks. ACM Reference Format: Kun Qian, Yongqing Xi, Jiamin Cao, ... |
-| Large Language Model tools for R | https://luisdva.github.io/llmsr-book/ | Large Language Model tools for R. Author. Luis D. Verde Arregoitia. Published. October 13, 2025. Esta guía está disponible en español Leer en español |
-| VideoAgent: Long-form Video Understanding with Large Language ... | https://wxh1996.github.io/VideoAgent-Website/ | VideoAgent employs a large language model as an agent to mirror the human cognitive process for understanding long-form videos. |
-| Language Models are Unsupervised Multitask Learners \| OpenAI | https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf | When a large language model is trained on a sufficiently large and diverse dataset it is able to perform well across many domains and datasets. GPT-2 zero ... |
-| LLM Systems \| Large Language Model Systems | https://llmsystem.github.io/llmsystem2025spring/ | Large Language Model Systems. CMU 11868, Spring 2025. Course Description. Recent progress of Artificial Intelligence has been largely driven by advances in ... |
-| Gorilla | https://shishirpatil.github.io/gorilla/ | Gorilla: Large Language Model Connected with Massive APIs · Systems and Algorithms for Integrating LLMs with Applications, Tools, and Services · Gorilla Used at. |
-| LLaVA | https://llava-vl.github.io/ | LLaVA: Large Language-and-Vision Assistant. LLaVa connects pre-trained CLIP ViT-L/14 visual encoder and large language model Vicuna, using a simple ... |
-| CMU Large Language Model System Course \| llmsystem | https://llmsystem.github.io/ | llmsystem. CMU Large Language Model System Course. 11868 LLM System 2024 Spring · 11868 LLM System 2025 Spring. |
-| Robots That Ask For Help: Uncertainty Alignment for Large ... | https://robot-help.github.io/ | Jul 6, 2023 ... Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners. |
-| A Large Language Model Walks Into an Archive... \| Cameron Blevins | https://cblevins.github.io/posts/llm-primary-sources/ | Oct 25, 2024 ... Document transcription is exactly the sort of time-consuming, boring task we would want to hand off to a Large Language Model. But can it ... |
-| CoLLM: A Large Language Model for Composed Image Retrieval | https://collm-cvpr25.github.io/ | CoLLM: A Large Language Model for Composed Image Retrieval. Accepted to CVPR 2025. |
-| TypeFly: Flying Drones with Large Language Model | https://typefly.github.io/ | BibTeX. @misc{chen2023typefly, author = {Guojun Chen and Xiaojing Yu and Lin Zhong}, title = {TypeFly: Flying Drones with Large Language Model}, booktitle ... |
-| Watermarking for Large Language Model | https://leililab.github.io/llm_watermark_tutorial/ | Tutorials of ACL, ADL, NeurIPS 2024. Watermarking for Large Language Model. Xuandong Zhao. UC Berkeley. |
-| Controlling Robots using a Large Language Model \| Mike Likes ... | https://mikelikesrobots.github.io/blog/llm-robot-control/ | Aug 14, 2025 ... This post demonstrates how a robot can be controlled through natural language by using a large language model (LLM). By supplementing Claude ... |
-| Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi ... | https://synbol.github.io/Lumina-DiMOO/ | Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding. |
-| Learning to Select In-Context Demonstration Preferred by Large ... | https://foundation-model-research.github.io/GenICL/ | ... Large Language Model}, booktitle = {Findings of the Association for Computational Linguistics: ACL 2025}, year = {2025}, }. This website is licensed under a ... |
-| Large Language Model for E-Commerce Workshop - Large ... | https://llm4ecommerce.github.io/ | Large Language Model for E-Commerce Workshop. Join us at WWW'25 to explore how Large Language Models are advancing e-commerce research and applications. |
-| MOSS: An Open Conversational Large Language Model | https://xpqiu.github.io/pdf/MOSS.pdf | CodeGen: An open large language model for code with multi-turn program synthesis. In Proceedings of the 11th International Confer- ence on Learning ... |
-| PaLM-E: An Embodied Multimodal Language Model | https://palm-e.github.io/ | We train these encodings end-to-end, in conjunction with a pre-trained large language model, for multiple embodied tasks, including sequential robotic ... |
-| CSE 5610: Large Language Models (2025 Fall) - Jiaxin Huang | https://teapot123.github.io/CSE561A_2025fl/ | ... Large Language Model capabilities, applications and issues. Please be aware that this is a fast-paced, research-driven course, not an introductory course to ... |
-| LLMR: Real-time Prompting of Interactive Worlds using Large ... | https://llm4mr.github.io/ | We present Large Language Model for Mixed Reality (LLMR), a framework for the real-time creation and modification of interactive Mixed Reality experiences ... |
-| Planting a SEED of Vision in Large Language Model | https://ailab-cvc.github.io/seed/seed.html | Text-to-image generation. Citation. @article{ge2023planting, title={Planting a seed of vision in large language model}, author={ ... |
-| Arcana: Improving Multi-modal Large Language Model through ... | https://arcana-project-page.github.io/ | Arcana: Improving Multi-modal Large Language Model through Boosting Vision Capabilities · Motivation · Sampled some VQA examples involving color, quantity, small ... |
-| The Mutators Reloaded: Fuzzing Compilers with Large Language ... | https://connglli.github.io/pdfs/metamut_asplos24.pdf | It integrates our compiler- domain knowledge into prompts and processes that can best harness the capabilities of a large language model. With. MetaMut, we ... |
-| LLMSC: Home | https://llmsc.github.io/ | The 2nd International Workshop on Large Language Model Supply Chain Analysis (LLMSC 2026). July 5, 2026, Montreal, Canada, Co-located with FSE'26 (Tentative) ... |
-| NeurIPS Large Language Model Efficiency Challenge:1 LLM + ... | https://llm-efficiency-challenge.github.io/ | NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day. NeurIPS 2023 Challenge. Home Challenge Rules Timeline Prizes Starter Kit Feedback ... |
-| Report on the 1st Workshop on Large Language Model for ... | https://bhaskar-mitra.github.io/files/p12.pdf | Abstract. The first edition of the workshop on Large Language Model for Evaluation in Information. Retrieval (LLM4Eval 2024) took place in July 2024, ... |
-| Large Language Model (LLM) \| Learn how to interact with OpenAI ... | https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/llms/ | A large language model (LLM) is a type of AI that can process and produce natural language text. It learns from a massive amount of text data such as books, ... |
-| LLM-Reasoning-Stanford-CS-25.pdf | https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf | Universal Self-Consistency for Large Language Model Generation. arXiv:2311.17311 [cs.CL], 2023. Page 42. [Question] Where do people drink less coffee than ... |
-| Language-Model \| Lil'Log | https://lilianweng.github.io/tags/language-model/ | Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, GPT-Engineer and ... |
-| Flextron: Many-in-One Flexible Large Language Model | https://cairuisi.github.io/Flextron/ | BibTeX. @inproceedings{ cai2024flextron, title={Flextron: Many-in-One Flexible Large Language Model}, author={Ruisi Cai and Saurav Muralidharan and Greg ... |
-| Large Language Model Guided Deep Reinforcement Learning for ... | https://bitmobility.github.io/LGDRL/ | Large Language Model Guided Deep Reinforcement Learning for Safe Decision Making in Autonomous Driving. Hao Pang1, Zhenpo Wang1, Guoqiang Li1,,. 1 School of ... |
-| MASTERKEY: Automated Jailbreaking of Large Language Model ... | https://neuzhangy.github.io/assets/2024-188-paper_masterkey--R0vpGNJ.pdf | lenge in ensuring the secure and ethical usage of LLMs [31]. Jailbreaking, in this context, refers to the strategic manipu- lation of input prompts to LLMs, ... |
-| Large Language Model Conversations \| Thomas Finley | https://tomfinley.github.io/llm/ | Large Language Model Conversations. Like many, I find large language models fascinating. I decided to make a small section devoted to copies of ... |
-| LLM-UM: The 1 st Workshop on Large Language Model Using Multi ... | https://zhicheng-lu.github.io/LLM-UM/ | LLM-UM: The 1st Workshop on Large Language Model Using Multi-modal Data for User Modeling. This workshop is a part of the 2025 ACM Web Conference. Web-based ... |
-| SegPoint: Segment Any Point Cloud via Large Language Model | https://heshuting555.github.io/SegPoint/ | Jul 17, 2024 ... In this work, we propose a model, called SegPoint, that leverages the reasoning capabilities of a multi-modal Large Language Model (LLM) to ... |
-| LLM-A*: Large Language Model Enhanced Incremental Heuristic ... | https://silinmeng0510.github.io/llm-astar/ | LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning. Silin Meng, Yiwei Wang, Cheng-Fu Yang, Nanyun Peng, Kai-Wei Chang. |
-| Vaccine: Perturbation-aware Alignment for Large Language Model | https://huangtiansheng.github.io/Vaccine_gh_page/ | Citation. @article{huang2024vaccine, title={Vaccine: Perturbation-aware alignment for large language model}, author={Huang, Tiansheng and Hu, Sihao and Liu ... |
-| Inspect | https://ukgovernmentbeis.github.io/inspect_ai/ | Welcome to Inspect, a framework for large language model evaluations created by the UK AI Security Institute. Inspect can be used for a broad range of ... |
-| Reasoning Grasping via Multimodal Large Language Model | https://reasoning-grasping.github.io/ | To accomplish this, we propose an end-to-end reasoning grasping model that integrates a multimodal Large Language Model (LLM) with a vision-based robotic ... |
-| VisionLLM v2: An End-to-End Generalist Multimodal Large ... | https://wjn922.github.io/visionllmv2.github.io/ | VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks. Jiannan Wu*2,1, Muyan Zhong*3, Sen Xing*3 ... |
-| CAM: A Large Language Model-based Creative Analogy Mining ... | https://bhaavya.github.io/files/www23.pdf | Oct 3, 2023 ... CAM: A Large Language Model-based Creative Analogy Mining Framework. In. Proceedings of the ACM Web Conference 2023 (WWW '23), April 30--May ... |
-| EgoPlan-Bench2: A Benchmark for Multimodal Large Language ... | https://qiulu66.github.io/egoplanbench2/ | EgoPlan-Bench2: A Benchmark for Multimodal Large Language Model Planning in Real-World Scenarios ; Lu Qiu ·, ; Yi Chen ·, ; Yuying Ge ·, ; Yixiao Ge ·, ; Ying Shan ... |
-| Generative AI with LLMs Week 1 quiz · Clare S. Y. Huang | https://csyhuang.github.io/coursenotes/2023-06-29-coursera-generative-ai-llms-quiz-1.html | Jun 29, 2023 ... Working with LLMs involves natural language input, known as a __, resulting in output from the Large Language Model, known as the ___ . |
-| 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied ... | https://3dllm-mem.github.io/ | 3DLLM-Mem. Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model ... Large Language Model}, author={Wenbo Hu and Yining Hong and Yanjun Wang and ... |
-| Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM ... | https://clvrai.github.io/boss/ | ... Large Language Model (LLM) supervision. Bootstrap Your Own Skills (BOSS) Method. BOSS automatically learns to solve new long horizon, complex tasks in new ... |
-| Tools for Large Language Model Agents | https://leehanchung.github.io/blogs/2024/05/09/tools-for-llms/ | May 9, 2024 ... Now we have some brief history of LLM agents tool use in academia, we can turn our attention to how the leading large language model developers ... |
-| VideoLLM-online: Online Large Language Model for Streaming Video | https://showlab.github.io/videollm-online/ | VideoLLM-online: Online Large Language Model for Streaming Video · TLDR: The first streaming video LLM, high speed (5~10 FPS on RTX 3090 GPU, 10~15 FPS on A100 ... |
-| Efficient Memory Management for Large Language Model Serving ... | https://minjiazhang.github.io/courses/sp24-resource/vLLM-pre.pdf | Feb 15, 2024 ... LLMs run on high-end GPUs such as NVIDIA A100. • Each GPU can only serve a handful of requests per second. • For LLaMA-13B and moderate-size ... |
-| RaDialog: A Large Vision-Language Model for Radiology Report ... | https://chantalmp.github.io/RaDialog/ | ... large language model to enable conversational downstream tasks. Additionally, the LLM is adapted using parameter-efficient fine-tuning for teaching image ... |
-| Gorilla: Large Language Model Connected with Massive APIs | https://shishirpatil.github.io/publications/gorilla-2023.pdf | May 24, 2023 ... Codegen: An open large language model for code with multi-turn program synthesis. arXiv preprint arXiv:2203.13474. [29] OpenAI (2023). Gpt-4 ... |
-| Intent-Driven Mobile GUI Testing with Autonomous Large Language ... | https://coinse.github.io/publications/pdfs/Yoon2024aa.pdf | Autonomous Large Language Model Agents ... Feldt, “Improving web element localization by using a large language model,” arXiv preprint arXiv:2310.02046,. 2023. |
-| SpatialLM | https://manycore-research.github.io/SpatialLM/ | SpatialLM is a 3D large language model designed to process 3D point cloud data and generate structured 3D scene understanding outputs. |
-| Toward Efficient Exploration by Large Language Model Agents | https://dilipa.github.io/papers/psrl_llms.pdf | Cog-. Bench: A Large Language Model Walks into a Psychol- ogy Lab. In Forty-first International Conference on Ma- chine Learning, 2024. Cover, T. M. and ... |
-| Chat with NeRF | https://chat-with-nerf.github.io/ | LLM-Grounder. Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent. ICRA 2024. Jianing (Jed) Yang*,1, Xuweiyi Chen*,1, Shengyi Qian1, ... |
-| Introduction - The Large Language Model Playbook | https://cyrilzakka.github.io/llm-playbook/ | The Large Language Model Playbook. Introduction. What is the LLM Playbook? Given the explosive growth and diverse range of methodologies in the field of large ... |
-| L2MAC: Large Language Model Automatic Computer for Extensive ... | https://samholt.github.io/publication/large_language_model_automatic_computer/ | L2MAC: Large Language Model Automatic Computer for Extensive Code Generation ... Large Language Model LLM Memory-Augmented Memory-Augmented Language Model ... |
-| Can Large Language Models Design CSS? - Experiments with Claude | https://strikingloo.github.io/llm-css-design | Apr 3, 2024 ... I prompt Claude, a Large Language Model, to write CSS templates, and try them out in a single HTML layout, giving my opinions. |
-| Characterization of Large Language Model Development in the ... | https://tianweiz07.github.io/Papers/24-nsdi.pdf | SFT: Supervised Fine-Tuning for model alignment. MLLM: Multimodal Large Language Model. Other: Unclassified jobs. Eval Pretrain SFT MLLM Debug Other. (a) ... |
-| Dream 7B \| HKU NLP Group | https://hkunlp.github.io/blog/2025/dream/ | Apr 2, 2025 ... ... large language model to date. In short, Dream 7B: consistently outperforms existing diffusion language models by a large margin;; matches or ... |
-| A Reward Analysis of Reinforcement Learning from Large ... | https://rlbrew-workshop.github.io/papers/39_a_reward_analysis_of_reinforce.pdf | In this paper, we study the advantages and limita- tions of reinforcement learning from large language model feedback and propose a simple yet effective ... |
-| ALISA: Accelerating Large Language Model Inference via Sparsity ... | https://kennethzhao24.github.io/images/isca_presentation_final.pdf | “Efficient memory management for large language model serving with pagedattention,” SOSP,. 2023. [5] N. Kitaev , et al. “Reformer: The efficient transformer ... |
-| Zhenhua Xu | https://tonyxuqaq.github.io/ | DriveGPT4-V2: Harnessing Large Language Model Capabilities for Enhanced Closed-Loop Autonomous Driving. Zhenhua Xu , Yan Bai , Yujia Zhang , and 5 more ... |
-| Pimba: A Processing-in-Memory Acceleration for Post-Transformer ... | https://jinuhwang.github.io/papers/2025-micro-pimba.pdf | Jul 14, 2025 ... A Quantitative Analysis of State. Space Model-Based Large Language Model: Study of Hungry Hungry Hippos. IEEE Computer Architecture Letters 01 ( ... |
-| PowerInfer: Fast Large Language Model Serving with a Consumer ... | https://adsl-rg.github.io/slides/241210-PowerInfer.pdf | PowerInfer: Fast Large Language Model Serving with a. Consumer-grade GPU. Group: Haiquan Wang, Jiaqi Ruan and Jia He. 2024-12-10. Page 2. 2. 2. ❑Background. |
-| LLM-GEm: Large Language Model-Guided Prediction of People's ... | https://hasan-rakibul.github.io/pdfs/hasan2024LLM-GEm.pdf | Mar 22, 2024 ... LLM-GEm: Large Language Model-Guided Prediction of People's. Empathy Levels towards Newspaper Article. Md Rakibul Hasan1. Md Zakir Hossain1. Tom ... |
-| ChatBridge: Bridging Modalities with Large Language Model as a ... | https://iva-chatbridge.github.io/ | ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst. Zijia Zhao1, Longteng Guo2, Tongtian Yue1, Sihan Chen1, Shuai Shao2, Xinxin ... |
-| Chapter 17 Large Language Model APIs \| APIs for social scientists ... | https://paulcbauer.github.io/apis_for_social_scientists_a_review/large-language-model-apis.html | Chapter 17 Large Language Model APIs. Felix Rusche. This chapter provides an introduction to APIs for Large Language Models (LLMs). |
-| Large Language Model Powered Agents for Information Retrieval | https://llmagenttutorial.github.io/sigir2024 | Jul 14, 2024 ... SIGIR 2024 Tutorial: Large Language Model Powered Agents for Information Retrieval · About this tutorial · Schedule [Abstract] · BibTeX. |
-| RAG-Driver: Generalisable Driving Explanations with Retrieval ... | https://yuanjianhao508.github.io/RAG-Driver/ | RAG-Driver is a Multi-Modal Large Language Model with Retrieval-augmented In-context Learning capacity designed for generalisable and explainable end-to-end ... |
-| Edge-Device Large Language Model Competition | https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/ | Edge-Device Large Language Model Competition. NeurIPS 2024 Challenge. Home Challenge Rules Timeline Workshop Prizes Starting Kit Registration Feedback ... |
-| Schedule \| NeurIPS Large Language Model Efficiency Challenge:1 ... | https://llm-efficiency-challenge.github.io/schedule.html | NeurIPS Large Language Model Efficiency Challenge: 1 LLM + 1GPU + 1Day. NeurIPS 2023 Challenge. Home Challenge Rules Timeline Prizes Starter Kit Feedback ... |
-| The Rise and Potential of Large Language Model Based Agents: A ... | https://xuanjing-huang.github.io/files/agent.pdf | Sep 19, 2023 ... Much like humans, the brain serves as the central nucleus of an AI agent, primarily composed of a large language model. Operating mechanism. To ... |
-| AgentGen: Enhancing Planning Abilities for Large Language Model ... | https://agent-gen.github.io/ | AgentGen: Enhancing Planning Abilities for Large Language Model based Agent via Environment and Task Generation. |
-| Visualising large language model ... - Augustas Macijauskas | https://augustasmacijauskas.github.io/personal-website/posts/embedding-visualisation/embedding-visualisation.html | Apr 4, 2024 ... Visualising large language model embeddings. Dimensionality reduction techniques reveal interesting structure in the embeddings learnt by ... |
-| Publications using Large Language Models (LLM) | https://chunyang-chen.github.io/LLMpublications.html | [Arxiv-24] Vision-driven Automated Mobile GUI Testing via Multimodal Large Language Model. Junjie Wang, Yuchao Huang, Chunyang Chen, Zhe Liu, Song Wang, Qing ... |
-| TwIPS: A Large Language Model Powered Texting Application to ... | https://rukhshan23.github.io/twips.pdf | Mar 10, 2023 ... TwIPS: A Large Language Model Powered Texting Application to Simplify Conversational Nuances for Autistic Users ASSETS '24, October 27–30, 2024, ... |
-| DeLLMa: Decision Making Under Uncertainty with Large Language ... | https://dellma.github.io/ | We propose DeLLMa (Decision-making Large Language Model assistant), a framework designed to enhance decision-making accuracy in uncertain environments. |
-| Large Language Model guided Protocol Fuzzing | https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf | Large Language Model guided. Protocol Fuzzing. Ruijie Meng∗, Martin Mirchev ... As a large language model (LLM), we used the gpt-3.5- turbo model. In ... |
-| Sheared LLaMA: Accelerating Language Model Pre-training via ... | https://xiamengzhou.github.io/sheared-llama/ | Large Language Model Distillation Doesn't Need a Teacher (Jha et al., 2023) shows that the prune and continue pre-training recipe leads is more cost ... |
-| Large Language Models as Generalizable Policies for Embodied ... | https://llm-rl.github.io/ | In this work, we show that LLMs can be adapted for Reinforcement Learning (RL) problems in Embodied AI, using a method called Large LAnguage model Reinforcement ... |
-| LLM Powered Autonomous Agents \| Lil'Log | https://lilianweng.github.io/posts/2023-06-23-agent/ | Jun 23, 2023 ... Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, ... |
-| Large Language Model Powered Symbolic Execution | https://mengrj.github.io/pdfs/autobug-oopsla25.pdf | Large Language Model Powered Symbolic Execution. Proc. ACM. Meas. Anal. Comput. Syst. 9, OOPSLA2, Article 385 (October 2025), 29 pages. https://doi.org ... |
-| Enhancing Multimodal-Input Object Goal Navigation by Leveraging ... | https://sunleyuan.github.io/ObjectNav/ | ... large language model. We utilize the multi-channel Swin-Unet architecture to conduct multi-task learning incorporating with multimodal inputs. The results ... |
-| Large Language Model Powered Agents for Information Retrieval | https://llmagenttutorial.github.io/files/recagent_slides-sigir.pdf | Jul 14, 2024 ... Prospect Personalized Recommendation on Large Language Model-based Agent Platform. Arxiv 2024. Page 24. SMU Classification: Restricted. LLM- ... |
-| SignLLM: Sign Languages Production Large Language Models | https://signllm.github.io/ | In this paper, we propose SignLLM, a multilingual Sign Language Production (SLP) large language model, which includes two novel multilingual SLP modes. |
-| News | https://aml-cityu.github.io/allnews.html | Congratulations to Binhao Wang, Maolin Wang, Zhiqi Li, Tianshuo Wei, and Ruocheng Guo! Aug 2025. Our paper 'Empowering Large Language Model for Sequential ... |
-| LMCanvas: Object-Oriented Interaction to Personalize Large ... | https://kixlab.github.io/website-files/2023/chi2023-workshop-lmcanvas-paper.pdf | and Controllable Human-AI Interaction by Chaining Large Language Model. Prompts. CoRR abs/2110.01691 (2021). arXiv:2110.01691 https://arxiv.org/abs ... |
-| Towards Effective and Efficient Evaluation of Large Language ... | https://godxuxilie.github.io/file/talk/ncript_technical_workshop_19_Apr_PromptAttack.pdf | Apr 19, 2024 ... Large Language Model's Adversarial Robustness. 2. N-CRiPT Technical Workshop. Page 3. Large Language Model (LLM). 3. LLM can generate new texts ... |
-| GoLLIE \| Guideline following Large Language Model for Information ... | https://hitz-zentroa.github.io/GoLLIE/ | We present GoLLIE, a Large Language Model trained to follow annotation guidelines. GoLLIE outperforms previous approaches on zero-shot Information Extraction. |
-| DiLu: A Knowledge-Driven Approach to Autonomous Driving with ... | https://pjlab-adg.github.io/DiLu/ | These prompts are then fed into an out-of-the-box Large Language Model (LLM), and the decision decoder make an action by decoding LLM's response. Reasoning ... |
-| Concept Bottleneck Large Language Models | https://lilywenglab.github.io/CB-LLMs/ | We introduce Concept Bottleneck Large Language Model (CB-LLM), a novel framework for building *inherently interpretable* LLMs to ensure saftey, reliability, and ... |
-| MLLM Tutorial | https://mllm2024.github.io/CVPR2024/ | ... large language model as a unified interface for vision-language multi-task learning; Hong, et al., 2023, CogAgent: A Visual Language Model for GUI Agents |
-| The 2nd Workshop on Large Language Models for E-Commerce ... | https://kdd2025llm4ecommerce.github.io/ | Machine Learning Systems for E-Commerce LLM. Learn More · Feed. © 2025 Large Language Model For E-Commerce Workshop. Powered by Jekyll & Minimal Mistakes. |
-| A Survey of Large Language Models for Graphs | https://llm4graph-tutorial.github.io/ | 3.1 Node- level Tokenization. GraphLLM: Boosting graph reasoning ability of large language model · GIT-Mol: A multi-modal large language model for molecular ... |
-| \| Kun Yuan | https://kunyuan827.github.io/llm2024/ | Guest Lecture I: Large language model in mathematical reasoning (Dr. Jihai Zhang, Alibaba DAMO Academcy). Lecture 6: Pretrain and Fine-tune ... |
-| Introduction \| CS324 | https://stanford-cs324.github.io/winter2022/lectures/introduction/ | A single large language model is a jack of all trades (and also master of none). It can perform a wide range of tasks and is capable of emergent behavior ... |
-| LLMGA: Multimodal Large Language Model based Generation ... | https://llmga.github.io/ | In this paper, we introduce a Multimodal Large Language Model-based Generation Assistant (LLMGA), leveraging the vast reservoir of knowledge and proficiency. |
-| WALL-E: Embodied Robotic WAiter Load Lifting with Large ... | https://star-uu-wang.github.io/WALL-E/ | We introduce the WALL-E (Embodied Robotic WAiter load lifting with Large Language model) as an example of this integration. The system utilizes the LLM of ... |
-| Textractor for Large Language Models (LLM) — amazon-textract ... | https://aws-samples.github.io/amazon-textract-textractor/notebooks/textractor_for_large_language_models.html | This example explores how using the various Textract APIs with Textractor to enrich the text given to a large language model. |
-| The Art of Transformer Programming · Yaniv Leviathan | https://yanivle.github.io/ai/2023/08/04/taotp.html | Aug 4, 2023 ... A book with manual implementations of programs on a Transformer computer. |
-| Transformer - pyproj 3.7.2 documentation | https://pyproj4.github.io/pyproj/stable/api/transformer.html | Transformer¶. The pyproj.Transformer has the capabilities of performing 2D, 3D, and 4D (time) transformations. It can do anything that the PROJ command line ... |
-| Transformer Explainer: LLM Transformer Model Visually Explained | https://poloclub.github.io/transformer-explainer/ | An interactive visualization tool showing you how transformer models work in large language models (LLM) like GPT. |
-| Transformer :: Apache Camel | https://jcug-oss.github.io/camel-ja/manual/latest/transformer.html | Transformer (org.apache.camel.spi.Transformer) performs declarative transformation of the message according to the declared Input Type and/or Output Type. |
-| Konva.Transformer \| Konva - JavaScript Canvas 2d Library | https://konvajs.github.io/api/Konva.Transformer.html | Transformer is a special type of group that allow you transform Konva primitives and shapes. Transforming tool is not changing width and height properties of ... |
-| The Illustrated Transformer – Jay Alammar – Visualizing machine ... | https://jalammar.github.io/illustrated-transformer/ | Jun 27, 2018 ... In this post, we will look at The Transformer – a model that uses attention to boost the speed with which these models can be trained. |
-| PDE-Transformer: Efficient and Flexible Network Architecture for ... | https://tum-pbs.github.io/pde-transformer/landing.html | PDE-Transformer: Efficient and Versatile Transformers for Physics Simulations. ICML 2025. Benjamin Holzschuh, Qiang Liu, Georg Kohl, Nils Thuerey. Physics- ... |
-| Galerkin Transformer: A One-Shot Experiment at NeurIPS 2021 - An ... | https://scaomath.github.io/blog/galerkin-transformer/ | Jun 6, 2021 ... The title was pretty catchy, I thought, as searching “Galerkin Transformer” would have the paper's arXiv link on top. As an amateur ... |
-| The Transformer Family \| Lil'Log | https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/ | Apr 7, 2020 ... The vanilla Transformer can be improved for longer-term attention span, less memory and computation consumption, RL task solving and more. |
-| Thinking like Transformer | https://srush.github.io/raspy/ | Transformer models are foundational to AI systems. There are now countless explanations of “how transformers work?” in the sense of the architecture diagram at ... |
-| The Transformer Family Version 2.0 \| Lil'Log | https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/ | Jan 27, 2023 ... Many new Transformer architecture improvements have been proposed since my last post on “The Transformer Family” about three years ago. |
-| ts-transformer \| Format.JS | https://formatjs.github.io/docs/tooling/ts-transformer/ | Oct 20, 2025 ... ts-transformer npm version Process string messages for translation from modules that use react-intl, specifically: |
-| RVT: Robotic View Transformer for 3D Object Manipulation | https://robotic-view-transformer.github.io/ | A multi-view transformer for 3D manipulation that is both scalable and accurate. RVT takes camera images and task language description as inputs and predicts ... |
-| Surgical Robot Transformer | https://surgical-robot-transformer.github.io/ | Surgical Robot Transformer: Imitation Learning for Surgical Tasks. |
-| VGGT: Visual Geometry Grounded Transformer | https://vgg-t.github.io/ | We propose Visual Geometry Grounded Transformer (VGGT), a feed-forward neural network that directly predicts all key 3D scene attributes from single or ... |
-| T4V @ CVPR 2022 - Transformers for Vision | https://transformers4vision.github.io/cvpr22/ | Jun 19, 2022 ... ... Transformer for Vision 33b-82b", which is at the Hall-E lobby. We recommend the authors to put their posters around there so that all are ... |
-| Static Covariates Transformer — darts documentation | https://unit8co.github.io/darts/generated_api/darts.dataprocessing.transformers.static_covariates_transformer.html | transformer_num – The transformer to transform numeric static covariate columns with. It must provide fit() , transform() and inverse_transform() methods. |
-| PerAct | https://peract.github.io/ | PerAct: A Multi-Task Transformer for Robotic Manipulation. |
-| Transformer — pyproj 2.2.0 documentation | https://pyproj4.github.io/pyproj/v2.2.0rel/api/transformer.html | Transformer¶. The pyproj.Transformer has the capabilities of performing 2D, 3D, and 4D (time) transformations. It can do anything that the PROJ command line ... |
-| Transformer Lens Main Demo Notebook - TransformerLens ... | https://transformerlensorg.github.io/TransformerLens/generated/demos/Main_Demo.html | Transformer Lens Main Demo Notebook#. To use this notebook, go to Runtime > Change Runtime Type and select GPU as the hardware accelerator. |
-| Multimodal Diffusion Transformer: Learning Versatile Behavior from ... | https://intuitive-robots.github.io/mdt_policy/ | MDT leverages a diffusion based multimodal transformer backbone and two self-supervised auxiliary objectives to master long-horizon manipulation tasks based on ... |
-| Transformer \| Lil'Log | https://lilianweng.github.io/tags/transformer/ | Transformer. The Transformer Family Version 2.0. Many new Transformer architecture improvements have been proposed since my last post on “The Transformer ... |
-| Evolution of Representations in the Transformer | http://lena-voita.github.io/posts/emnlp19_evolution.html | We train a standard Transformer and then take only it's encoder. In contrast to the other two tasks we describe below, representations from the top layers are ... |
-| How to resize and rotate canvas shapes with React and Konva ... | https://konvajs.github.io/docs/react/Transformer.html | Currently there is no good, pure declarative "react-way" to use the Transformer tool. |
-| Shared functional specialization in transformer-based language ... | https://snastase.github.io/files/Kumar_NatCommun_2024.pdf | Jun 29, 2024 ... ... transformer-based language models provide a good model of human brain activity during natural language comprehension is unclear. Here, the ... |
-| Transformer Model — darts documentation | https://unit8co.github.io/darts/generated_api/darts.models.forecasting.transformer_model.html | Transformer Model¶. class darts.models.forecasting.transformer_model.TransformerModel(input_chunk_length, output_chunk_length, output_chunk_shift=0, ... |
-| Scene Representation Transformer | https://srt-paper.github.io/ | Scene Representation Transformer. Geometry-Free Novel View Synthesis Through Set-Latent Scene Representations. Mehdi S. M.. Sajjadi · Henning Meyer. |
-| The Annotated Transformer | https://princeton-nlp.github.io/cos484/readings/the-annotated-transformer.pdf | Jul 20, 2018 ... To the best of our knowledge, however, the. Transformer is the first transduction model re- lying entirely on self-attention to compute rep ... |
-| LinkTransformer: A Unified Package for Record Linkage with ... | https://econdl.github.io/redirects/publications/linktransformer | Sep 2, 2023 ... By combining transformer language models with intuitive APIs that will be familiar to many users of popular string matching packages, ... |
-| RenderFormer: Transformer-based Neural Rendering of Triangle ... | https://microsoft.github.io/renderformer/ | Simple Transformer Architecture with Minimal Prior Constraints. RenderFormer follows a two stage pipeline: a view-independent stage that models triangle-to ... |
-| Swin Transformer | https://amaarora.github.io/posts/2022-07-04-swintransformerv1.html | Jul 4, 2022 ... Swin Transformer Model Architecture explained with PyTorch implementation line-by-line. Computer Vision · Large Language Models. Author. Aman ... |
-| Large Transformer Model Inference Optimization \| Lil'Log | https://lilianweng.github.io/posts/2023-01-10-inference-optimization/ | Jan 10, 2023 ... Updated on 2023-01-24: add a small section on Distillation.] Large transformer models are mainstream nowadays, creating SoTA results for a ... |
-| All the Transformer Math You Need to Know \| How To Scale Your ... | https://jax-ml.github.io/scaling-book/transformers/ | Feb 4, 2025 ... Here we'll do a quick review of the Transformer architecture, specifically how to calculate FLOPs, bytes, and other quantities of interest. |
-| TransformerLens Documentation | https://transformerlensorg.github.io/TransformerLens/ | Transformer Lens API. Toggle navigation of Transformer Lens API. transformer_lens. Toggle navigation of transformer_lens. transformer_lens.ActivationCache ... |
-| Trajectory Transformer | https://trajectory-transformer.github.io/ | One Big Sequence Modeling Problem. NeurIPS 2021 (spotlight) Paper Code Blog BibTex. Trajectory Transformer Single-Step Model |
-| HiVT: Hierarchical Vector Transformer for Multi-Agent Motion ... | https://zikangzhou.github.io/files/hivt.pdf | To tackle this challenge, we propose Hierarchical Vector. Transformer (HiVT) for fast and accurate multi-agent mo- tion prediction. By decomposing the ... |
-| Robotics Transformer: RT-1 | https://robotics-transformer1.github.io/ | RT-1: Robotics Transformer for Real-World Control at Scale · Anthony Brohan · Noah Brown · Justice Carbajal · Yevgen Chebotar · Joseph Dabis · Chelsea Finn · Keerthana ... |
-| Listen To Transformer | https://magenta.github.io/listen-to-transformer/ | Music Transformer is an open source machine learning model from the Magenta research group at Google that can generate musical performances with some long-term ... |
-| Vision Transformer | https://amaarora.github.io/posts/2021-01-18-ViT.html | Jan 18, 2021 ... In this blog post, we will be looking at the Vision Transformer architectures in detail, and also re-implement in PyTorch from scratch. |
-| Scaling Proprioceptive-Visual Learning with Heterogeneous Pre ... | https://liruiw.github.io/hpt/ | TL;DR: HPT aligns different embodiment to a shared latent space and investigates the scaling behaviors in policy learning. Put a scalable transformer in the ... |
-| Transformer-based Model Predictive Control: Trajectory ... | https://stanfordasl.github.io/wp-content/papercite-data/pdf/Celestini.Gammelli.ea.RAL24.pdf | 1: We propose a framework to combine high-capacity sequence models and optimization-based methods for MPC. The core idea is to train a transformer model to ... |
-| An even more annotated Transformer :: pi-tau | https://pi-tau.github.io/posts/transformer/ | Jul 13, 2023 ... CONTENTS. ATTENTION; MULTI-HEAD ATTENTION LAYER; ENCODER BLOCK; DECODER BLOCK; TOKEN EMBEDDING LAYER; TRANSFORMER; INFERENCE; SO? DOES IT ... |
-| The Random Transformer – hackerllama | https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/ | Jan 1, 2024 ... In this blog post, we'll do an end-to-end example of the math within a transformer model. The goal is to get a good understanding of how the model works. |
-| Speeding Up Transformer Training and Inference By Increasing ... | https://bairblog.github.io/2020/03/05/compress/ | Mar 5, 2020 ... Instead, when training Transformer models on a budget, you want to drastically increase model size but stop training very early. In other words, ... |
-| Analysis of Transformer Model · Better Tomorrow with Computer ... | https://insujang.github.io/2022-07-30/analysis-of-transformer-model/ | Jul 30, 2022 ... Transformer-based Model · Memory Consumption. Model Parameters (or Weights); Activation; Gradient and Optimizer State; Total Memory Consumption. |
-| An Intuitive Introduction to the Vision Transformer - Thalles' blog | https://sthalles.github.io/an-intuitive-introduction-to-the-vision-transformer/ | Mar 15, 2023 ... The Transformer architecture has taken deep learning by storm. Initially designed for solving sequence-to-sequence tasks such as machine translation, the ... |
-| 4D Gaussian Transformer | https://4dgt.github.io/ | We propose 4DGT, a 4D Gaussian-based Transformer model for dynamic scene reconstruction, trained entirely on real-world monocular posed videos. |
-| How to Parallelize a Transformer for Training \| How To Scale Your ... | https://jax-ml.github.io/scaling-book/training/ | Feb 4, 2025 ... How to Parallelize a Transformer for Training ... Here we discuss four main parallelism schemes used during LLM training: data parallelism, fully- ... |
-| Frame Transformer — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/core-concepts/sensors/frame_transformer.html | We have designed the Frame Transformer Sensor, that tracks and calculate the relative frame transformations for rigid bodies of interest to the scene. |
-| LineVul: A Transformer-based Line-Level Vulnerability Prediction | https://michaelfu1998-create.github.io/papers/linevul.pdf | Thus, security analysts still need to manually locate which lines of these sub-graphs are actually vulnerable. In this paper, we propose L V , a Transformer- ... |
-| SplatFormer: Point Transformer for Robust 3D Gaussian Splatting | https://sergeyprokudin.github.io/splatformer/ | A data-driven 3D transformer designed to refine 3D Gaussian splatting primitives for improved quality in extreme camera scenarios. |
-| Vision Transformer in pure JAX. - Alessio Devoto | https://alessiodevoto.github.io/ViT-in-pure-JAX/ | Oct 18, 2024 ... N transformer blocks made of multihead attention and Feed Forward MLP; a final head for classification. As mentioned before, these parameters ... |
-| Q-Transformer | https://qtransformer.github.io/ | Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions ; Quan Vuong*; Alex Irpan; Karol Hausman ; Tianhe Yu; Alexander Herzog; Karl ... |
-| Turbulence Mitigation Transformer | https://xg416.github.io/TMT/ | In this paper, we introduce the turbulence mitigation transformer (TMT) that specifically aims to resolve these issues. TMT brings three contributions ... |
-| Transformer Model — darts documentation | https://unit8co.github.io/darts/examples/06-Transformer-examples.html | In this notebook, we show an example of how Transformer can be used with darts. If you are new to darts, we recommend you first follow the quick start notebook. |
-| Learning to generate human-like sketches with a (decoder-only ... | https://mayalene.github.io/sketch-transformer/ | Overview of the Sketch-Transformer Pipeline. Before diving into the code, let's look at what we will need/implement for the dataset, neural network model, and ... |
-| Meta-Transformer: A Unified Framework for Multimodal Learning | https://kxgong.github.io/meta_transformer/ | Composed of three main components: a unified data tokenizer, a modality-shared encoder, and task-specific heads for downstream tasks, Meta Transformer is the ... |
-| The Sensory Neuron as a Transformer: Permutation-Invariant Neural ... | https://attentionneuron.github.io/ | Sep 7, 2021 ... Inspired by the Set Transformer [23, 24] architecture, an attention mechanism combines these messages to form a global latent code which is then ... |
-| Advanced Examples - pyproj 3.7.2 documentation | https://pyproj4.github.io/pyproj/stable/advanced_examples.html | transformer.TransformerGroup provides both available transformations as well as missing transformations. Helpful if you want to use an alternate transformation ... |
-| ContiFormer: Continuous-Time Transformer for Irregular Time Series ... | https://seqml.github.io/contiformer/ | The traditional methodologies including recurrent neural network or the Transformer model leverage inductive bias via powerful neural architectures to capture ... |
-| Vanilla Transformer - Nixtla | https://nixtla.github.io/neuralforecast/models.vanillatransformer.html | Vanilla Transformer, following implementation of the Informer paper, used as baseline. The architecture has three distinctive features: - Full-attention ... |
-| Gauge Equivariant Transformer | https://zhouchenlin.github.io/Publications/2021-NIPS-GET.pdf | To the best of our knowledge, we are the first to introduce gauge equivariance to self-attention, thus name our model Gauge Equivariant. Transformer (GET), ... |
-| FlowFormer: A Transformer Architecture for Optical Flow | https://drinkingcoder.github.io/publication/flowformer/ | Mar 17, 2022 ... We introduce Optical Flow TransFormer (FlowFormer), a transformer-based neural network architecture for learning optical flow. |
-| SkateFormer: Skeletal-Temporal Transformer for Human Action ... | https://kaist-viclab.github.io/SkateFormer_site/ | We propose a Skeletal-Temporal Transformer (SkateFormer), a partition-specific attention strategy (Skate-MSA) for skeleton-based action recognition. |
-| Open X-Embodiment: Robotic Learning Datasets and RT-X Models | https://robotics-transformer-x.github.io/ | Model Overview. We train two models on the robotics data mixture: (1) RT-1, an efficient Transformer-based architecture designed for robotic control ... |
-| Transformer Design Guide (Part 2: Modern Architecture) \| Rohit ... | https://rohitbandaru.github.io/blog/Transformer-Design-Guide-Pt2/ | Jan 11, 2025 ... This post will focus on changes to the Transformer architecture that have been popular in the last couple of years (as of 2024). |
-| Art of Transformer Programming | https://yanivle.github.io/taotp.pdf | Jul 28, 2024 ... constructions in the book as puzzles as well - reading only the problem definitions at first and trying to implement the Transformer programs ... |
-| The Transformer Blueprint: A Holistic Guide to ... - AI Research Blog | https://deeprevision.github.io/posts/001-transformer/ | Jul 29, 2023 ... A deep dive into Transformer, a neural network architecture that was introduced in the famous paper “attention is all you need” in 2017, ... |
-| Lazy Diffusion Transformer for Interactive Image Editing | https://lazydiffusion.github.io/ | We introduce a novel diffusion transformer, LazyDiffusion, that generates partial image updates efficiently. Our approach targets interactive image editing ... |
-| Token Statistics Transformer: Linear-Time Attention via Variational ... | https://robinwu218.github.io/ToST/ | ToST (Token Statistics Transformer) is a novel transformer architecture that achieves linear-time complexity and competitive performance |
-| SE(3)-Transformer | https://fabianfuchsml.github.io/se3transformer/ | In this project, we introduce the SE(3)-Transformer, a variant of the self-attention module for 3D point clouds, which is equivariant under continuous 3D roto- ... |
-| Erwin Transformer \| Maksim Zhdanov | https://maxxxzdn.github.io/blog/erwin/ | Erwin Transformer. We can organize irregular data (point clouds, meshes) using ... Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. |
-| Converting TensorFlow 2 BERT Transformer Models — Guide to ... | https://apple.github.io/coremltools/docs-guides/source/convert-tensorflow-2-bert-transformer-models.html | Convert the DistilBERT Transformer Model# · Add the import statements: · Load the DistilBERT model and tokenizer. · Describe and set the input layer, and then ... |
-| Graph-Transformer-based Surrogate Model for Accelerated ... | https://shunzh.github.io/pdfs/fan-dac-2024.pdf | Jun 23, 2024 ... In pursuit of effective circuit topology design automation, we introduce a pioneering Graph-Transformer-based. Network (GTN) as our surrogate ... |
-| Set Transformer: A Framework for Attention-based Permutation ... | https://jungtaek.github.io/papers/icml_2019.pdf | We present an attention-based neural network module, the Set Transformer, specifically designed to model interactions among elements in the input set. The model ... |
-| RT-1: Robotics Transformer for Real-World Control at Scale ... | https://rss2023.github.io/rss2023-website/program/papers/025/ | In this paper, we present a model class, dubbed Robotics Transformer, that exhibits promising scalable model properties. |
-| The Animated Transformer | https://prvnsmpth.github.io/animated-transformer/ | The Transformer is a machine learning model for sequence modeling. Given a sequence of things, the model can predict what the next thing in the sequence might ... |
-| Anticipative Video Transformer | https://facebookresearch.github.io/AVT/ | We propose Anticipative Video Transformer (AVT), an end-to-end attention-based video modeling architecture that attends to the previously observed video in ... |
-| Understanding Music Transformer - gudgud96's Blog | https://gudgud96.github.io/2020/04/01/annotated-music-transformer/ | Apr 1, 2020 ... This blog will discuss: 1 - Concepts discussed in the Music Transformer paper 2 - Background of Relative Attention, Relative Global Attention, Relative Local ... |
-| BAKU: An Efficient Transformer for Multi-Task Policy Learning | https://baku-robot.github.io/ | In this work, we present BAKU, a simple transformer architecture that enables efficient learning of multitask robot policies. |
-| Style Konva Transformer \| Konva - JavaScript Canvas 2d Library | https://konvajs.github.io/docs/select_and_transform/Transformer_Styling.html | You can adjust styles of Konva.Transformer for your web app. You can change stroke, size and fill of all anchors. |
-| White-Box Transformers via Sparse Rate Reduction | https://ma-lab-berkeley.github.io/CRATE/ | CRATE is a transformer-like architecture which is constructed through first principles, enjoys a rich theoretical framework, and achieves competitive ... |
-| MaskGIT: Masked Generative Image Transformer | https://masked-generative-image-transformer.github.io/ | This paper proposes a novel image synthesis paradigm using a bidirectional transformer decoder, which we term MaskGIT. |
-| Sequence-To-Sequence, Attention, Transformer — Machine ... | https://hannibunny.github.io/mlbook/transformer/attention.html | Sequence-To-Sequence, Attention, Transformer#. Sequence-To-Sequence#. In the context of Machine Learning a sequence is an ordered data structure, ... |
-| Transformer Design Guide (Part 1: Vanilla) \| Rohit Bandaru | https://rohitbandaru.github.io/blog/Transformer-Design-Guide-Pt1/ | Nov 3, 2024 ... The Transformer architecture has emerged as the cornerstone of deep learning and artificial intelligence. Despite its conceptual simplicity, ... |
-| Object Scene Representation Transformer | https://osrt-paper.github.io/ | Object Scene Representation Transformer ... Figure: OSRT is a 3D scene representation learning method that decomposes scenes into individual objects without ... |
-| Population Transformer | https://glchau.github.io/population-transformer/ | We present Population Transformer, a technique to learn population-level codes for arbitrary ensembles of neural recordings at scale. PopT Method. |
-| Hierarchical Surgical Robot Transformer (SRT-H) | https://h-surgical-robot-transformer.github.io/ | In our work, we aim to integrate the above elements through a hierarchical end-to-end approach, which we refer to as Hierarchical Surgical Robot Transformer ( ... |
-| Relation-Aware Transformer for Portfolio Policy Learning | https://tanmingkui.github.io/files/publications/Relation-Aware.pdf | To this end, we extend the standard Transformer structure by making it be relation- aware and handle this task with reinforcement learning (RL). 3.1 General ... |
-| M2T2: Multi-Task Masked Transformer for Object-centric Pick and ... | https://m2-t2.github.io/ | M2T2 is a unified transformer model that predicts target gripper poses for various action primitives. From a raw 3D point cloud, M2T2 predicts collision ... |
-| DiT-Policy | https://dit-policy.github.io/ | DiT-Block Policy is a Transformer neural network architecture designed specifically to be a highly performant conditional noise network for robotic diffusion ... |
-| POTTER: Pooling Attention Transformer for Efficient Human Mesh ... | https://zczcwh.github.io/potter_page/ | Transformer architectures have achieved SOTA performance on the human mesh recovery (HMR) from monocular images. However, the performance gain has come at ... |
-| How to resize and rotate canvas shapes with Vue and Konva ... | https://konvajs.github.io/docs/vue/Transformer.html | Click on a shape to select it. You can then resize and rotate it using the transformer handles. The shape will change color after transformation. |
-| Simple Transformers | https://thilinarajapakse.github.io/simpletransformers/ | Using Transformer models has never been simpler! Built-in support for: Text Classification Token Classification Question Answering Language Modeling ... |
-| Lensformer: A Physics-Informed Vision Transformer for Gravitational ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_214.pdf | We introduce Lensformer, a state-of-the-art transformer architecture that incorpo- rates the lens equations directly into the architecture for the purpose ... |
-| 165B Machine Learning Transformer | https://lileicc.github.io/course/mldl22w/14-Transformer.pdf | – Residual connection. – layer norm. • Transformer is effective for machine translation, and many other tasks. 35. Summary. Page 36. • Pretraining for NLP. 36. |
-| MeshGPT: Generating Triangle Meshes with Decoder-Only ... | https://nihalsid.github.io/mesh-gpt/ | MeshGPT creates triangle meshes by autoregressively sampling from a transformer model that has been trained to produce tokens from a learned geometric ... |
-| Human Scene Transformer | https://human-scene-transformer.github.io/ | We present a Transformer based architecture to predict human future trajectories in human-centric environments from input features including human positions. |
-| make_column_transformer — scikit-learn 1.7.2 documentation | https://thomasjpfan.github.io/scikit-learn-website/modules/generated/sklearn.compose.make_column_transformer.html | Tuples of the form (transformer, columns) specifying the transformer objects to be applied to subsets of the data. transformer{'drop', 'passthrough'} or ... |
-| All About Transformer Inference \| How To Scale Your Model | https://jax-ml.github.io/scaling-book/inference/ | Feb 4, 2025 ... Performing inference on a Transformer can be very different from training. Partly this is because inference adds a new factor to consider: ... |
-| Vision Transformer in pure JAX. - Alessio Devoto | https://alessiodevoto.github.io/ViT-in-pure-JAX/ | Oct 18, 2024 ... In the following, I assume you are already familiar with the Vision Transformer architecture. If you are not, you can take a look here. In short ... |
-| Vision Transformer | https://amaarora.github.io/posts/2021-01-18-ViT.html | Jan 18, 2021 ... In this blog post, we will be looking at the Vision Transformer architectures in detail, and also re-implement in PyTorch from scratch. |
-| An Intuitive Introduction to the Vision Transformer - Thalles' blog | https://sthalles.github.io/an-intuitive-introduction-to-the-vision-transformer/ | Mar 15, 2023 ... To train a vision Transformer, each of these patches is considered a token. Similar to NLP, we can think of these patches/crops as tokens – the ... |
-| Debugging a Vision Transformer Compilation Issue | https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/ | Jan 22, 2025 ... This led me on an unusual debugging quest, dissecting a Vision Transformer model layer by layer and even digging through torch internals. |
-| Implementing Vision Transformer (ViT) from Scratch - Tin Nguyen | https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/ | Mar 7, 2023 ... Vision Transformer (ViT) is an adaptation of Transformer models to computer vision tasks. It was proposed by Google researchers in 2020 and ... |
-| Uncertainty Estimation in Deterministic Vision Transformer | https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/3/CameraReady/UDM_AAAI_23_camera_ready.pdf | Uncertainty Estimation in Deterministic Vision Transformer. Wenqian Ye *, Yunsheng Ma *, Xu Cao. New York University. {wy2029, ym2382, xc2057}@nyu.edu. Abstract. |
-| Vision Transformer (ViT) - Pytorch Image Models | https://pprp.github.io/timm/models/vision-transformer/ | The Vision Transformer is a model for image classification that employs a Transformer-like architecture over patches of the image. |
-| Lensformer: A Physics-Informed Vision Transformer for Gravitational ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_214.pdf | The physics-based features are then integrated into a Vision Transformer (ViT) neural network, which helps to provide a nuanced understanding when applied to ... |
-| ViTA: A Vision Transformer Inference Accelerator for Edge ... | https://shashanknag.github.io/files/camera_ready_paper.pdf | Feb 17, 2023 ... With vision transformer models outperforming the conventional CNN-based models, exploring energy-efficient hardware accelerators for ViTs, which ... |
-| Exploring Explainability for Vision Transformers | http://jacobgil.github.io/deeplearning/vision-transformer-explainability | A Vision Transformer is composed of a few Encoding blocks, where every block has: A few attention heads, that are responsible, for every patch ... |
-| Interpretable ECG Classification With 1D Vision Transformer \| Yoni ... | https://yonigottesman.github.io/ecg/vit/deep-learning/2023/01/20/ecg-vit.html | Jan 20, 2023 ... In this post, I will use a vision transformer to classify ECG signals and use the attention scores to interpret what part of the signal the ... |
-| Demystifying Local Vision Transformer: Sparse Connectivity, Weight ... | https://jingdongwang2017.github.io/Pubs/Demystify_Local_Attention.pdf | Vision Transformer (ViT) attains state-of-the-art performance in visual recognition, and the variant, Local Vision Transformer, makes further improvements. |
-| minViT: Walkthrough of a minimal Vision Transformer (ViT) \| Dennis ... | https://dmicz.github.io/machine-learning/minvit/ | May 9, 2024 ... In this post, I explain the vision transformer (ViT) architecture, which has found its way into computer vision as a powerful alternative to Convolutional ... |
-| IA-RED2: Interpretability-Aware Redundancy Reduction for Vision ... | https://rpand002.github.io/data/NeurIPS_2021_iared.pdf | Despite its versatility, the transformer is always deeply troubled with inefficient computation and its vague interpretability. The vision transformer suffers ... |
-| Vision transformer properties - Christian Garbin's personal blog | https://cgarbin.github.io/vision-transformers-properties/ | Jul 23, 2022 ... Vision transformer properties. 12 minute read. On this page. How transformers process images; How are transformers different from CNNs in ... |
-| DVT: Denoising Vision Transformers | https://jiawei-yang.github.io/DenoisingViT/ | Our method, DVT, does not require re-training the existing pre-trained ViTs, and is immediately applicable to any Vision Transformer architecture. We ... |
-| Vision Transformer | https://tugot17.github.io/Vision-Transformer-Presentation/ | Overview · A brief history of transformers · Why using transformers for CV is complicated? · How Vision Transformer (ViT) works? · ViT performance in image ... |
-| ViT: Vision Transformer (2020) – Naoki Shibuya | https://naokishibuya.github.io/blog/2022-11-02-vit-vision-transformer-image-classifier-2020/ | Nov 2, 2022 ... In 2020, the Google Brain team developed Vision Transformer (ViT), an image classification model without a CNN (convolutional neural ... |
-| MeViT: A Medium-Resolution Vision Transformer for Semantic ... | https://kaopanboonyuen.github.io/publication/mevit-a-medium-resolution-vision-transformer/ | In this paper, we present MeViT (Medium-Resolution Vision Transformer), designed for semantic segmentation of Landsat satellite imagery, focusing on key ... |
-| Vision Transformer finetuned without augmentation \| Stanislav Fort | https://stanislavfort.github.io/blog/vision_transformer_without_augmentation/ | Dec 16, 2021 ... A Vision Transformer (ViT) pretrained on ImageNet21k finetunes significantly faster without training set augmentation for short optimization ... |
-| Vision Transformer Adapters for Generalizable Multitask Learning | https://ivrl.github.io/VTAGML/ | We introduce the first multitasking vision transformer adapters that learn generalizable task affinities which can be applied to novel tasks and domains. |
-| Fine-Tuning Vision Transformer (ViT) on Tiny ImageNet Dataset ... | https://rhincodone.github.io/posts/2024-11-15-Fine_Tuning_ViT_Tiny_ImageNet/ | Nov 15, 2024 ... This document provides a detailed overview of the strategy employed to fine-tune a Vision Transformer (ViT) on the Tiny ImageNet dataset. |
-| ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver ... | https://ml4ad.github.io/files/papers2022/ViT-DD:%20Multi-Task%20Vision%20Transformer%20for%20Semi-Supervised%20Driver%20Distraction%20Detection.pdf | This paper proposes a novel semi-supervised method for detecting driver distractions based on. Vision Transformer (ViT). Specifically, a multi-modal Vision ... |
-| Galaxy Morphological Classification with Efficient Vision Transformer | https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_123.pdf | Recently, Google developed a novel image classification architecture called Vision Transformer. (ViT)[34]. The Transformer-like architecture was originally ... |
-| SSL with Vision Transformers \| Rohit Bandaru | https://rohitbandaru.github.io/blog/SSL-with-Vision-Transformers/ | Aug 1, 2024 ... This architecture builds on the vision transformer. An alternative is to use CNNs. This would involve directly setting pixels in the input ... |
-| A-ViT: Adaptive Tokens for Efficient Vision Transformer | https://a-vit.github.io/ | We introduce A-ViT, a method to enable adaptive token computation for vision transformers. We augment the vision transformer block with adaptive halting module. |
-| Computers & Graphics Multi-scale Knowledge Transfer Vision ... | https://zichunzhong.github.io/papers/KT-ViT.pdf | Jun 19, 2024 ... Vision Transformer (i.e., KT-ViT) for vessel shape segmentation. First, it uniquely integrates convolutional embeddings with a transformer ... |
-| Vision Transformer in TensorFlow | https://dzlab.github.io/notebooks/tensorflow/vision/classification/2021/10/01/vision_transformer.html | Oct 1, 2021 ... Vision Transformer in TensorFlow. Learn the building blocs of the Vision Transformer model for image classification and how to implement it ... |
-| Swin Transformer for Hierarchical Vision (2021) – Naoki Shibuya | https://naokishibuya.github.io/blog/2022-11-04-swin-transformer-2021/ | Nov 4, 2022 ... In 2021, Microsoft announced a new Vision Transformer called Swin Transformer, which can act as a backbone for computer vision tasks like ... |
-| VT-ADL: A Vision Transformer Network for Image Anomaly Detection ... | https://creatis-myriad.github.io/2022/07/06/Vision_Transformer_Network_for_Image_Anomaly_Detection_and_Localization.html | Jul 6, 2022 ... Reference : Pankaj Mishra, Riccardo Verk, Daniele Fornasier, Claudio Piciarelli, Gian Luca Foresti. VT-ADL: A Vision Transformer Network for ... |
-| Spherical Vision Transformers for Audio-Visual Saliency Prediction ... | https://cyberiada.github.io/SalViT360/ | Towards this aim, we propose two novel saliency prediction models: SalViT360, a vision-transformer-based framework for ODVs equipped with spherical geometry ... |
-| Transformers in Vision - IAML Distill Blog | https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/ | Apr 27, 2021 ... Vision Transformers for Image Recognition · An image is worth 16x16 words: the Vision Transformer · Stronger data augmentation allows more ... |
-| Face Pyramid Vision Transformer | https://khawar-islam.github.io/fpvt/ | A novel Face Pyramid Vision Transformer (FPVT) is proposed to learn a discriminative multi-scale facial representations for face recognition and verification. |
-| Optimizing Vision Transformer Model for Deployment — PyTorch ... | https://h-huang.github.io/tutorials/beginner/vt_tutorial.html | DeiT is a vision transformer model that requires a lot less data and computing resources for training to compete with the leading CNNs in performing image ... |
-| Representation in Vision Transformers and Attentionless Models ... | https://blbadger.github.io/vision-transformers.html | ... vision transformer architecture just as was accomplished for convolutional models. Vision Transformer hidden layer representation overview. Another way to ... |
-| DualToken-ViT: Position-aware Efficient Vision Transformer with ... | https://chywang.github.io/papers/sdm2024.pdf | In this paper, we pro- pose a light-weight and efficient vision transformer model called. DualToken-ViT that leverages the advantages of CNNs and ViTs. |
-| HTR-VT: Handwritten Text Recognition with Vision Transformer | https://yutingli0606.github.io/HTR-VT/ | We explore the application of Vision Transformer (ViT) for handwritten text recognition. The limited availability of labeled data in this domain poses ... |
-| Panoramic Vision Transformer for Saliency Detection in 360 Videos | https://yhytoto12.github.io/assets/publications/paver/paper.pdf | We design the encoder using Vision Transformer with deformable convolution, which enables us not only to plug pretrained models from normal videos into our ... |
-| Vision Transformer - Nithish Duvvuru | https://nithish96.github.io/Computer%20Vision/transformers/vit/ | Vision Transformer. Introduction. The Vision Transformer (ViT) is a deep learning architecture introduced in the paper "An Image is Worth 16x16 Words: ... |
-| History Aware Multimodal Transformer for Vision-and-Language ... | https://cshizhe.github.io/projects/vln_hamt.html | HAMT efficiently encodes all the past panoramic observations via a hierarchical vision transformer (ViT), which first encodes individual images with ViT ... |
-| CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image ... | https://rpand002.github.io/data/ICCV_2021_crossvit.pdf | The recently developed vision transformer (ViT) has achieved promising results on image classification com- pared to convolutional neural networks. |
-| PVTv2: Improved Baselines with Pyramid Vision Transformer | https://implus.github.io/resources/reports/PVTv2_Improved_Baselines_with_Pyramid_Vision_Transformer.pdf | Recent studies on vision Transformer are converging on the backbone network [8, 30, 32, 33, 23, 35, 10, 5] de- signed for downstream vision tasks, such as image ... |
-| CNN vs. Vision Transformer: A Practitioner's Guide to Selecting the ... | https://tobiasvanderwerff.github.io/2024/05/15/cnn-vs-vit.html | May 15, 2024 ... They are less scalable than ViTs, but outperform ViTs in smaller pretraining data regimes. Image description Details of Vision Transformer model ... |
-| Scattering Vision Transformer: Spectral Mixing Matters | https://badripatro.github.io/svt/ | In this paper, we present a novel approach called Scattering Vision Transformer (SVT) to tackle these challenges. SVT incorporates a spectrally scattering ... |
-| Transformer and Mixer Features \| Form and Formula | https://blbadger.github.io/transformer-features.html | Vision Transformer Feature Visualization. Convolutional models consist of layer of convolutional 'filters', also known as feature maps, that tend to learn to ... |
-| RepPoints: A New Framework for Object Detection | https://ancientmooner.github.io/doc/SwinTransformer_FiveReasons.pdf | Jun 20, 2021 ... Swin Transformer: Hierarchical Vision Transformer using Shifted Windows. Arxiv 2021. Page 7. 4 years unleash the power of Transformer in CV. |
-| CNN vs Transformer \| Md Awsafur Rahman | https://awsaf49.github.io/blog/2023/cnn-vs-transformer/ | May 12, 2023 ... Mechanism of Vision Transformer. Summary: CNNs are limited by their local-context perspective while Transformers can capture the broader ... |
-| ScalableViT: Rethinking the Context-oriented Generalization of ... | https://yangr116.github.io/files/ScalableViT.pdf | For example, ScalableViT-S outperforms Twins-SVT-S by 1.4% and. Swin-T by 1.8% on ImageNet-1K classification. Keywords: Vision Transformer, Self-Attention ... |
-| Frequency and Attention is what you need in a Vision Transformer ... | https://badripatro.github.io/SpectFormers/ | SpectFormers. SpectFormer: Frequency and Attention is what you need in a Vision Transformer. Intro. Paper Project Page ... |
-| MCUFormer: Deploying Vision Transformers on Microcontrollers ... | https://ziweiwangthu.github.io/data/MCUFormer.pdf | vision transformer inference on microcontrollers. 3.1 Network Architecture Search with Memory Constraint. Conventional architecture search methods usually ... |
-| Visualizing Attention Maps in Pre-trained Vision Transformers ... | https://alessiodevoto.github.io/vit-attention/ | Oct 1, 2024 ... Goal: Visualizing the attention maps for the CLS token in a pretrained Vision Transformer from the timm library. |
-| Rotary Position Embedding for Vision Transformer | https://sangdooyun.github.io/data/heo2024eccv_ropevit.pdf | Jul 16, 2024 ... Vision Transformer (ViT). We apply 2D RoPE to ViT-S, ViT-B, and ViT-L. We train ViT with a strong supervised learning training recipe for ... |
-| Robustness Comparison of Vision Transformer and MLP-Mixer to ... | https://aisecure-workshop.github.io/amlcvpr2021/cr/29.pdf | with the advent of the Vision Transformer (ViT) [11], pre- senting a transformer architecture achieving comparable performance to state-of-the-art CNN ... |
-| VSR-SIM - Spatio-temporal Vision Transformer for Super-resolution ... | https://vsr-sim.github.io/ | VSR-SIM. Spatio-temporal Vision Transformer for Super-resolution Microscopy. The paper is currently in review. A link to the preprint: Preprint https://arxiv ... |
-| P2T: Pyramid Pooling Transformer for Scene Understanding | https://yuhuan-wu.github.io/files/[22PAMI]%20P2T.pdf | One of the most challenging problems in the vision transformer is that the large sequence length of image tokens leads to high computational cost (quadratic ... |
-| An Instance Normalization Transformer for Generalized Driving ... | https://trust-ai.github.io/SSAD2023/assets/papers/6.pdf | Hierarchical vision transformer using shifted windows. In. Proceedings of the IEEE/CVF International Conference on. Computer Vision (CVPR), pages 10012–10022 ... |
-| Youngwan Lee - Youngwan Lee (이영완) | https://youngwanlee.github.io/ | Besides, I have explored Vision Transformer architecture and self-supervised learning. Recently, I have focused on multimodal learning, including text-image ... |
-| Explaining Information Flow Inside Vision Transformers Using ... | https://xai4debugging.github.io/files/papers/explaining_information_flow_in.pdf | In this paper, we set the Vision Transformer (ViT) [4], which is of the pure Transformer architecture without CNN components, as a benchmark. Tokens for ViT ... |
-| Adaptive Window Pruning for Efficient Local Motion Deblurring | https://leiali.github.io/LMD-ViT_webpage/ | This paper aims to adaptively and efficiently restore high-resolution locally blurred images. We propose a local motion deblurring vision Transformer (LMD-ViT) |
-| Lecture 4 | https://cmhcbb.github.io/files/COMP6211I/Lecture_4.pdf | Feb 20, 2025 ... Vision Transformer (ViT). Vision Transformer (ViT). • Partition input image into patches. • A linear projection to transform each patch to ... |
-| Tensorflow VITs \| Mike Polinowski | https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-07-27-tensorflow-vision-transformer/2023-07-27/ | Building a Tensorflow Vision Transformer. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale: While the Transformer architecture has ... |
-| Fine-Tune Your Own Vision Transformer - FusionBench | https://tanganke.github.io/fusion_bench/guides/clip_vit/finetune/ | In this guide, we will show you how to fine-tune your own Vision Transformer (ViT) model on a custom dataset using fusion_bench CLI. |
-| CompletionFormer | https://youmi-zym.github.io/projects/CompletionFormer/ | Depth Completion with Convolutions and Vision Transformers · CVPR 2023 · CompletionFormer is a depth completion network based on CNN and Vision Transformer. |
-| Scene Representation Transformer | https://srt-paper.github.io/ | To calculate the scene representation, we propose a generalization of the Vision Transformer to sets of images, enabling global information integration, and ... |
-| Large-Scale Video Understanding with Transformers | https://anuragarnab.github.io/talks/Large_scale_video_understanding_transformers.pdf | State-of-the-art results on 5 video datasets at time. ○ A Arnab et al. ViViT: A Video Vision Transformer. ICCV, 2021. ○ [Paper], [Code]. Page 20. Shen Yan ... |
-| TeleViT: Teleconnection-driven Vision Transformer | https://orion-ai-lab.github.io/televit/ | We propose a teleconnection-driven vision transformer (TeleViT), capable of treating the Earth as one interconnected system. |
-| Zhengzhong Tu | https://vztu.github.io/publication.html | A holistic vision Transformer that uses heterogeneous multi-agent attention and multi-scale window attention to handle common V2X challenges, including latency, ... |
-| EfficientViT Memory Efficient Vision Transformer with Cascaded ... | https://jijunhao.github.io/2023/11/06/article20231106/ | Nov 6, 2023 ... 方法名称：EfficientViT; 主体：Vision Transformer; 作用（修饰主体的主要功能）：Memory Efficient; 技术：Cascaded Group Attention; 介词：with. 有几个常用 ... |
-| Publications - Zihang Jiang | https://zihangjiang.github.io/publications/ | DeepViT: Towards Deeper Vision Transformer. Published in arxiv, 2021. Introduce a novel strategy to train deep vision transformer models and provide some ... |
-| Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer | https://yingyichen-cyy.github.io/Jigsaw-ViT/ | Abstract. The success of Vision Transformer (ViT) in various computer vision tasks has promoted the ever-increasing prevalence of this convolution-free network. |
-| Heng Huang \| Peipei Zhou's Homepage | https://peipeizhou-eecs.github.io/author/heng-huang/ | Heng Huang. Latest. EQ-ViT: Algorithm-Hardware Co-Design for End-to-End Acceleration of Real-Time Vision Transformer Inference on Versal ACAP Architecture ... |
-| Understanding the Efficacy of U-Net & Vision Transformer for ... | https://syns-ml.github.io/2023/assets/papers/31.pdf | In this paper, we present a comprehensive comparison. Page 2. Understanding the Efficacy of U-Net & Vision Transformer for Groundwater Numerical Modelling among ... |
-| Patch-based Separable Transformer for Visual Recognition | https://hszhao.github.io/papers/tpami22_set.pdf | Left: Vision Transformer (ViT) [9] directly projects all pixels of each patch into global tokens and applies self-attention afterwards. Middle: the full spatial ... |
-| Available models and sources (+ examples) \| thingsvision | https://thingsvision.github.io/AvailableModels.html | Here, the model name describes the pre-training method, instead of the model architecture. DINO models are available in ViT (Vision Transformer) and XCiT (Cross ... |
-| Naoki Shibuya | https://naokishibuya.github.io/ | A new Vision Transformer with Shifted Windows. Nov 4, 2022. ViT: Vision Transformer (2020). An Image is Worth 16x16 Words: Transformers for Image Recognition ... |
-| Ze Liu (刘泽) | https://zeliu98.github.io/ | Swin Transformer: Hierarchical Vision Transformer using Shifted Windows Ze Liu*, Yutong Lin*, Yue Cao*, Han Hu*, Yixuan Wei, Zheng Zhang, Stephen Lin ... |
-| Transformers \| dl-visuals | https://dvgodoy.github.io/dl-visuals/Transformers/ | Transformers · Index · Papers · Stacked Encoders and Decoders · Sub-Layer · Transformer · Special Classifier Token · Vision Transformer. |
-| Yun Chia Yu | https://yunchiayu.github.io/ | selected publications. RCTP_preview.png. Retraining-free Constraint-aware Token Pruning for Vision Transformer on Edge Devices. Yun-Chia Yu, Mao-Chi Weng, Ming ... |
-| An Image is Worth 16x16 Words: Transformers for Image ... | https://vitalab.github.io/article/2020/10/15/vision_transformer.html | Oct 15, 2020 ... The Vision Transformer is an architecture that can outperform CNNs given datasets in the 100M-image range. It required less FLOPS to train than the CNNs used ... |
-| Quantformer: Learning Extremely Low-precision Vision Transformers | https://xuxw98.github.io/files/Quantformer.pdf | Although [37] presented ranking- aware quantization for self-attention in vision transformer discretization, the applied hinge loss fails to consider the model ... |
-| NVIDIA Jetson AI Lab | https://nvidia-ai-iot.github.io/jetson-generative-ai-playground/ | ... Vision Transformer (ViT). Vision Transformer examples, with models optimized to run in realtime on Jetson. Learn More. NanoDB. Multimodal vector database that ... |
-| REGIONVIT: REGIONAL-TO-LOCAL ATTENTION FOR VISION ... | https://rpand002.github.io/data/ICLR_2022_regionvit.pdf | Vision transformer (ViT) has recently shown its strong capability in achieving comparable results to convolutional neural networks (CNNs) on image ... |
-| U-Diffusion Vision Transformer for Text-to-Speech - Speech Research | https://eihw.github.io/u-dit-tts/ | U-Diffusion Vision Transformer for Text-to-Speech. Xin Jing1, Yi Chang2, Zijiang Yang1, Andreas Triantafyllopoulos1, Bjoern Schuller1. |
-| Vision Transformer论文解读- SmallSquare's Blog | https://smallsquare.github.io/Vision-Transformer/ | May 20, 2022 ... 发表于ICLR2021的Vision Transformer已经成为后续Transformer模型在CV领域进一步发展的基石，本文为初代Vision Transformer论文An Image is Worth ... |
-| Vision Transformer (ViT) — TF Transformers documentation | https://legacyai.github.io/tf-transformers/build/html/model_doc/vit.html | Vision Transformer (ViT)¶. Note. This is a recently introduced model so the API hasn't been tested extensively. There may be some bugs or slight breaking ... |
-| Blog \| Stanislav Fort | https://stanislavfort.github.io/blog/ | Aug 29, 2024 ... ... Vision Transformer (ViT). I wanted to know if it suffers from ... Vision Transformer finetuned without augmentation. A Vision ... |
-| Vision Transformer (ViT) For Image Classification | https://patrick-yp-yu.github.io/proj_vit_classification.html | We constructed the Vision Transformer (ViT) from scratch using PyTorch, conducted training with augmented data, and subsequently applied the model to perform ... |
-| Swin Transformer | https://amaarora.github.io/posts/2022-07-04-swintransformerv1.html | Jul 4, 2022 ... Vision Transformer (ViT). For CNNs, there are various architectures that have been introduced. I have previously written blogs about a few of ... |
-| Masked Vision Transformers for Hyperspectral Image Classification ... | https://hsg-aiml.github.io/2023/06/05/Masked_Vision_Transformers_for_Hyperspectral_Image_Classification.html | Jun 5, 2023 ... ... vision transformer architecture to optimally leverage the characteristics of hyperspectral data. We find significant improvements in ... |
-| demos - André Pedersen | https://andreped.github.io/demos/ | vit-explainer. Demonstrating Explainable AI with Vision Transformer in web app (workshop INF-1600). 1 min read · November 12, 2023. 2023 · vision-transformer ... |
-| X-ViT: High Performance Linear Vision Transformer without Softmax ... | https://kakaoenterprise.github.io/papers/cvpr-xvit | X-ViT: High Performance Linear Vision Transformer without Softmax · Transformers for Vision Workshop at CVPR. 2022-06-19 · 2022-06-19. |
-| TSiT – tsai | https://timeseriesai.github.io/tsai/models.tsitplus.html | This is a PyTorch implementation created by Ignacio Oguiza (oguiza@timeseriesAI.co) based on ViT (Vision Transformer). |
-| Transformer - Michał Chromiak's blog | https://mchromiak.github.io/tag/transformer.html | Jun 1, 2021 ... Self-DIstillation with NO labels (DINO) is a self-supervised method based on Vision Transformer (ViT) from Facebook AI with the ability to ... |
-| Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense ... | https://ycliu93.github.io/projects/polyhistor.html | (c) When applying adapters in a Hierarchical Vision Transformer, the number of parameters grows quadratically with the respect to the block scale. Motivation ... |
-| DeiT-LT: Distillation Strikes Back for Vision Transformer Training on ... | https://rangwani-harsh.github.io/DeiT-LT/ | Abstract. Vision Transformer (ViT) has emerged as a prominent architecture for various computer vision tasks. In ViT, we divide the input image into patch ... |
-| Vision Transformers and their Adversarial Robustness | https://abhiram4572.github.io/files/vision_transformers.pdf | Feb 16, 2021 ... Researchers have recently extended the transformers to the vision com- munity, one such model is vision transformer [Dosovitskiy et al. (2020)]. |
-| arXiv:2103.16302v2 [cs.CV] 18 Aug 2021 | https://sangdooyun.github.io/data/heo2021iccv_pit.pdf | Aug 18, 2021 ... Vision Transformer (ViT) extends the application range of transformers from language processing to computer vi-. |
-| Spike Transformer: Monocular Depth Estimation for Spiking Camera | https://yuzhaofei.github.io/papers/22-ECCV-Spike%20Transformer-Monocular%20Depth%20Estimation%20for%20Spiking%20Camera.pdf | [54] investigated self-supervised monocular depth estimation using vision Transformer. It showed that Transformer achieves comparable performance while being ... |
-| Han Hu - Microsoft Research Asia | https://ancientmooner.github.io/ | Swin Transformer V2: Scaling Up Capacity and Resolution · SimMIM: A Simple Framework for Masked Image Modeling · Swin Transformer: Hierarchical Vision Transformer ... |
-| A-ColViT: Real-time Interactive Colorization by Adaptive Vision ... | https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf | Recently, the vision transformer (ViT) has achieved re- markable performance in computer vision tasks and has been actively utilized in colorization. |
-| The Unreasonable Effectiveness of Recurrent Neural Networks | http://karpathy.github.io/2015/05/21/rnn-effectiveness/ | May 21, 2015 ... TileNet is a new neural network architecture that exhibits excellent generalization ability on a few algorithmic tasks, like numeral system ... |
-| What a Deep Neural Network thinks about your #selfie | http://karpathy.github.io/2015/10/25/selfie/ | Oct 25, 2015 ... We'll take a powerful, 140-million-parameter state-of-the-art Convolutional Neural Network, feed it 2 million selfies from the internet, and train it to ... |
-| Neural network training makes beautiful fractals \| Jascha's blog | http://sohl-dickstein.github.io/2024/02/12/fractal.html | Feb 12, 2024 ... The boundary between hyperparameters for which neural network training succeeds or fails has (gorgeous, organic) fractal structure. |
-| A Recipe for Training Neural Networks | http://karpathy.github.io/2019/04/25/recipe/ | Apr 25, 2019 ... Now, suffering is a perfectly natural part of getting a neural network to work well, but it can be mitigated by being thorough, defensive, ... |
-| A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - i ... | https://iamtrask.github.io/2015/07/27/python-network-part2/ | Improving our neural network by optimizing Gradient Descent. Posted by iamtrask on July 27, 2015. Summary: I learn best with toy code that I can play with. |
-| Neural Network Classification - ilastik | https://ilastik.github.io/documentation/nn/nn | Neural Network Classification. This workflow allows one to execute (run inference for) pre-trained convolutional neural networks (CNNs) on the data loaded into ... |
-| Diversity and Generalization in Neural Network Ensembles | https://andresmasegosa.github.io/Diversity/ | Oct 26, 2021 ... ... neural network ensemble algorithms. This analysis covers three widely used loss functions, namely, the squared loss, the cross-entropy loss ... |
-| Web Neural Network API | https://webmachinelearning.github.io/webnn/ | Sep 30, 2025 ... The Web Neural Network API defines a web-friendly hardware-agnostic abstraction layer that makes use of Machine Learning capabilities of operating systems. |
-| A Neural Network in 11 lines of Python (Part 1) - i am trask | https://iamtrask.github.io/2015/07/12/basic-python-network/ | A bare bones neural network implementation to describe the inner workings of backpropagation. Posted by iamtrask on July 12, 2015. Summary: I learn best ... |
-| How to build a simple artificial neural network with Go \| sausheong's ... | https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/ | Mar 24, 2018 ... A neuron consists of a cell body, dendrites and an axon and can connected to each other to form neural networks. In a neural network, a neuron's ... |
-| Deep Neural Network Embeddings for Text-Independent Speaker ... | https://maelfabien.github.io/assets/litterature/representation/xvector.pdf | This paper investi- gates replacing i-vectors with embeddings produced by a deep neural network (DNN) for text-independent SV. The relative strengths and ... |
-| Neural Networks | https://mlu-explain.github.io/neural-networks/ | Activation Functions & Artificial Neurons. In a neural network, this function node we're changing is very special - we call it an artificial neuron. |
-| Single layer neural network — mlp • parsnip | https://tidymodels.github.io/parsnip/reference/mlp.html | mlp() defines a multilayer perceptron model (aka a single layer, feed-forward neural network). This function can fit classification and regression models. |
-| A Dual-Stage Attention-Based Recurrent Neural Network for Time ... | https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf | In this paper, we propose a dual-stage attention-based re- current neural network (DA-RNN) to address these two issues. In the first stage, we introduce an in-. |
-| ICLR 2025 Workshop on Weight Space Learning: Overview | https://weight-space-learning.github.io/ | Neural Network Weights as a New Data Modality. |
-| Hacker's guide to Neural Networks | http://karpathy.github.io/neuralnets/ | In practice by the way (and we will get to this once again later), all Neural Network libraries always compute the analytic gradient, but the correctness of ... |
-| How to implement a neural network (1/5) - gradient descent \| Peter's ... | https://peterroelants.github.io/posts/neural-network-implementation-part01/ | Jun 12, 2015 ... This page is the first part of this introduction on how to implement a neural network from scratch with Python and NumPy. |
-| Python vs Rust for Neural Networks \| Nathan Goldbaum | https://ngoldbaum.github.io/posts/python-vs-rust-nn/ | A very simple single-layer Neural Network that can classify handwritten digits from the MNIST dataset using a learning algorithm based on stochastic gradient ... |
-| A Convolutional Neural Network Cascade for Face Detection | https://xiaohuishen.github.io/assets/cvpr2015_cascnn.pdf | [5] developed a neural network to detect semi-frontal human faces in complex images; in 2005. Osadchy et al. [20] trained a convolutional network for si-. |
-| Generalized Neural-Network Representation of High-Dimensional ... | https://aiichironakano.github.io/cs653/Behler-NNPES-PRL07.pdf | Apr 2, 2007 ... In this Letter we introduce a new kind of neural-network representation of DFT potential-energy surfaces, which provides the energy and forces ... |
-| Convolutional Neural Networks (CNNs / ConvNets) | https://cs231n.github.io/convolutional-networks/ | Left: A regular 3-layer Neural Network. Right: A ConvNet arranges its neurons in three dimensions (width, height, depth), as visualized in one of the layers ... |
-| A Timing Engine Inspired Graph Neural Network Model for Pre ... | https://jeremiemelo.github.io/publications/papers/PD_DAC2022_Gu.pdf | In this work, we present a timing engine inspired graph neural network (GNN) to predict arrival time and slack at timing endpoints. We further leverage edge ... |
-| KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction ... | https://xuanlin1991.github.io/files/publications/ijcai20.pdf | To address the above limitations, we propose an end-to-end framework, called Knowledge Graph Neural Network (KGN-. N), to resolve the DDI prediction. Our frame-. |
-| How should we compare neural network representations? – The ... | https://bairblog.github.io/2021/11/08/similarity/ | Nov 8, 2021 ... The basic idea is that a good similarity metric should correlate with the actual functionality of a neural network, which we operationalize as ... |
-| Convert Models to Neural Networks — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/convert-to-neural-network.html | To convert to a neural network using Core ML Tools version 7.0 or newer, specify the model type with the convert_to parameter. |
-| Neural Network Classifier — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/updatable-neural-network-classifier-on-mnist-dataset.html | A neural network is a collection of layers, each containing weights that get used alongside its other inputs to produce an output. |
-| Welcome to the documentation of n2p2! — n2p2 - A neural network ... | https://compphysvienna.github.io/n2p2/ | ... neural network potentials in computational physics and chemistry. The methodology behind the Behler-Parinello neural network potentials was first described here ... |
-| 2D Visualization of a Convolutional Neural Network | https://aharley.github.io/nn_vis/cnn/2d.html | Input image: Filter: Weighted input: Calculation: Output: 10 FPS (10-11). 100 MS (3-100). Draw your number here. ×. Downsampled drawing: First guess:. |
-| How do we interpret the outputs of a neural network trained on ... | https://yudixie.github.io/blog/2024/interpret-classification/ | Oct 8, 2024 ... For example, if we train a convolutional neural network (CNN) to do classification on ImageNet, the data X is the input image, and the output ... |
-| Neural Network Night | https://neuralnetworkingnight.github.io/ | All seminars take place in the Le Piano Vache bar (8 Rue Laplace, 75005 Paris) and start at 5:30 pm (see below). |
-| Neural Network Classifier & Regressor - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02_neural_network_classifier_and_regressor.html | Neural Network Classifier & Regressor¶. In this tutorial we show how the NeuralNetworkClassifier and NeuralNetworkRegressor are used. |
-| On Getting Confidence Estimates from Neural Networks \| Bharath's ... | https://bharathpbhat.github.io/2021/04/04/getting-confidence-estimates-from-neural-networks.html | Apr 4, 2021 ... I've been reading on and off about this topic for a while now, and it comes up very often in applied ML. How confident is the neural network ... |
-| Comparing ML Programs and Neural Networks — Guide to Core ML ... | https://apple.github.io/coremltools/docs-guides/source/comparing-ml-programs-and-neural-networks.html | The ML program model type is the foundation for future Core ML improvements. A few of the major differences between a neural network and an ML program are as ... |
-| Model-based Reinforcement Learning with Neural Network ... | https://bairblog.github.io/2017/11/30/model-based-rl/ | Nov 30, 2017 ... A learned neural network dynamics model enables a hexapod robot to learn to run and follow desired trajectories, using just 17 minutes of real-world experience. |
-| NeuralNetworkClassifier - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/stubs/qiskit_machine_learning.algorithms.NeuralNetworkClassifier.html | Implements a basic quantum neural network classifier. Implements Scikit-Learn compatible methods for classification and extends ClassifierMixin. |
-| K Nearest Neighbor as a Neural Network - Sewade Ogun's Website | https://ogunlao.github.io/2020/05/23/knn-as-a-neural-network.html | May 23, 2020 ... K Nearest Neighbor as a Neural Network · Layer 1: Computing the distance function · Layer 2: Softmax Layer · Layer 3: Prediction Layer. |
-| The Quantum Convolution Neural Network - Qiskit Machine ... | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/11_quantum_convolutional_neural_networks.html | Throughout this tutorial, we discuss a Quantum Convolutional Neural Network (QCNN), first proposed by Cong et. al. [1]. We implement such a QCNN on Qiskit ... |
-| 2.9. Neural network models (unsupervised) — scikit-learn 1.7.2 ... | https://thomasjpfan.github.io/scikit-learn-website/modules/neural_networks_unsupervised.html | Neural network models (unsupervised)#. 2.9.1. Restricted Boltzmann machines#. Restricted Boltzmann machines (RBM) are unsupervised nonlinear feature ... |
-| neural network case study | https://cs231n.github.io/neural-networks-case-study/ | In this section we'll walk through a complete implementation of a toy Neural Network in 2 dimensions. We'll first implement a simple linear classifier and then ... |
-| ByteGNN: Efficient Graph Neural Network Training at Large Scale | https://yaobaiwei.github.io/papers/ByteGNN_VLDB22.pdf | Feb 1, 2019 ... Thus, ded- icated GNN systems have been developed upon neural network training systems (e.g., TensorFlow, PyTorch) for GNN training. Among ... |
-| Understanding LSTM Networks -- colah's blog | https://colah.github.io/posts/2015-08-Understanding-LSTMs/ | Aug 27, 2015 ... A recurrent neural network can be thought of as multiple copies of the same network, each passing a message to a successor. |
-| Notes on neural networks from scratch in Clojure \| Matthew Downey | https://matthewdowney.github.io/clojure-neural-networks-from-scratch-mnist.html | May 31, 2023 ... There's significantly more “magic” inside a good concurrent queue implementation, for example, than inside a basic neural network to recognize ... |
-| Parameterized Explainer for Graph Neural Network | https://bzong.github.io/doc/PGExplainer.pdf | PGExplainer adopts a deep neural network to parameterize the generation process of explanations, which enables PGExplainer a natural approach to explaining ... |
-| Neural Networks From Linear Algebraic Perspective \| Khalid Saifullah | https://khalidsaifullaah.github.io/neural-networks-from-linear-algebraic-perspective/ | Mar 7, 2021 ... In this post, I aim to share some of those intuitions. Neural Network 101: Typical Feed Forward Neural Network. figure 1: A typical fully ... |
-| Neural Networks — MLX 0.29.3 documentation | https://ml-explore.github.io/mlx/build/html/python/nn.html | The module mlx.nn solves this problem by providing an intuitive way of composing neural network layers, initializing their parameters, freezing them for ... |
-| CS231n Deep Learning for Computer Vision | https://cs231n.github.io/ | Assignment #1: Image Classification, kNN, SVM, Softmax, Fully Connected Neural Network · Assignment #2: Fully Connected and Convolutional Nets, Batch ... |
-| Neural Networks, Manifolds, and Topology -- colah's blog | https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ | Apr 6, 2014 ... The obvious way to visualize the behavior of a neural network – or any classification algorithm, for that matter – is to simply look at how it ... |
-| Smart Contract Vulnerability Detection using Graph Neural Network | https://messi-q.github.io/projects/papers/ijcai2020/ijcai20.pdf | To highlight the major nodes, we design an elimination phase to normalize the graph. Then, we propose a degree-free graph convolutional neural network. (DR-GCN) ... |
-| Saving Neural Network Model Weights Using a Hierarchical ... | https://danieltakeshi.github.io/2017/07/06/saving-neural-network-model-weights-using-a-hierarchical-organization/ | Jul 6, 2017 ... That code base has also taught me something that I have wondered about on occasion: what is the “proper” way to save and load neural network ... |
-| DeepWukong: Statically Detecting Software Vulnerabilities using ... | https://yuleisui.github.io/publications/tosem21.pdf | Jul 20, 2019 ... [21] have proposed to use gated graph neural network to represent the syntactic and semantic structure of a program, aiming at solving two ... |
-| CS231n Deep Learning for Computer Vision | https://cs231n.github.io/neural-networks-3/ | Babysitting the learning process. There are multiple useful quantities you should monitor during training of a neural network. These plots are the window into ... |
-| Building Neural Network From Scratch - Jake Tae | https://jaketae.github.io/study/neural-net/ | Feb 5, 2020 ... Building Neural Network From Scratch. 26 minute read. On this page. Preparing Data. Data Generation; One-Hot Encoding. Activation Functions. |
-| Neural Network demo — Preset: Binary Classifier for XOR | https://phiresky.github.io/neural-network-demo/ | Neural Network demo Preset: Binary Classifier for XOR. Network Graph; Error History; Weights. Move View; Add Red; Add Green; Remove; Table input. Animate Reset |
-| Building a Neural Network from Scratch in Python and in ... | https://beckernick.github.io/neural-network-scratch/ | Oct 17, 2016 ... By actually trying to build a neural network from scratch, I went from a general, high-level understanding of neural networks to a detailed, low ... |
-| Weight Agnostic Neural Networks | https://weightagnostic.github.io/ | Jun 12, 2019 ... We propose a search method for neural network architectures that can already perform a task without any explicit weight training. |
-| Learning to Sort with a Neural Network – Jacob Kelly | https://jacobjinkelly.github.io/2018/06/20/sorting-numbers-with-a-neural-network/ | Jun 20, 2018 ... I recently came across an interesting challenge: sorting numbers with a neural network. In contrast to other machine learning problems, ... |
-| Hamiltonian Neural Networks | http://greydanus.github.io/2019/05/15/hamiltonian-nns/ | May 15, 2019 ... Figure 1: Instead of crafting a Hamiltonian by hand, we parameterize it with a neural network and then learn it directly from data. The ... |
-| NEURAL NETWORK DYNAMICS | https://pnicompneurojc.github.io/papers/Vogels%202005.pdf | Mar 22, 2005 ... Abstract. Neural network modeling is often concerned with stimulus-driven responses, but most of the activity in the brain is internally ... |
-| Recurrent Neural Network for Text Classification with Multi-Task ... | https://xuanjing-huang.github.io/files/RNN.pdf | Neural network based methods have obtained great progress on a variety of natural language process- ing tasks. However, in most previous works, the. |
-| Quantum Neural Networks - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/01_neural_networks.html | This notebook demonstrates different quantum neural network (QNN) implementations provided in qiskit-machine-learning, and how they can be integrated into ... |
-| Time Delay Neural Network – KaleidoEscape – Linguist turned ... | https://kaleidoescape.github.io/tdnn/ | Nov 3, 2019 ... Time Delay Neural Network. The time-delay neural betwork (TDNN) is widely used in speech recognition software for the acoustic model, which ... |
-| Implementing a two-layer neural network from scratch | https://ljvmiranda921.github.io/notebook/2017/02/17/artificial-neural-networks/ | Feb 17, 2017 ... In this exercise, a two-layer fully-connected artificial neural network (ANN) was developed in order to perform classification in the CIFAR-10 dataset. |
-| Physics Inspired Neural Network | https://swarnadeepseth.github.io/pendulum_PINN.html | Pendulum's trajectory prediction using Physics Informed Neural Network (PINN). Mar 23, 2023. Simple Pendulum Ordinary Differential Equation Neural Network ... |
-| The Convolutional Neural Network | https://com-cog-book.github.io/com-cog-book/features/cov-net.html | Regardless, the Neocognitron laid the groundwork of modern neural network models of vision and computer vision more generally. LeCun's LeNet. The architecture ... |
-| Compressing Neural Network Weights — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/quantization-neural-network.html | The Core ML Tools package includes a utility to compress the weights of a Core ML neural network model. Weight compression reduces the space occupied by the ... |
-| 2. Feed-forward neural network — Reproducible Machine Learning ... | https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_7_DeepLearning/FeedForwardNeuralNetworks.html | This section covers the design of a feed-foward neural network for fraud detection. It describes how to: |
-| 4 Methods Overview – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/overview.html | ... neural network. Model-agnostic methods can be further divided into local methods which focus on explaining individual predictions, and global methods which ... |
-| Overview of the new neural network system in Tesseract 4.00 \| tessdoc | https://tesseract-ocr.github.io/tessdoc/tess4/NeuralNetsInTesseract4.00.html | Tesseract 4.00 includes a new neural network subsystem configured as a textline recognizer. It has its origins in OCRopus' Python-based LSTM implementation. |
-| Rethinking NoCs for Spatial Neural Network Accelerators | https://anands09.github.io/papers/MicroSwitch_NOCS2017.pdf | Applications across image processing, speech recognition, and clas- sification heavily rely on neural network-based algorithms that have demonstrated highly ... |
-| Classification by a Neural Network using Keras – Introduction to ... | https://esciencecenter-digital-skills.github.io/intro-to-deep-learning-archaeology/02-keras/index.html | The goal of this episode is to quickly get your hands dirty (no.. not from fieldwork) in actually defining and training a neural network, without going into ... |
-| Neural Network Verification: About Marabou | https://neuralnetworkverification.github.io/ | This repository collects publications, libraries and other tools related to Marabou tool and its use in neural network verification. |
-| Understanding Message Passing in GNNs – Emma Benjaminson ... | https://sassafras13.github.io/GNN/ | Jun 19, 2022 ... Why Can I Use a Neural Network for That? · Each node computes a message for its neighbors. · The messages are sent and each node aggregates all of ... |
-| Graph Neural Network for Tag Ranking in Tag-enhanced Video ... | https://ruobingxie.github.io/publications/CIKM-20_GraphTR.pdf | Oct 19, 2020 ... We design a novel graph neural network that combines multi-field transformer, GraphSAGE and neural FM layers in node aggregation. We also ... |
-| Beyond the Single Neuron Convex Barrier for Neural Network ... | https://ggndpsngh.github.io/files/neurips19_krelu.pdf | Consider the simple feedforward neural network with ReLU activations shown in Fig. 2. The network has two inputs each taking values independently in the range [ ... |
-| LAMMPS interface — n2p2 - A neural network potential package ... | https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html | The LAMMPS interface adds the neural network potential method in LAMMPS. Hence, one can use a previously fitted NNP to predict energies and forces. |
-| Variational inference in Bayesian neural networks - Martin Krasser's ... | http://krasserm.github.io/2019/03/14/bayesian-neural-networks/ | Mar 14, 2019 ... This article demonstrates how to implement and train a Bayesian neural network with Keras following the approach described in Weight Uncertainty in Neural ... |
-| Distance-Enhanced Graph Neural Network for Link Prediction | https://icml-compbio.github.io/icml-website-2021/2021/papers/WCBICML2021_paper_52.pdf | both represent the connection between two nodes. Page 2. Distance-Enhanced Graph Neural Network for Link Prediction need to obtain all ... |
-| Conv Nets: A Modular Perspective - colah's blog | https://colah.github.io/posts/2014-07-Conv-Nets-Modular/ | Jul 8, 2014 ... Convolutional neural networks can be thought of as a kind of neural network that uses many identical copies of the same neuron. |
-| torch.nn — PyTorch 2.7 documentation | https://glaringlee.github.io/nn.html | A buffer that is not initialized. Containers. Module. Base class for all neural network modules. |
-| Neural Network Classification Workflow (beta) released - ilastik | https://ilastik.github.io/news/2020/03/02/nn-beta | ilastik News. Neural Network Classification Workflow (beta) released02 March 2020. We are happy to announce an exciting new beta release of ilastik. |
-| Cosyne Tutorial 2022 - Spiking Neural Networks \| Spiking Neural ... | https://neural-reckoning.github.io/cosyne-tutorial-2022/ | Spiking Neural Network Models in Neuroscience. Cosyne tutorial 2022, Dan Goodman. Cosyne Tutorial 2022 - Spiking Neural Networks. Suggested steps before the ... |
-| ConvnetJS demo: toy 2d classification with 2-layer neural network | https://ccc-js.github.io/convnetjs2demo/demo/classify2d.html | ConvnetJS demo: toy 2d classification with 2-layer neural network. The simulation below shows a toy binary problem with a few data points of class 0 (red) and ... |
-| How neural networks are trained | https://ml4a.github.io/ml4a/how_neural_networks_are_trained/ | Why training is hard. A needle in a hyper-dimensional haystack. The weights of a neural network with hidden layers are highly interdependent. To see why, ... |
-| Convolutional Neural Network: How is it different from the other ... | https://yangxiaozhou.github.io/data/2020/09/24/intro-to-cnn.html | Sep 24, 2020 ... I've always heard that CNN is a type of neural network that's particularly good at image-related problems. But, what does that really mean? |
-| GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization ... | https://anuragdutt.github.io/assets/files/www_24/WWW24_camera_ready.pdf | GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization for Microservices Applications. WWW '24, May 13–17, 2024, Singapore, Singapore. 2.1 Anomaly ... |
-| Transformers are Graph Neural Networks \| NTU Graph Deep ... | https://graphdeeplearning.github.io/post/transformers-are-gnns/ | Feb 12, 2020 ... Representation Learning for NLP. At a high level, all neural network architectures build representations of input data as vectors/embeddings, ... |
-| Pruning - Neural Network Distiller | https://intellabs.github.io/distiller/pruning.html | Neural Network Distiller · Docs »; Compressing Models »; Pruning. Pruning. A common methodology for inducing sparsity in weights and activations is called ... |
-| How to implement a neural network (4/5) - vectorization of operations | https://peterroelants.github.io/posts/neural-network-implementation-part04/ | Jun 15, 2015 ... Vectorization of the neural network and backpropagation algorithm for multi-dimensional data. Vectorization of operations is illustrated on ... |
-| Derivation: Derivatives for Common Neural Network Activation ... | https://dustinstansbury.github.io/theclevermachine/derivation-common-neural-network-activation-functions | Jun 29, 2020 ... When constructing Artificial Neural Network (ANN) models, one of the primary considerations is choosing activation functions for hidden and ... |
-| Intermittent Deep Neural Network Inference | https://g-ram.github.io/files/sonic_sysml_2018.pdf | Neural Network. In Proc. of the 43rd annual Intl. Symp. on Computer Architecture. (Proc. ISCA-43). [11] Song Han, Huizi Mao, and William J. Dally. 2016. Deep ... |
-| Artificial Neural Network Sampling — SSAGES 0.9.3 documentation | https://ssagesproject.github.io/docs/Artificial%20Neural%20Network%20Sampling.html | Artificial Neural Network (ANN) sampling is a free energy sampling method which uses ANNs to generate an on-the-fly adaptive bias capable of rapidly resolving ... |
-| Derivation of Backpropagation in Convolutional Neural Network (CNN) | https://zzutk.github.io/docs/reports/2016.10%20-%20Derivation%20of%20Backpropagation%20in%20Convolutional%20Neural%20Network%20(CNN).pdf | Oct 18, 2016 ... Abstract— Derivation of backpropagation in convolutional neural network (CNN) is con- ducted based on an example with two convolutional ... |
-| Neural Network FAQ, part 2 of 7: Learning | https://vikasing.github.io/nnfaq/FAQ2.html | Most neural networks involve combination, activation, error, and objective functions. Combination functions. Each non-input unit in a neural network combines ... |
-| Neural network parameters — dropout • dials | https://tidymodels.github.io/dials/reference/dropout.html | These functions generate parameters that are useful for neural network models. |
-| Conditional Convolutional Neural Network for Modality-Aware Face ... | https://labicvl.github.io/docs/pubs/Chao_ICCV_2015.pdf | We propose a con- ditional Convolutional Neural Network, named as c-CNN, to handle multimodal face recognition. Different from tra- ditional CNN that adopts ... |
-| Physics-Informed Tensor Basis Neural Network for Turbulence ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_91.pdf | This work combines a deep-neural-network- based, nonlinear eddy viscosity model with turbulence realizability constraints as an inductive bias in order to yield ... |
-| A Neural Network Mode for PX4 on Embedded Flight Controllers | https://ntnu-arl.github.io/px4-nns/ | This paper contributes an open-sourced implementation of a neural-network based controller framework within the PX4 stack. |
-| Measuring the Effects of Data Parallelism on Neural Network Training | https://fid3024.github.io/papers/2019%20-%20Measuring%20the%20Effects%20of%20Data%20Parallelism%20on%20Neural%20Network%20Training.pdf | As long as the training objective decomposes into a sum over training examples, data parallelism is model-agnostic and ap- plicable to any neural network ... |
-| The Transformer Blueprint: A Holistic Guide to ... - AI Research Blog | https://deeprevision.github.io/posts/001-transformer/ | Jul 29, 2023 ... A deep dive into Transformer, a neural network architecture that was introduced in the famous paper “attention is all you need” in 2017, ... |
-| Build a Convolutional Neural Network | https://carpentries-incubator.github.io/intro-image-classification-cnn/03-build-cnn.html | May 30, 2024 ... Neural Networks. A neural network is an artificial intelligence technique loosely based on the way neurons in the brain work. A single neuron. |
-| Advances in natural language processing | https://princeton-nlp.github.io/cos484/readings/advances_in_nlp.pdf | Jul 17, 2015 ... Natural language processing employs computational techniques for the purpose of learning, understanding, and producing human language ... |
-| Princeton NLP Group: Princeton Natural Language Processing | https://princeton-nlp.github.io/ | Princeton Natural Language Processing. Princeton NLP is a team of faculty and students working to make computers understand and use human language ... |
-| McGill NLP: McGill Natural Language Processing | https://mcgill-nlp.github.io/ | McGill NLP is a research group within McGill University and Mila focusing on various topics in natural language processing. |
-| Advanced Natural Language Processing / Fall 2025 | https://cmu-l3.github.io/anlp-fall2025/ | In it, we describe fundamental tasks in natural language processing as well as methods to solve these tasks. The course focuses on modern methods using neural ... |
-| NALA Group | https://nala-cub.github.io/ | Welcome to the website of the von der Wense Natural Language Processing Group (NALA), whose two homes are University of Colorado Boulder, USA, and Johannes ... |
-| CPSC 477/577 – Natural Language Processing | https://yale-nlp.github.io/cpsc477/ | CPSC 477/577 • Spring 2025 • Yale University. Welcome to CPSC 477/577 – Natural Language Processing! This year, we have updated the syllabus and we'll focus ... |
-| Natural Language Processing with R | https://s-ai-f.github.io/Natural-Language-Processing/ | May 6, 2020 ... This is a tutorial of various techniques used in natural language processing and text mining. |
-| CSCI 662 \| CSCI 662 - Advanced Natural Language Processing | https://jonmay.github.io/USC-CS662/ | CS662 ; Lectures. Monday and Wednesday 10:00–11:50 am, DMC 261 ; Textbook. Optional: Natural Language Processing - Eisenstein ('E' in schedule) – or free version. |
-| COS 484: Natural Language Processing | https://princeton-nlp.github.io/cos484/ | What is this course about? Recent advances have ushered in exciting developments in natural language processing (NLP), resulting in systems that can translate ... |
-| OHNLP | https://ohnlp.github.io/ | The goal of the Open Health Natural Language Processing Consortium is to establish an open source consortium to promote past and current development efforts and ... |
-| Natural Language Processing | https://utah-intro-nlp.github.io/ | Natural Language Processing. CS 6340/5340, Spring 2024 MoWe / 11:50am - 1:10pm , WEB L102, Recordings. Instructor: Ana Marasović (she/her) · ana.marasovic@utah ... |
-| CSCI 5541, Natural Language Processing | https://dykang.github.io/classes/csci5541/F24/index.html | Prerequisite: Maturity in linear algebra, calculus, and basic probability. Familiarity with Python. 5521 (recommended) or grad,. Natural Language Processing ( ... |
-| CS 4501 Natural Language Processing (Fall 2024) - Yu Meng | https://yumeng5.github.io/teaching/2024-fall-cs4501 | In this course, we will explore the foundational concepts and the latest advancements in Natural Language Processing (NLP). |
-| CS 6501 Natural Language Processing (Spring 2024) - Yu Meng | https://yumeng5.github.io/teaching/2024-spring-cs6501 | This advanced graduate-level course offers a comprehensive exploration of cutting-edge developments in the field of natural language processing (NLP). |
-| Modern Approaches in Natural Language Processing | https://slds-lmu.github.io/seminar_nlp_ss20/ | Sep 8, 2020 ... Preface. In the last few years, there have been several breakthroughs concerning the methodologies used in Natural Language Processing (NLP). |
-| Natural Language Processing with Python | https://tjzhifei.github.io/resources/NLTK.pdf | Page 1. Page 2. Page 3. Natural Language Processing with Python. Page 4. Page 5. Natural Language Processing with Python. Steven Bird, Ewan Klein, and Edward ... |
-| NLP-progress: Tracking Progress in Natural Language Processing | https://sebastianruder.github.io/NLP-progress/ | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. |
-| Item Response Theory for Natural Language Processing | https://eacl2024irt.github.io/ | Welcome to our tutorial on Item Response Theory for Natural Language Processing! This tutorial will introduce the NLP community to Item Response Theory (IRT). |
-| Natural Language Processing | https://uom-nlp.github.io/ | Natural Language Processing (NLP) is a field of artificial intelligence that focuses on enabling computers to understand, interpret, and generate human ... |
-| DS-GA.1011 Natural Language Processing with Representation ... | https://nyu-cs2590.github.io/fall2023/ | DS-GA.1011 Natural Language Processing with Representation Learning, Fall 2023. Table of contents. About; Prerequisites; Logistics; Grading; Coursework. |
-| TextGraphs | https://michigannlp.github.io/textgraphs | TextGraphs: Graph-based Algorithms for Natural Language Processing. The Textgraphs workshops address a broad spectrum of research areas and brings together ... |
-| Workshop on Gender Bias in Natural Language Processing: index | https://gebnlp-workshop.github.io/ | The 6th Workshop on Gender Bias in Natural Language Processing at ACL 2025. |
-| CS 769 Advanced Natural Language Processing (Fall 2023) | https://junjiehu.github.io/cs769-fall23/ | CS 769 • Fall 2023 • University of Wisconsin-Madison. Natural language processing technology attempts to model human language with computers, tackling a wide ... |
-| A brief review of Natural Language Processing with Python ... | https://nlacara.github.io/blog/reviews/nltk_book.html | A summary of the book. Natural Language Processing with Python , which I will just call the nltk book for short, is a free, online textbook that ... |
-| CSE 447: Natural Language Processing, Fall 2024 | https://msclar.github.io/cse447-au24/ | CSE 447: Natural Language Processing, Fall 2024. MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor). Instructor: Yulia Tsvetkov · yuliats@cs.washington.edu. OH ... |
-| Natural Language Processing in Humans and Machines \| Teaching ... | https://denizenslab.github.io/teaching/seminars/NLP_HM/ | Natural Language Processing in Humans and Machines. NLP_HM. Instructors: Anuja Negi, Mathis Lamarre, Subba Reddy Oota, Fatma Deniz. Overview; Content. Learning ... |
-| Applied Natural Language Processing \| ISYE 8813, Fall2022 ... | https://mahdi-roozbahani.github.io/ANLP-Spring23/ | This course is to introduce you to broad classes of techniques and tools for analyzing text data using Natural Language Processing (NLP) algorithms and ... |
-| Home – 6.861* Quantitative Methods for NLP – Advanced NLP | https://mit-6861.github.io/ | Natural language processing (NLP) addresses this question, and in this course students study both modern and classic approaches. We will mainly focus on ... |
-| CSE 4392 Special Topics (Natural Language Processing) | https://kenzhu2000.github.io/cse4392/ | Course Summary. Natural language processing (NLP) is the ability of a computer program to understand and further generate (mostly) human language as it is ... |
-| NLP4Disability – The Second Workshop on Natural Language ... | https://nlp4disability.github.io/ | The Second Workshop on Natural Language Processing (NLP) for Disability @ PETRA 2025. |
-| KNLP 2026 - SAC Special Track on Knowledge and Natural ... | https://knlp-sac.github.io/2026/ | ... natural language processing, focusing in particular on approaches combining them. This is an extremely interdisciplinary emerging research area, at the core ... |
-| CS 769 Advanced Natural Language Processing (Spring 2022) | https://junjiehu.github.io/cs769-spring22/ | Feb 5, 2022 ... An introductory graduate-level course on natural language processing aimed at students who are interested in doing cutting-edge research in the field. |
-| Bridging Neurons and Symbols for Natural Language Processing ... | https://neusymbridge.github.io/ | Bridging Neurons and Symbols for Natural Language Processing and Knowledge Graphs Reasoning @ AAAI 2026. Overview. The success of neural networks is witnessed ... |
-| Natural Language Processing Fall 2025 | https://anoopsarkar.github.io/nlp-class/ | Natural Language Processing Fall 2025. Natural Language Processing (NLP) was traditionally a research field heavily reliant on partially supervised machine ... |
-| Advanced Natural Language Processing / Spring 2025 | https://cmu-l3.github.io/anlp-spring2025/ | In it, we describe fundamental tasks in natural language processing as well as methods to solve these tasks. The course focuses on modern methods using neural ... |
-| 50.040 Natural Language Processing | https://isakzhang.github.io/courses/50040-nlp.html | 50.040 Natural Language Processing. Fall 2025 (Term 7) \| Singapore University of Technology and Design (SUTD). Announcements. Teaching Team. Grading. Logistics. |
-| PittNAIL | https://pittnail.github.io/ | PittNAIL's research focus centers on clinical Natural Language Processing (NLP), Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) ... |
-| The USF NLP Group | https://nlp-grp.github.io/ | ... natural language processing and language and data intelligence. We explore areas such as multilingual applications, text analysis, natural language ... |
-| Embracing variability in natural language processing \| MaiNLP ... | https://mainlp.github.io/iclave12/ | Jul 10, 2024 ... For the longest time, Natural Language Processing (NLP) has not engaged with variation in language in a systematic way – one that matches both ... |
-| Chapter 6 Introduction: Transfer Learning for NLP \| Modern ... | https://slds-lmu.github.io/seminar_nlp_ss20/introduction-transfer-learning-for-nlp.html | Authors: Carolin Becker, Joshua Wagner, Bailan He. Supervisor: Matthias Aßenmacher. As discussed in the previous chapters, natural language processing (NLP) ... |
-| Natural Language Processing \| Alberto Barrón-Cedeño | https://albarron.github.io/teaching/natural-language-processing/ | Sep 24, 2025 ... Course contents · 1. Introduction to Natural Language Processing. Lesson 1. MO 29/09/24 Slides Introduction · 2. Words and the vector space model. |
-| AI Dictionary \| NHS AI Lab | https://nhsx.github.io/ai-dictionary/?term=nlp | Natural language processing. NLP. A collection of techniques which use speech and text data. Speech-to-text systems convert verbal speech to text, such as in ... |
-| Deep Learning Research Review Week 3: Natural Language ... | https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing | Jan 10, 2017 ... Introduction to Natural Language Processing. Introduction. Natural language processing (NLP) is all about creating systems that process or ... |
-| Overview - CoreNLP | https://stanfordnlp.github.io/CoreNLP/ | CoreNLP is your one stop shop for natural language processing in Java! CoreNLP enables users to derive linguistic annotations for text. |
-| COMP3361: Natural Language Processing | https://taoyds.github.io/courses/comp3361 | COMP3361: Natural Language Processing. Course Information. Instructor. Tao Yu; Office Hour: Tuesday 4 - 5 pm @HW518 (make an appointment). Lecture. |
-| Jacob Eisenstein | https://jacobeisenstein.github.io/ | I work on computational linguistics and natural language processing. I have been focused on language variation and change: making NLP robust to it. |
-| SSNLP 2025: The 2025 Singapore Symposium on Natural ... | https://ssnlp-website.github.io/ssnlp25/ | Apr 23, 2025 ... — Call for Paper, welcome research publications from related conferences working on Natural Language Processing. Jan. 24, 2025 — The date is ... |
-| Natural Language Processing: A Primer — ENC2045 Computational ... | https://alvinntnu.github.io/NTNU_ENC2045_LECTURES/nlp/nlp-primer.html | This section provides a quick overview of natural language processing, or, more broadly speaking, computational linguistics. |
-| Natural Language Processing, Spring 2021 \| Rycolab | https://rycolab.github.io/classes/intro-nlp-s21/ | This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning ... |
-| Natural Language Processing — Coding for Economists | https://aeturrell.github.io/coding-for-economists/text-nlp.html | This chapter covers text analysis, also known as natural language processing. We'll cover tokenisation of text, removing stop words, counting words, performing ... |
-| CS 769 Advanced Natural Language Processing (Fall 2024) | https://junjiehu.github.io/cs769-fall24/ | Natural language processing technology attempts to model human language with computers, tackling a wide variety of problems from automatic translation to ... |
-| A Cross-Architecture Instruction Embedding Model for Natural ... | https://lannan.github.io/papers/bar2019-final57.pdf | Thus, recent work starts exploring Natural Language Processing (NLP) inspired binary code analysis. In NLP, words are usually represented in high-dimensional ... |
-| CSE 447: Natural Language Processing, Spring 2022 | https://fiftyloops.github.io/cse447-sp22/ | CSE 447: Natural Language Processing, Spring 2022. MWF 1:30-2:20pm, KNE 110. Instructor: Yulia Tsvetkov · yuliats@cs.washington.edu. OH: Thu 3:30-4:30pm, Zoom ... |
-| CS 4120: Natural Language Processing, Spring 2023 | https://muzny.github.io/syllabus/cs4120_spring2023.pdf | CS 4120: Natural Language Processing,. Spring 2023. Instructor: Prof. Felix ... Introduction to Natural Language Processing. MIT Press, 2019. b. Kohn ... |
-| Natural Language Processing and Reasoning | https://14h034160212.github.io/Qiming_Bao_IEEE_VTS_Natural_Language_Processing_Reasoning_Invited_Talk_Final.pdf | Aug 30, 2022 ... Natural language processing has many application scenarios, including machine translation, automatic summarization, text classification, ... |
-| UoL NLP Group | https://livnlp.github.io/ | University of Liverpool, Natural Language Processing Group. |
-| CSCI 5640: Natural Language Processing — Spring 2025 | https://lavi-lab.github.io/csci5640/ | CSCI 5640 Natural Language Processing — Spring 2025. News. Jan 6: Welcome all the students! Wish you enjoy our NLP course and have a splendid semester! |
-| CS 2731 Introduction to Natural Language Processing, Fall 2023 ... | https://michaelmilleryoder.github.io/cs2731_fall2023/ | Nov 30, 2023 ... This course provides an introduction to the artificial intelligence research field that brought about these systems: natural language processing (NLP). |
-| NLP4Prog Workshop 2021 \| Natural Language Processing for ... | https://nlp4prog.github.io/2021/ | The First Workshop on Natural Language Processing for Programming. Co-located with ACL-IJCNLP 2021 (virtual) August 6, 2021. The proliferation of programming ... |
-| ClimateNLP 2025 | https://nlp4climate.github.io/ | The 2nd Workshop of Natural Language Processing meets Climate Change. |
-| Natural Language Processing \| CSE 447 and 517 at the University ... | https://nasmith.github.io/NLP-winter22/ | CSE 447 and 517 at the University of Washington, Winter 2022. A broad course in natural language processing. Week 3 Announcement. Jan 19 · 0 min read. Here is ... |
-| A Tidy Data Model for Natural Language Processing using cleanNLP | https://rjournal.github.io/archive/2017/RJ-2017-035/index.html | Jun 27, 2017 ... Recent advances in natural language processing have produced libraries that extract low-level features from a collection of raw texts. |
-| CS 162 - Natural Language Processing - Winter 2023 course page ... | https://violetpeng.github.io/cs162_win23.html | Jan 2, 2023 ... CS 162: Natural Language Processing — Winter 2023. Prof. Nanyun (Violet) Peng. Announcements \| Course Information \| Schedule. Announcements. 1/2 ... |
-| DL4NLP - Deep Learning for Natural Language Processing | https://liu-nlp.github.io/dl4nlp/ | Learning outcomes. Natural Language Processing (NLP) develops methods for making human language accessible to computers. The goal of this course is to provide ... |
-| CS 4770 Natural Language Processing (Fall 2025) - Yu Meng | https://yumeng5.github.io/teaching/2025-fall-cs4770 | In this course, we will explore the foundational concepts and the latest advancements in Natural Language Processing (NLP). The course aims to provide a ... |
-| Universal Natural Language Processing - NALA Group | https://nala-cub.github.io/projects/universal_nlp | Jul 22, 2025 ... In recent years, natural language processing (NLP) as a field has seen impressive results on a large variety of syntactic and semantic tasks ... |
-| Text Analysis in Python: Summary and Setup | https://carpentries-incubator.github.io/python-text-analysis/ | Introduction to Natural Language Processing · 2. Corpus Development- Text Data Collection · 3. Preparing and Preprocessing Your Data · 4. Vector Space and ... |
-| Natural Language Processing (CM3060) | https://world-class.github.io/REPL/modules/level-6/cm-3060-natural-language-processing/ | REPL · The Learning Hub for UoL's Online CS Students · Natural Language Processing (CM3060). |
-| Clinical NLP Workshop 2019 | https://clinical-nlp.github.io/2019/ | The 2nd Clinical Natural Language Processing Workshop. At NAACL 2019. Minneapolis, USA. June 7, 2019. Clinical text offers unique challenges that ... |
-| Overview \| Deep Learning for Natural Language Processing: A ... | http://clulab.github.io/gentlenlp/ | This repository contains the text and code from the book Deep Learning for Natural Language Processing: A Gentle Introduction. |
-| Large-scale Analysis of Counseling Conversations: An Application ... | https://behavioral-data.github.io/resources/pubpdfs/althoff2016counseling.pdf | An Application of Natural Language Processing to Mental Health. Tim Althoff∗, Kevin Clark∗, Jure Leskovec. Stanford University. 1althoff, kevclark, jurel@cs ... |
-| HOME — CITS4012 Natural Language Processing | https://weiliu2k.github.io/CITS4012/ | This Jupyter Book hosts the lab materials of CITS4012 Natural Language Processing offered at Department of Computer Science and Software Engineering at the ... |
-| Natural Language Processing using LLMs in R & Python :: Cheatsheet | https://rstudio.github.io/cheatsheets/html/nlp-with-llms.html | Natural Language Processing using LLMs in R & Python :: Cheatsheet. Hex logo for mall - drawing of the inside of a mall. There is a. Download PDF. Click on R ... |
-| Athens Natural Language Processing Summer School 2025 | https://athnlp.github.io/2025/index.html | Athens Natural Language Processing Summer School (AthNLP) 2025 will take place on September 4th-10th at the campus of NCSR “Demokritos” in Athens, Greece. |
-| TrustNLP | https://trustnlpworkshop.github.io/ | About. Recent advances in Natural Language Processing, and the emergence of pretrained Large Language Models (LLM) specifically, have led to significant ... |
-| NLPSA @ IIS, Academia Sinica | https://academiasinicanlplab.github.io/ | NLPSA. Natural Language Processing and Sentiment Analysis Lab. NLPSA Lab at Academia Sinica is a team of faculty, postdocs, and students who work together on ... |
-| Sowmya Vajjala: Course Materials | https://econnlpcourse.github.io/course-materials/ | Books · “Python for Everybody” by Charles Severance (For Python overview) · NLTK book (For NLP with Python overview) · “Practical Natural Language Processing” by ... |
-| References \| Modern Approaches in Natural Language Processing | https://slds-lmu.github.io/seminar_nlp_ss20/references.html | A primer on neural network models for natural language processing. Journal of Artificial Intelligence Research 57: 345–420. |
-| CSCI-GA.2590 Natural Language Processing, Spring 2023 | https://nyu-cs2590.github.io/spring2023/ | 2590 Natural Language Processing, Spring 2023. Table of contents. About; Prerequisites; Logistics; Grading; Coursework. Assignments; Midterm; Project. About. |
-| Natural Language Processing and Program Analysis for Supporting ... | https://pengyunie.github.io/p/NieETAL18TodoComments.pdf | Natural Language Processing and Program Analysis for Supporting Todo. Comments as Software Evolves. Pengyu Nie, Junyi Jessy Li, Sarfraz Khurshid, Raymond ... |
-| Natural Language Processing \| MSAIL | https://msail.github.io/tag/natural-language-processing/ | Human-in-the-Loop Natural Language Processing. Speaker(s): Dr. Jonathan Kummerfeld. Latent Semantic Analysis. Speaker(s): Nisreen Bahrainwala. Natural Language ... |
-| Natural Language Processing with Transformers Book | https://nlp-with-transformers.github.io/website/ | ... natural language processing tasks. If you're a data scientist or coder, this practical book shows you how to train and scale these large models using ... |
-| Deep Learning for Natural Language Processing (DL4NLP) | https://slds-lmu.github.io/dl4nlp/ | This website offers an open and free introductory course on deep learning algorithms and popular architectures for contemporary Natural Language Processing ( ... |
-| AAAI 2020 Tutorial: Modularizing Natural Language Processing | https://asyml.github.io/aaai_tutorial/ | The recent success and growth in the fields of Natural Language Processing (NLP) and Artificial Intelligence (AI) have presented the world with a large number ... |
-| Clinical NLP Workshop 2023 | https://clinical-nlp.github.io/2023/ | The 5th Clinical Natural Language Processing Workshop. At ACL 2023. 14 Jul 2023, Toronto, Canada. Important Dates. Event, Date. Shared task registration opens ... |
-| NEURON: Query Execution Plan Meets Natural Language ... | https://raihanjoty.github.io/papers/liu-et-al-sigmod-demo-19.pdf | PVLDB, 8(1), 2014. [5] S. Liu, et al. NEURON: Query Optimization Meets Natural Language Processing. For Augmenting Database Education. https://arxiv ... |
-| Fundamentals of Natural Language Processing (NLP) in Python ... | https://carpentries-incubator.github.io/Natural-language-processing/ | This lesson teaches the fundamentals of Natural Language Processing (NLP) in Python. It will equip you with the foundational skills and knowledge needed to ... |
-| Natural Language Processing, CS322, SP19 \| CS322-SP19 | https://jmhessel.github.io/CS322-SP19/ | This course will cover several topics in Natural Language Processing, with a particular focus on statistical methods that learn patterns automatically from ... |
-| AI6127: Deep Neural Networks for Natural Language Processing | https://ntunlpsg.github.io/AI6127-deep-nlp-20/ | Natural Language Processing (NLP) is one of the most important fields in Artificial Intelligence (AI). It has become very crucial in the information age ... |
-| Five sources of bias in natural language processing \| MilaNLP Lab ... | https://milanlproc.github.io/publication/2021-five-sources-bias/ | Recently, there has been an increased interest in demographically grounded bias in natural language processing (NLP) applications. Much of the recent work ... |
-| CS 6320 (Fall 23): Natural Language Processing | https://xinyadu.github.io/cs6320/index.html | This graduate course provides an introduction to the field of natural language processing. We will cover core NLP tasks, such as language modeling and parsing. |
-| John E. Ortega / johneortega: John E. Ortega is a computational ... | https://johneortega.github.io/ | I am currently an applied researcher and manager with research interests in the areas of machine learning, natural language processing, machine translation, ... |
-| Metamorphic Testing of Large Language Models for Natural ... | https://valerio-terragni.github.io/assets/pdf/cho-icsme-2025.pdf | Abstract—Using Large Language Models (LLMs) to perform. Natural Language Processing (NLP) tasks has been becoming increasingly pervasive in recent times. The ... |
-| Transfer Learning for Natural Language Processing | https://tl4nlp.github.io/ | Abstract. Transfer learning has become ubiquitous in natural language processing due in part to the ease of access to large pre-trained language models ... |
-| COS 584: Advanced Natural Language Processing | https://princeton-nlp.github.io/cos484/cos584.html | COS 584: Advanced Natural Language Processing. Spring 2021. [Perusall] [Information] [Schedule] [COS 484]. What is this course about? This graduate-level ... |
-| A Review of Natural Language Processing Techniques for Opinion ... | https://shiliangsun.github.io/pubs/NLP_OM.pdf | Oct 24, 2016 ... in Natural Language Processing, 2015, pp. 65–75. [10] C. Nopp, A. Hanbury, Detecting risks in the banking system by senti- ment analysis, in ... |
-| 2.7. Extend the protocol: natural language processing - Digital ... | https://jacomyma.github.io/mapping-controversies/2.7/ | Tinker with natural language processing (NLP) · Extend the protocol (document your curation choices) · Check a new notebook to do NLP ... |
-| Paradigm Shift in NLP \| Paradigm shift in natural language processing | https://txsun1997.github.io/nlp-paradigm-shift/ | Welcome to the webpage for “Paradigm Shift in Natural Language Processing”. Some resources of the paper are constantly maintained here, such as a full list of ... |
-| Welcome to the Modern World of Pronouns: Identity-Inclusive ... | https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/ | However, Natural Language Processing (NLP) barely reflects this linguistic shift, resulting in the possible exclusion of non-binary users, even though recent ... |
-| Natural Language Processing | https://princeton-nlp.github.io/cos484/readings/eisenstein-nlp-notes.pdf | Nov 13, 2018 ... ... 1. 1.1 Natural language processing and its neighbors . . . . . . . . . . . . . . . . . 1. 1.2 Three themes in natural language processing ... |
-| The state of Computer Vision and AI: we are really, really far away. | http://karpathy.github.io/2012/10/22/state-of-computer-vision/ | Oct 22, 2012 ... Recognizing President Obama. Computer vision is still very bad at profile view face recognition, requiring full or nearly full frontal view to ... |
-| CSCI 1430: Introduction to Computer Vision | https://browncsci1430.github.io/ | This course provides an introduction to computer vision, including fundamentals of image formation, camera imaging geometry, feature detection and matching. |
-| Women in Computer Vision | https://wicvworkshop.github.io/ | Women in Computer Vision. Recent Events. WiCV @ ICCV 2025. October 19th. Honolulu, Hawaii, USA. Go to website. © WiCV @ ICCV 25. Page updated. Report abuse. |
-| Computer Vision: Foundations and Applications | https://stanford-cs131.github.io/winter2025/ | Computer Vision is one of the fastest growing and most exciting AI disciplines in today's academia and industry. This 10-week course is designed to open the ... |
-| Computer Vision at University of Virginia | https://uva-computer-vision-lab.github.io/ | Welcome to the Computer Vision Lab at the University of Virginia! Our goal is to teach the machine to see the 3D visual world, just like our humans! |
-| Synthetic Data for Computer Vision - CVPR 2025 \| Synthetic Data for ... | https://syndata4cv.github.io/ | The workshop aims to explore the use of synthetic data in training and evaluating computer vision models, as well as in other related domains. |
-| 6.S058: Introduction to Computer Vision, Spring 2025 | https://introtocv.github.io/ | This course provides an introduction to computer vision, covering topics from early vision to mid- and high-level vision. |
-| CS180/280A: Intro to Computer Vision and Computational ... | https://cal-cs180.github.io/ | CS180/280A Introduction to Computer Vision and Computational Photography at UC Berkeley - Fall 2025. Hands-on course covering image processing, ... |
-| Computer Vision And Image Understanding Lab | https://uark-cviu.github.io/ | CVIU Lab promotes advanced research in Computer Vision, Deep Learning, Biometrics, Machine Intelligence, and Quantum Machine Learning technologies. |
-| CV4Ecology Workshop | https://cv4ecology.github.io/ | A three-week intensive program teaching Computer Vision Methods for Ecology, seeking to empower ecologists to accurately and efficiently analyze large image, ... |
-| CS C280, Computer Vision (Spring 2025) | http://cs280-berkeley.github.io/ | CS C280, Computer Vision (Spring 2025). Logistics. UC Berkeley, Spring 2025. Time: Monday, Wednesday 2:00PM - 3:29PM Location: 1102 Berkeley Way West Ed: CS280 ... |
-| What Uncertainties Do We Need in Bayesian Deep Learning for ... | https://seunghan96.github.io/assets/pdf/BNN/paper/29.What%20Uncertainties%20Do%20We%20Need%20in%20Bayesian%20Deep%20Learning(2017).pdf | Quantifying uncertainty in computer vision applications can be largely divided into regression set- tings such as depth regression, and classification ... |
-| Computer Vision Models | https://udlbook.github.io/cvbook/ | Computer Vision: Models, Learning, and Inference. Simon J.D. Prince A new machine vision textbook with 600 pages, 359 colour figures, 201 exercises and 1060 ... |
-| CV4MR 2025 | https://cv4mr.github.io/ | MR poses a set of very unique research problems in computer vision that are not covered by VR. Our focus is on capturing the real environment around the ... |
-| 6.8300/1: Advances in Computer Vision, Spring 2024 | https://advances-in-vision.github.io/ | This course covers fundamental and advanced domains in computer vision, covering topics from early vision to mid- and high-level vision. |
-| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-25/ | However, these impressive advances in generative modeling have not yet found wide adoption in computer vision for visual recognition tasks. In this workshop, we ... |
-| COMPSCI 670 • Fall 2022 - Computer Vision | https://cvl-umass.github.io/cv-fall-2022/ | Computer Vision. COMPSCI 670 • Fall 2022 • University of Massachusetts, Amherst. This graduate-level course will explore techniques for the analysis of visual ... |
-| Reflections on Reviewing Computer Vision Papers - M. Usman ... | https://usman-rafique.github.io/posts/cv_review/ | Jan 20, 2023 ... While these guidelines are related to computer vision, these might be generally applicable to other fields. If you have any comments or ... |
-| International Workshop on Frontiers of Computer Vision | https://iwfcv2025.github.io/ | Welcome to IWFCV 2025. Welcome to the International Workshop on Frontiers of Computer Vision! We are excited to host another year of groundbreaking research ... |
-| Computer Vision for Drug Discovery Where Are We and What is ... | https://cvdd-cvpr25.github.io/ | Spatial Transcriptomics, Cell Painting, Optical Pooled Screening, image-based biomarkers, and other image modalities with Computer Vision and AI techniques ... |
-| eXCV Workshop at ICCV 2025 | https://excv-workshop.github.io/ | Explainable Computer Vision: Quo Vadis? · Workshop at the International Conference on Computer Vision (ICCV) 2025 · Honolulu, Hawai'i, USA · October 19, 2025 · ... |
-| WORKSHOP ON FAIR, DATA EFFICIENT AND TRUSTED ... | https://fadetrcv.github.io/2025/ | 2025 IEEE CVPR WORKSHOP ON. FAIR, DATA-EFFICIENT ... FAIR, DATA-EFFICIENT, AND TRUSTED COMPUTER VISION ... in conjunction with IEEE CVPR 2025. June 11, 2025 ... |
-| Test-time Scaling for Computer Vision (ViSCALE) Workshop ... | https://viscale.github.io/ | Test-time Scaling for Computer Vision Workshop at CVPR2025. |
-| Advanced Computer Vision | https://16820advancedcv.github.io/ | 16-820: Advanced Computer Vision · Linear Algebra, Multivariate Calculus, Probability theory, Programming. Python programming experience and previous exposure to ... |
-| CVMI @ CVPR 2025 - 10th IEEE Workshop on Computer Vision for ... | https://cvmi-workshop.github.io/ | The 10th CVMI Workshop will bring together experts in computer vision and microscopy image analysis to foster in-depth technical discussions and ... |
-| Computer Vision in Advertising and Marketing CVAM @ ICCV 2025 ... | https://cvam-workshop.github.io/ | The workshop will explore cutting-edge computer vision applications in digital advertising and marketing, covering fundamental visual understanding tasks. |
-| Computer Vision in the Built Environment \| 3rd Workshop and ... | https://cv4aec.github.io/ | Computer Vision in the Built Environment. CV4AEC @ CVPR 2024 (18 June 2024). News Important Dates Schedule Keynote Speakers Accepted Papers Call for Short ... |
-| 4th Workshop on Uncertainty Quantification for Computer Vision | https://uncertainty-cv.github.io/ | The workshop will bring together experts from machine learning and computer vision to create a new generation of well-calibrated and effective methods. |
-| Computer Vision – Digital Scholarship & Data Science Topic Guides | https://libereurope.github.io/ds-topic-guides/computer-vision.html | Jun 8, 2025 ... This guide introduces Computer Vision, a branch of Artificial Intelligence that enables machines to interpret and analyse visual data using ... |
-| PUT Vision Lab | https://putvision.github.io/ | Computer Vision Lab at Poznan University of Technology. |
-| CVPR 2023 - 10th Workshop on Medical Computer Vision | https://mcv-workshop.github.io/ | The ultimate goal of the MCV workshop is to bring together stakeholders interested in leveraging medical imaging data, machine learning and computer vision ... |
-| Computer Vision Group at Rice University | https://ricevision.github.io/ | Computer Vision @ Rice. logo of an owl with camera shutters for eyes. Supported by Ken Kennedy Institute (Rice University). Members: |
-| Machine Learning and Computer Vision Research Group | https://uob-mavi.github.io/people/ | Applications to the 2025 Summer of Research @MaVi have now closed. Machine Learning and Computer Vision Research Group ... |
-| Computer Vision \| University of Juba | https://uojai.github.io/computervision/ | Delve deeper into the world of computer vision! This advanced course builds upon your understanding of convolutional neural networks and propels you into ... |
-| Intro to Computer Vision and Computational ... - CS180/280A | https://cal-cs180.github.io/fa24/ | ... (computer vision), and image synthesis (computational photography). Key algorithms will be presented, ranging from classical (e.g. Gaussian and Laplacian ... |
-| Workshop on Computer Vision in the Wild 2025 | https://computer-vision-in-the-wild.github.io/cvpr-2025/ | The 4th Workshop on Computer Vision in the Wild (CVinW) at CVPR 2025 aims to foster discussions and innovations that push the boundaries of computer vision ... |
-| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-24/ | Jun 18, 2024 ... However, these impressive advances in generative modeling have not yet found wide adoption in computer vision for visual recognition tasks. In ... |
-| Intro to Computer Vision \| NYU, Spring 2022 | https://esizikova.github.io/introCV-spring2022/ | This course is aims to cover a broad topics in computer vision, and is not primarily a deep learning course. |
-| Vision Research Lab - Computer Vision Research at UC Santa ... | https://connor11son.github.io/vrl-test-site/index.html | The Vision Research Lab at UC Santa Barbara conducts research in computer vision, machine learning, and image processing with applications in biomedical, ... |
-| 6 Computer Vision - Applied Causal Inference | https://appliedcausalinference.github.io/aci_book/07-computer-vision.html | This chapter focuses on applications combining causal inference and computer vision. Computer vision (CV) refers to a domain of machine learning which ... |
-| Advanced Deep Learning for Computer Vision: Visual Computing ... | https://niessner.github.io/ADL4CV/ | ... Computer Vision: Visual Computing (ADL4CV) (IN2390). Welcome to the Advanced Deep Learning for Computer Vision course offered in winter semester 2025/2026! |
-| 2nd Workshop on Quantum Computer Vision and Machine Learning | https://qcvml.github.io/ | Sep 15, 2024 ... QCVML focuses on the connections between Quantum Computing and Computer Vision as well as Machine Learning. |
-| Shu Kong \| Computer Vision Lab | https://aimerykong.github.io/group.html | Shu Kong \| Computer Vision Lab. research in computer vision, machine learning, robotics, NLP, HCI, graphics, interdisciplinary research (e.g., plant biology ... |
-| XAI4CV | https://xai4cv.github.io/ | Explainable AI for Computer Vision (XAI4CV). Upcoming workshop. TBD. Previous workshops. The 4th XAI4CV Workshop at CVPR 2025 · The 3rd XAI4CV Workshop at CVPR ... |
-| Computer Vision Model Leaderboard | https://roboflow.github.io/model-leaderboard/ | Compare computer vision models benchmarked on the COCO 2017 dataset using standardized mAP and F1 metrics. Filter by architecture, size, or license to find the ... |
-| Geometry-based Methods in Vision | https://geometric3d.github.io/ | The course focuses on the geometric aspects of computer vision: The geometry of image formation and its use for 3D reconstruction and calibration. |
-| NECV 2024 | https://necv2024.github.io/ | Nov 22, 2024 ... The New England Computer Vision Workshop (NECV) brings together researchers in computer vision and related areas for an informal exchange of ideas. |
-| Introduction: Advanced Explainable AI for computer vision ... | https://jacobgil.github.io/pytorch-gradcam-book/ | This is a package with state of the art methods for Explainable AI for computer vision. This can be used for diagnosing model predictions. |
-| CMSC 426 Computer Vision Spring 2019 | https://cmsc426spring2019.github.io/ | This course offers an introduction to Computer Vision and Computational Photography. The course will cover basic principles of Image Processing. |
-| AliceVision \| Photogrammetric Computer Vision Framework | http://alicevision.github.io/ | AliceVision is a Photogrammetric Computer Vision framework for 3D Reconstruction and Camera Tracking. |
-| Astra-vision - Computer vision group, Astra, Inria | https://astra-vision.github.io/ | Astra-vision. Computer vision group of Astra Team, Inria Paris. astravision-2023_700p.jpg. Oct ... |
-| CVM Lab \| Home | https://iitcvmlab.github.io/ | Our Computer Vision and Multimedia Laboratory (CVM-Lab) is affiliated with UIC (University of Illinois Chicago) at Chicago, IL. Our research work is ... |
-| COMPSCI 670 • Fall 2024 - Computer Vision | https://cvl-umass.github.io/compsci670-fall-2024/ | Computer Vision. COMPSCI 670 • Fall 2024 • University of Massachusetts, Amherst. This advanced PhD-level course is designed to prepare students for research ... |
-| Piotr's Matlab Toolbox | https://pdollar.github.io/toolbox/ | Piotr's Computer Vision Matlab Toolbox. Download & Description. Matlab Directories. channels · classify · detector · filters · images · matlab · videos ... |
-| 3rd Workshop on Uncertainty Quantification for Computer Vision | https://uncertainty-cv.github.io/2024/ | In the last decade, substantial progress has been made w.r.t. the performance of computer vision systems, a significant part of it thanks to deep learning. |
-| COMPSCI 670 • Spring 2024 - Computer Vision | https://cvl-umass.github.io/compsci670-spring-2024/ | Computer Vision. COMPSCI 670 • Spring 2024 • University of Massachusetts, Amherst. This graduate-level course will explore techniques for the analysis of ... |
-| ECCV 2020 Tutorial on Weakly-Supervised Learning in Computer ... | https://hbilen.github.io/wsl-eccv20.github.io/ | Deep convolutional networks have become the go-to technique for a variety of computer vision task such as image classification, object detection ... |
-| Computer Vision Library for R • Rvision | https://swarm-lab.github.io/Rvision/ | An OpenCV-based computer vision library providing methods to read and manipulate video and image files, as well as camera streams. |
-| Image Processing and Computer Vision 2.0 documentation | https://rvdboomgaard.github.io/ComputerVision_LectureNotes/ | Image Processing and Computer Vision: https://imgs.xkcd.com/comics/tasks.png From the xkcd website: |
-| AICV Lab - Home | https://uark-aicv.github.io/ | The AICV Lab aims to advance research in computer vision, robotics, and medical imaging. Over the past few years, we have made significant progress in these ... |
-| Sara Beery | https://beerys.github.io/ | My research focuses on building computer vision methods that enable global-scale environmental and biodiversity monitoring across data modalities, tackling real ... |
-| The state of Computer Vision and AI: we are really, really far away. | https://karpathy.github.io/2012/10/22/state-of-computer-vision/?ref=programiz.com | Oct 22, 2012 ... The picture above is funny. But for me it is also one of those examples that make me sad about the outlook for AI and for Computer Vision. What ... |
-| CVPPA 2024 Workshop | https://cvppa2024.github.io/ | This workshop will showcase the challenges raised by working on computer vision for plant phenotyping and agriculture. |
-| Workshop on Computer Vision in the Wild 2024 | https://computer-vision-in-the-wild.github.io/cvpr-2024/ | We host this “Computer Vision in the Wild (CVinW)” workshop, aiming to gather academic and industry communities to work on CV problems in real-world scenarios. |
-| Intelligent Robotics and Vision Lab at the University of Texas at ... | https://irvlutd.github.io/ | We are interested in fundamental research in intelligent robotics and computer vision. The scientific question we would like to address is how can robots ... |
-| Chapter 20 - Graph Neural Networks in Computer Vision | https://graph-neural-networks.github.io/static/file/chapter20.pdf | Recent years have seen great success of Convolutional Neural Network (CNN) in. Computer Vision (CV). However, most of these methods lack the fine-grained anal-. |
-| Brown IVL: Interactive 3D Vision & Learning Lab (IVL) | https://brown-ivl.github.io/ | The Interactive 3D Vision & Learning Lab (IVL) led by Srinath Sridhar, part of Brown Visual Computing, works on 3D computer vision and machine learning ... |
-| Introduction to Computer Vision using OpenCV and Python \| Virgilio | https://virgili0.github.io/Virgilio/inferno/computer-vision/introduction-to-computer-vision.html | In this guide, we will introduce a brief overview of Deep Learning. Then, we will discuss the purpose of Computer Vision in Python. |
-| Computer Vision for Developing Countries (CV4DC) Workshop 2024 | https://cv4dc.github.io/2024/ | The Computer Vision for Developing Countries (CV4DC) workshop at ACCV 2024 aims at creating a supportive environment where students / researchers in the field ... |
-| Synthetic Data for ... - Synthetic Data for Computer Vision - CVPR 2024 | https://syndata4cv.github.io/cvpr2024.html | The workshop aims to explore the use of synthetic data in training and evaluating computer vision models, as well as in other related domains. |
-| DS265-Deep Learning For Computer Vision – Department of ... | https://val-iisc.github.io/DLCV/ | Prerequisites. Primary crucial prerequisites : Machine Learning and Computer Vision/Image Processing. Secondary Prerequisites(familiarity preffered): ... |
-| 4th Workshop on Image/Video/Audio Quality in Computer Vision and ... | https://wacv2025-image-quality-workshop2.github.io/index.html | Feb 28, 2025 ... This workshop addresses topics related to image/video/audio quality in machine learning, computer vision, and generative AI. |
-| petiteFinder: an automated computer vision tool to compute Petite ... | https://klyshko.github.io/files/pf.pdf | Feb 15, 2023 ... This automated computer vision tool detects Grande and Petite colonies and computes Petite colony frequencies from scanned images of Petri dishes. |
-| UBC Computer Vision Lab - Home | https://gursimar.github.io/ubc_cvrg/ | The Computer Vision group is a part of the celebrated Computer Vision and Robotics Lab, which is well known for RoboCup and SIFT features. We focus on building ... |
-| Computer Vision in the Wild | https://computer-vision-in-the-wild.github.io/eccv-2022/ | We propose this "Computer Vision in the Wild (CVinW)" workshop, aiming to gather academic and industry communities to work on CV problems in real-world ... |
-| Intro to Computer Vision - COMPSCI 370 | https://cvl-umass.github.io/intro-cv-spring-2024/ | Intro to Computer Vision. COMPSCI 370 • Spring 2024 • University of Massachusetts, Amherst. This course will cover the basics of teaching computers to “see” ... |
-| Computer Vision \| University of Juba | https://uojai.github.io/computervision/schedule.html | ... computer vision concepts we've covered this semester. Lecture. Overview, algorithms, and application of Semantic Segmentation Click here to download slides ... |
-| Learning Partial Differential Equations for Computer Vision 1 ... | https://zhouchenlin.github.io/Publications/Learning-BasedPDE-Sanya.pdf | Partial differential equations (PDEs) have been successful for solving many prob- lems in computer vision. However, the existing PDEs are all crafted by people ... |
-| Tutorial on Computer Vision with Fisheye Cameras \| plaut.github.io | https://plaut.github.io/fisheye_tutorial/ | This tutorial shows how to handle fisheye cameras much like perspective cameras, making many existing computer vision models that were developed for ... |
-| Writing (Computer Vision) Papers from the Reviewer's Perspective ... | https://mvaldenegro.github.io/files/LXCV-ICCV-2021-tutorial-paper-writing.pdf | Oct 11, 2021 ... From "How to write a good CVPR submission" by Bill Freeman, 2014. Writing (Computer Vision) Papers from the Reviewer's Perspective - Dr. |
-| AI-900-AIFundamentals - Explore Computer Vision | https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02v2.html | In this lab, you'll use a simple command-line application to see the Computer Vision service in action. |
-| AIKON: A Modular Computer Vision Platform for Historical Corpora | https://aikon-platform.github.io/ | Its modular architecture allows easy integration of new computer vision algorithms and visualization tools, making it adaptable to diverse research needs across ... |
-| Interpretable Machine Learning for Computer Vision | https://interpretablevision.github.io/ | CVPR 2021 4th Tutorial on. Interpretable Machine Learning for Computer Vision. Panel Session at 14:00 - 15:00 EDT, June 20, 2021 |
-| Computer Vision in the Wild | https://computer-vision-in-the-wild.github.io/cvpr-2023/ | Jun 19, 2023 ... We host this "Computer Vision in the Wild (CVinW)" workshop, aiming to gather academic and industry communities to work on CV and MM problems in real-world ... |
-| EECS 442: Computer Vision (Winter 2024) | https://eecs442.github.io/ | EECS 442: Computer Vision (Winter 2024). Overview. Instructor: Jeong Joon Park; GSIs: Alex Janosi; Anurekha Ravikumar; Farzad Siraj; Jinfan Zhou ... |
-| CMSC426 Computer Vision | http://cmsc426.github.io/ | Course materials and notes for University of Maryland's class CMSC426: Computer Vision. |
-| 16720 - Computer Vision | https://kriskitani.github.io/courses/16720B/ | Aug 31, 2022 ... This course introduces the fundamental techniques used in computer vision, that is, the analysis of patterns in visual images to reconstruct and understand the ... |
-| Ultralytics YOLO Docs: Home | https://ultralytics.github.io/docs/ | YOLO11 is built on cutting-edge advancements in deep learning and computer vision, offering unparalleled performance in terms of speed and accuracy. Its ... |
-| Algebraic Topology for Computer Vision | https://chaochen.github.io/publications/chen_survey_2011.pdf | Jul 11, 2010 ... In terms of applications to computer vision, we focus on four illustrative problems: shape signatures, natural image statistics, image denoising ... |
-| Physical Simulation and Computer Vision | https://visionmeetphysics.github.io/ | 1st Workshop on Vision Meets Physics: Synergizing Physical Simulation and Computer Vision. CVPR 2025 Workshop. Room 104 A - June 12 (full day) ... |
-| Privacy-Preserving Computer Vision | https://privacy-preserving-computer-vision.github.io/ | In today's world, where data privacy is paramount and computer vision technologies are shaping our future, our workshop stands as a pivotal gathering of ... |
-| CS 280 Computer Vision | http://cs280-berkeley.github.io/sp24.html | CS 280: Computer Vision. Logistics. UC Berkeley, Spring 2024. Time: MoWe 12: ... |
-| kornia.org - Open Source Computer Vision | https://kornia.github.io/ | PyTorch-based Geometric Computer Vision Library for Spatial AI. The foundation of our ecosystem, powering millions of downloads monthly with differentiable ... |
-| Poltergeist: Acoustic Adversarial Machine Learning against ... | https://spqrlab1.github.io/papers/ji-poltergeist-oakland21.pdf | Abstract. Autonomous vehicles increasingly exploit computer-vision- based object detection systems to perceive environments and. |
-| Accelerating Ukraine Intelligence Analysis with Computer Vision on ... | https://bairblog.github.io/2022/03/21/ukraine-sar-maers/ | Mar 21, 2022 ... Automating this tedious task would enable real-time insights, but current computer vision methods developed on typical RGB imagery do not ... |
-| Hands-On Computer Vision | https://semillerocv.github.io/ | Únete a nosotros en el Semillero Hands-on Computer Vision y sumérgete en una experiencia única que fusiona la teoría con la práctica en el fascinante mundo ... |
-| Workshop: Computer Vision and Generative Models for Medical ... | https://cvgmmi.github.io/CVGMMI-2025/ | Sep 15, 2025 ... This workshop focuses on the intersection of computer vision, generative models, and medical imaging, exploring innovative AI applications in healthcare. |
-| CMSC 733: Classical and Deep Learning Approaches for Geometric ... | https://cmsc733.github.io/ | CMSC 733: Classical and Deep Learning Approaches for Geometric Computer Vision. Spring 2024 · Spring 2022 · Spring 2021 · Spring 2020 · Spring 2019. info[at]prg ... |
-| Courses \| Luca Magri | https://magrilu.github.io/courses/ | Courses. Lecture slides in Geometric Computer Vision available here. A.Y. 2024-2025. Informatica A (Ingegneria Gestionale); Image Analysis and Computer ... |
-| Intro to Computer Vision - COMPSCI 370 | https://cvl-umass.github.io/intro-cv-spring-2023/ | Intro to Computer Vision. COMPSCI 370 • Spring 2023 • University of Massachusetts, Amherst. This course will cover the basics of teaching computers to “see” ... |
-| Generative Modeling by Estimating Gradients of the Data ... | http://yang-song.github.io/blog/2021/score/ | May 5, 2021 ... In order to build such a generative model, we first need a way to represent a probability distribution. One such way, as in likelihood-based ... |
-| Generative-Model \| Lil'Log | https://lilianweng.github.io/tags/generative-model/ | Generative-Model. Diffusion Models for Video Generation. Diffusion models have demonstrated strong results on image synthesis in past years. Now the research ... |
-| VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI ... | https://augmentedperception.github.io/voluxgan/ | VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI Relighting. Feitong Tan 1,2 Sean Fanello 1 Abhimitra Meka 1 Sergio Orts-Escolano 1 Danhang Tang ... |
-| Phidias: A Generative Model for Creating 3D Content from Text ... | https://rag-3d.github.io/ | Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion. |
-| A Note on Using Log-Likelihood for Generative Models \| Bounded ... | https://bjlkeng.github.io/posts/a-note-on-using-log-likelihood-for-generative-models/ | Aug 27, 2019 ... This naturally lends itself well to a generative model outputting a discrete value. ... When training a generative model, we'll usually try to ... |
-| Efficient Generative Model Training via Embedded Representation ... | https://lins-lab.github.io/ERW/ | Apr 14, 2025 ... Efficient Generative Model Training via Embedded Representation Warmup. Deyuan Liu1*. ·. Peng Sun1,3*. ·. Xufeng Li1,4. ·. Tao Lin1†. 1 Westlake ... |
-| Algorithmic Harms Associated with Generative Model-Augmented ... | https://oars-workshop.github.io/papers/Herlihy2025.pdf | Aug 3, 2025 ... While generative-model augmented recommendation systems inherit many of the same potential harms-inducing behaviors as their predecessors, the ... |
-| GANtlitz: Ultra High Resolution Generative Model for Multi-Modal ... | https://syntec-research.github.io/GANtlitz/ | We introduce GANtlitz, a generative model that can synthesize multi-modal ultra-high-resolution face appearance maps for novel identities. |
-| Hierarchical Gaussian Mixture based Task Generative Model for ... | https://nijingchao.github.io/paper/neurips2023_htgm.pdf | We develop a meta- training framework underlain by a novel Hierarchical Gaussian Mixture based Task. Generative Model (HTGM). HTGM extends the widely used ... |
-| GET3D: A Generative Model of High Quality 3D Textured Shapes ... | https://nv-tlabs.github.io/GET3D/ | In this work, we introduce GET3D, a Generative model that directly generates Explicit Textured 3D meshes with complex topology, rich geometric details, and high ... |
-| Flow-based Deep Generative Models \| Lil'Log | https://lilianweng.github.io/posts/2018-10-13-flow-models/ | Oct 13, 2018 ... We should understand two key concepts before getting into the flow-based generative model: the Jacobian determinant and the change of variable ... |
-| TRELLIS: Structured 3D Latents for Scalable and Versatile 3D ... | https://trellis3d.github.io/ | A native 3D generative model built on a unified Structured Latent representation and Rectified Flow Transformers, enabling versatile and high-quality 3D asset ... |
-| VQ3D: Learning a 3D-Aware Generative Model on ImageNet | https://kylesargent.github.io/vq3d | VQ3D: Learning a 3D-Aware Generative Model on ImageNet. ICCV2023 Oral presentation Best paper finalist. Kyle Sargent, Jing Yu Koh, Han Zhang, Huiwen Chang, ... |
-| Singular Value Scaling: Efficient Generative Model Compression via ... | https://hjinnkim.github.io/SVS_site/ | Singular Value Scaling: Efficient Generative Model Compression via Pruned Weights Refinement (AAAI 2025). Hyeonjin Kim, Jaejun Yoo*. *: corresponding author. |
-| Deep Generative Models | https://kuleshov-group.github.io/dgm-website/ | Lecture 15: Combining Generative Model Families. We have covered several useful building blocks: autoregressive, latent variable models, flow models, GANs ... |
-| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-25/ | #300 Boosting Adversarial Transferability with a Generative Model Perspective [Paper] Jongoh Jeong, Hunmin Yang, Kuk-Jin Yoon; #301 ConceptMix++: Leveling ... |
-| A generative model for predicting outcomes in college basketball | https://franrruiz.github.io/contents/journals/2015/RuizPerezCruz2015.pdf | Feb 10, 2015 ... Figure 1 Graphical model representation for our generative model. a distribution that is close to the true posterior. Closeness is measured ... |
-| Score-based Generative Modeling in Latent Space | https://nvlabs.github.io/LSGM/ | In our latent score-based generative model (LSGM), data is mapped to latent space via an encoder q(z0\|x) and a diffusion process is applied in the latent ... |
-| Autoregressive Models | https://deepgenerativemodels.github.io/notes/autoregressive/ | In an autoregressive generative model, the conditionals are specified as parameterized functions with a fixed number of parameters. |
-| PayVAE: A Generative Model for Financial Transactions | https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_17.pdf | A variational autoencoder (VAE, Kingma and Welling. (2013)) is a generative model based on a directed Bayesian graphical model in which the observable data x ... |
-| Exposing flaws of generative model evaluation metrics and their ... | https://jescresswell.github.io/publication/2023-06-exposing-flaws | Exposing flaws of generative model evaluation metrics and their unfair treatment of diffusion models. Published in Advances in Neural Information Processing ... |
-| Generative Models - Autoencoders · Deep Learning | https://atcold.github.io/NYU-DLSP21/en/week08/08-3/ | Next, we introduce Variational Autoencoders (or VAE), a type of generative model. But why do we even care about generative models? To answer the question ... |
-| PODIA-3D: Domain Adaptation of 3D Generative Model Across ... | https://gwang-kim.github.io/podia_3d/ | PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion. |
-| SMPLicit: Topology-aware Generative Model for Clothed People | https://enriccorona.github.io/smplicit/ | In this paper we introduce SMPLicit, a novel generative model to jointly represent body pose, shape and clothing geometry. |
-| Maximum Likelihood Learning | https://deepgenerativemodels.github.io/assets/slides/cs236_lecture4.pdf | Learning a generative model. We are given a training set of examples, e.g., images of dogs. We want to learn a probability distribution p(x) over images x ... |
-| SMPLitex: A Generative Model and Dataset for 3D Human Texture ... | https://dancasas.github.io/projects/SMPLitex/index.html | To this end, we first train a generative model for complete 3D human appearance, and then fit it into the input image by conditioning the generative model to ... |
-| Bias and Generalization in Deep Generative Models | https://ermongroup.github.io/blog/bias-and-generalization-dgm/ | generative model learning algorithms rely heavily on inductive bias — the assumption by which a learning algorithm extrapolates from training data ... |
-| Discrete Distribution Networks: DDN | https://discrete-distribution-networks.github.io/ | Novel Generative Model with Simple Principles and Unique Properties. |
-| EscherNet: A Generative Model for Scalable View Synthesis | https://kxhit.github.io/EscherNet | EscherNet: A Generative Model for Scalable View Synthesis ... We introduce EscherNet, a multi-view conditioned diffusion model for generative view synthesis. |
-| AI-Sketcher : A Deep Generative Model for Producing High-Quality ... | https://xiaoyangtao.github.io/assets/pubs/2018AAAI_Cao_AISketcher.pdf | To address these issues, we introduced AI-Sketcher, a deep generative model for generating high-quality multi- class sketches. Our model improves drawing ... |
-| What are Diffusion Models? \| Lil'Log | https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ | Jul 11, 2021 ... [20] Zhang et al. “Adding Conditional Control to Text-to-Image Diffusion Models.” arxiv Preprint arxiv:2302.05543 (2023). Generative-Model ... |
-| GenRep | https://ali-design.github.io/GenRep/ | We investigate this question in the setting of learning general-purpose visual representations from a black-box generative model rather than directly from data. |
-| Model-based RL under the Generative Model Setting | https://wensun.github.io/CS4789_data/model_based_RL_Mar_11_annotated.pdf | Under the generative model setting, how we learn to compute ; and what performance guarantee we can get? π⋆. (We will see the first sample complexity analysis..) ... |
-| New Paper: Towards a Generative Model of Emotion Dynamics ... | https://jmbh.github.io/Generative-Model-Emotion-Dynamics/ | Jan 7, 2025 ... ... generative model of emotion dynamics by formalizing the link between situations and emotions. This basic model already reproduces nine ... |
-| Conditional Generative Model Based Predicate-Aware Query ... | https://nikhil96sher.github.io/publications/pdfs/2022-AAAI-Electra.pdf | The key novelty of ELECTRA comes from the use of a predicate- aware generative model for AQP and associated training methodology to capture accurate conditional ... |
-| How to Detect Data-Copying in Generative Models \| UCSD Machine ... | https://ucsdml.github.io/jekyll/update/2020/08/03/how-to-detect-data-copying-in-generative-models.html | Aug 3, 2020 ... What does it mean for a generative model to overfit? We formalize the notion of 'data-copying', when a generative model produces only slight ... |
-| En3D: An Enhanced Generative Model for Sculpting 3D Humans ... | https://menyifang.github.io/projects/En3D/index.html | This paper targets zero-shot 3D generative model capable of producing high-fidelity and diverse 3D humans utilizing 2D Synthetic Data. |
-| MIT 6.S978: Deep Generative Models, Fall 2024 | https://mit-6s978.github.io/schedule.html | (Optional) Recommended readings: L. Zhang et al., CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets, SIGGRAPH 2024 [ ... |
-| NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape ... | https://weizheliu.github.io/NeuSDFusion/static/pdfs/neusdfusion.pdf | ... generative model. There are two learnable competent, i.e., the tri-planes and the MLP with parameters. ϕ. We jointly optimize both using the following ... |
-| Ginver: Generative Model Inversion Attacks Against Collaborative ... | https://perfecthu.github.io/publications/WWW23_Ginver.pdf | May 1, 2023 ... Our attack is dubbed Ginver1: Generative model inversion attacks against collaborative inference. Once trained, Gin- ver can infer the victim's ... |
-| Curved Diffusion: A Generative Model With Optical Geometry Control | https://anylens-diffusion.github.io/ | Curved Diffusion: A Generative Model With Optical Geometry Control. ECCV 2024. Andrey Voynov Amir Hertz Moab Arar Shlomi Fruchter Daniel Cohen-Or 1 ... |
-| Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model ... | https://x-zhangyang.github.io/2023_Get3DHuman/ | Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors · teaser image. · Fast generation of high-quality 3D ... |
-| VideoFlow: A Flow-Based Generative Model for Video | https://invertibleworkshop.github.io/INNF_2019/accepted_papers/pdfs/INNF_2019_paper_18.pdf | arXiv preprint. arXiv:1704.06001, 2017. Page 6. VideoFlow: A Flow-Based Generative Model for Video. Ranzato, M ... |
-| Generative model \| The Book of Statistical Proofs | https://statproofbook.github.io/D/gm.html | Mar 3, 2020 ... Definition: Generative model. Index: The Book of Statistical Proofs ▷ General Theorems ▷ Bayesian statistics ▷ Probabilistic modeling ... |
-| A Deep Generative Model of Vowel Formant Typology \| Rycolab | https://rycolab.github.io/publication/cotterelleisner-naacl-18/ | A Deep Generative Model of Vowel Formant Typology. Ryan Cotterell, Jason Eisner. June 2018. PDF Cite Anthology arXiv. Abstract. What makes some types of ... |
-| A Conditional Deep Generative Model of People in Natural Images | https://tajanthan.github.io/gm/docs/dgpose-wacv.pdf | We propose a deep generative model of humans in natu- ral images which keeps 2D pose separated from other latent factors of variation, such as background ... |
-| Yet Another Generative Model For Room Impulse Response ... | https://sh-lee97.github.io/neural-ir-est/ | Yet Another Generative Model For Room Impulse Response Estimation. Sungho Lee1, Hyeong-Seok Choi4, and Kyogu Lee1,2,3,4 1Department of Intelligence and ... |
-| Graph Generative Model for Benchmarking Graph Neural Networks | https://graph-learning-benchmarks.github.io/assets/papers/glb2023/2942_graph_generative_model_for_ben.pdf | In this work, we introduce a novel graph generative model,. Computation Graph Transformer (CGT) that addresses the three requirements above for the benchmark ... |
-| SinGAN: Learning a Generative Model from a Single Natural Image | https://tamarott.github.io/SinGAN.htm | We propose SinGAN; a new unconditional generative model trained on a single natural image. Our model learns the image's patch statistics across multiple ... |
-| Generative Models for Graphs | https://snap-stanford.github.io/cs224w-notes/machine-learning-with-networks/graph-generative-models | For instance, sampling a graph from the generative model trained on a particular family of graphs can lead to the discovery of new configurations that share ... |
-| Persistent Nature: A Generative Model of Unbounded 3D Worlds | https://chail.github.io/persistent-nature/ | We learn an unconditional generative model to synthesize landscape scenery with an unbounded and persistent representation, supporting arbitrary camera motion. |
-| A generative model for vision \| Dileep George | https://dileeplearning.github.io/pubcopy/science-captcha/ | We introduce a probabilistic generative model for vision in which message-passing–based inference handles recognition, segmentation, and reasoning in a unified ... |
-| Discriminative Model VS Generative Model - Lei Mao's Log Book | https://leimao.github.io/blog/Discriminative-Model-VS-Generative-Model/ | Dec 14, 2020 ... In some definitions, a generative model is a model of the conditional probability of the observation variable X , given the target variable Y . |
-| Sample Complexity Bounds for Stochastic Shortest Path with a ... | https://misovalko.github.io/publications/tarbouriech2021sample.pdf | A common assumption in approximate dynamic programming and reinforcement learning (RL) is to have access to a generative model of the Markov decision process ( ... |
-| Lecture 12: Gaussian Mixture Models | https://shuaili8.github.io/Teaching/VE445/L12_gmm.pdf | • A generative model will model various attributes of fruits such as color, weight, shape, etc. • A discriminative model might model color alone, should that ... |
-| GLOW: Generative flow - Amélie Royer | https://ameroyer.github.io/portfolio/2021-04-12-Glow/ | Apr 12, 2021 ... This notebook discusses/summarizes the Glow generative model. For a more complete review of the paper, see also the reading notes. This code ... |
-| Lecture 6: Generative Models and Naive Bayes — Applied ML | https://kuleshov-group.github.io/aml-book/contents/lecture6-naive-bayes.html | We will start by defining the concept of a generative model. 6.2.1. Background#. 6.2.1.1. Review of Supervised Learning Models#. A supervised learning model is ... |
-| Score-based Generative Models based on SDEs/ODEs | https://jmtomczak.github.io/blog/17/17_sbgms.html | ... generative model! Please keep this thought in mind for now. But yes, you are right! SDEs and Probability Flow ODEs Now, we will look into SDEs. In general ... |
-| ContinuouSP: Generative Model for Crystal Structure Prediction with ... | https://ai-2-ase.github.io/papers/19_tone.pdf | 2022), proposed alongside the implementation of a crystal generative model using VAE, serves as a reversible feature representation for crystals. Among crystal ... |
-| PV3D: A 3D Generative Model for Portrait Video Generation | https://showlab.github.io/pv3d/ | PV3D: A 3D Generative Model for. Portrait Video Generation · PV3D is able to generate diverse videos with multi-view consistency and detailed dynamic 3D geometry ... |
-| DGM4MICCAI Workshop @MICCAI 2024 | https://dgm4miccai.github.io/ | 57, Controllable Surface Diffusion Generative Model for Neurodevelopmental Trajectories. 58, CtrlEndoDiff: Diffusion-Based Synthetic Image Generation for ... |
-| Score-based generative models: Score matching | https://jmtomczak.github.io/blog/16/16_score_matching.html | Score matching allows us to learn a generative model in a completely different manner. Instead of matching distributions, we can perform matching scores by ... |
-| Generative Learning Algorithm - Wei's Homepage | https://wei2624.github.io/MachineLearning/sv_generative_model/ | 1 Discriminative Model · 2 Generative Model · 3 Gaussian Discriminant Analysis. 3.1 The Multivariate Normal Distribution · 4 GDA and logistic regression. 4.1 GDA ... |
-| [Generative Model] Diffusion Transformer (DiT) | https://leeyngdo.github.io/blog/generative-model/2024-07-01-diffusion-transformer/ | Jul 1, 2024 ... [Generative Model] Diffusion Transformer (DiT). 4 minute read. TABLE OF CONTENTS. Architectural Design. Patchify; DiT Block; Model size. Scaling ... |
-| Human Motion Diffusion Model | https://guytevet.github.io/mdm-page/ | In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain. |
-| Generative AI Meets Reinforcement Learning | https://generative-rl-tutorial.github.io/ | ... generative model. It will also discuss future directions and open problems, focusing on how RL can shape the future of foundation model training and enable ... |
-| FTL-IGM: Few-Shot Task Learning through Inverse Generative ... | https://avivne.github.io/ftl-igm/ | The core idea is to pretrain a generative model on a set of basic concepts and their demonstrations. Then, given a few demonstrations of a new concept (such ... |
-| HAAR - Text-Conditioned Generative Model of 3D Strand-based ... | https://justusthies.github.io/posts/haar/ | Feb 1, 2024 ... We present HAAR, a new strand-based generative model for 3D human hairstyles. Specifically, based on textual inputs, HAAR produces 3D hairstyles. |
-| PixelSNAIL: An Improved Autoregressive Generative Model | https://vitalab.github.io/article/2018/10/11/pixel-snail.html | Oct 11, 2018 ... In this case, (x1,...,xn) are the pixels of an image. Advantages of using an autoregressive generative model: Tractable likelihood and easy ... |
-| Generative Model for Decision Trees | https://msetzu.github.io/about/docs/gentree.pdf | We place our proposal between these approaches by designing a generative model for deci- sion trees. Our method first learns a latent decision tree space. |
-| Deep Learning - Lecture 5: Generative models | https://cwkx.github.io/data/teaching/dl-and-rl/dl-lecture5.pdf | So what is it we want exactly? • P(Y \|X) discriminative model (classification). • P(X\|Y ) conditional generative model. |
-| (What's the Probabilistic Story) Modeling Glory? | https://betanalpha.github.io/assets/case_studies/generative_modeling.html | 1.1 Generative As Sampling. In machine learning a generative model is typically defined as a probabilistic model of all quantities that vary from observation to ... |
-| Don't Generate Me: Training Differentially Private Generative Models ... | https://nv-tlabs.github.io/DP-Sinkhorn/ | First, the curator uses DP-Sinkhorn to train a privacy-preserving generative model. Then, this model is shared to analysts, who sample the model for ... |
-| GAN Lab: Play with Generative Adversarial Networks in Your Browser! | https://poloclub.github.io/ganlab/ | By contrast, the goal of a generative model is something like the opposite: take a small piece of input—perhaps a few random numbers—and produce a complex ... |
-| Suppressing High-frequency Artifacts for Generative Model ... | https://hzwu.github.io/ModelWatermarking-Hanzhou-Wu-IH2024.pdf | ❑ Box-free: Generative Model Watermarking. ❑ E.g., any image generated by a certain DNN model must contain a pre-determined watermark. 1 Introduction. AI. |
-| Multi-Task Video Generative Foundation Model with Full Attention | https://fulldit.github.io/ | Overview of FullDiT architecture and comparison with adapter-based models. We present the diffusion process of the multi-task video generative model on the left ... |
-| PartCrafter | https://wgsxm.github.io/projects/partcrafter/ | PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers · PartCrafter is a structured 3D generative model that · Overview ... |
-| Inverting Deep Generative Model, One Layer at a Time | https://cecilialeiqi.github.io/invert_GAN_poster.pdf | Given a ReLU generative model (3) with random matrix and expansive factor c0 ≥ 2.1, and an ob- servation x ∈ R n. , we are able to exactly recover. |
-| [Generative Model] CycleGAN | https://leeyngdo.github.io/blog/generative-model/2023-09-02-cycleGAN/ | Sep 2, 2023 ... [Generative Model] CycleGAN. 5 minute read. TABLE OF CONTENTS. Introduction; CycleGAN; Summary. IntroductionPermalink. |
-| Diverse Motion Stylization for Multiple Style Domains via Spatial ... | https://dk-jang.github.io/assets/pdf/SCA2021_DiverseMotion.pdf | CCS Concepts: • Computing methodologies → Motion processing; Neural networks. Additional Key Words and Phrases: motion synthesis, generative model, graph ... |
-| Interpretable Generative Models through Post-hoc Concept ... | https://lilywenglab.github.io/posthoc-generative-cbm/ | Our CB-AE enables more efficient training than CBGM [6] and transforms a frozen pretrained generative model into a CBM. On the other hand, our CC trades-off ... |
-| EnIGMA: Enhanced Interactive Generative Model Agent for CTF ... | https://enigma-agent.github.io/assets/paper.pdf | EnIGMA: Enhanced Interactive Generative Model Agent for CTF Challenges. Talor Abramovich1, Meet Udeshi2, Minghao Shao2, Kilian Lieret3, Haoran Xi2, Kimberly ... |
-| [Generative Model] Score Matching via SDEs | https://leeyngdo.github.io/blog/generative-model/2023-11-03-score-based-generative-models-with-sdes/ | Nov 3, 2023 ... 1. · Score-based generative model (source: Yang Song's blog) ; 2. · Prediction and correction algorithm (Stanley Chan) ; 3. · Pseudocode for PC ... |
-| GIRAFFE: Representing Scenes as Compositional Generative ... | https://m-niemeyer.github.io/project-pages/giraffe/ | Our key hypothesis is that incorporating a compositional 3D scene representation into the generative model leads to more controllable image synthesis. |
-| A Hierarchical Generative Model of Electrocardiogram Records | https://andymiller.github.io/docs/miller-ml4hc-2017.pdf | Bottom: comparison of model residuals without (left) and with (right) pause latent variables. Generative model of beat morphology The cardiac cycle exhibits ... |
-| Generative (PO)MDP Interface · POMDPs.jl | http://juliapomdp.github.io/POMDPs.jl/v0.8/generative/ | Quick Start. A generative model for most (PO)MDPs can be completely defined with one function: function POMDPs.gen(m::YourPOMDPType, s, a, rng) # do dynamics ... |
-| Generative Models for Physicists | https://wangleiphy.github.io/lectures/PILtutorial.pdf | Nov 5, 2018 ... Since they capture the whole distribution, by defining and adjusting the suit- able cost function you can use generative model for creative ... |
-| Compositional Scene Understanding through Inverse Generative ... | https://energy-based-model.github.io/compositional-inference/ | We formulate scene understanding as an inverse generative modeling problem, where we seek to find conditional parameters of a visual generative model to best ... |
-| SMPLitex: A Generative Model and Dataset for 3D Human Texture ... | https://dancasas.github.io/projects/SMPLitex/SMPLitex-dataset.html | SMPLitex: A Generative Model and Dataset for 3D Human Texture Estimation from Single Image. Dan Casas and Marc Comino-Trinidad British Machine Vision ... |
-| Generative and Discriminative models \| Mustafa Murat ARAT | https://mmuratarat.github.io/2019-08-23/generative-discriminative-models | Aug 23, 2019 ... ... generative model can be used to impute missing data, compress your dataset or generate unseen data. Additionally, when training data is ... |
-| GET3D: A Generative Model of High Quality 3D Textured Shapes ... | https://nv-tlabs.github.io/GET3D/assets/paper.pdf | In this work, we introduce a novel approach that aims to tackle all the requirements of a practically useful 3D generative model. Specifically, we propose GET3D ... |
-| A generative model of phonotactics \| Language Processing Group | https://langprocgroup.github.io/publication/futrell-2017-generative/ | A generative model of phonotactics. Richard Futrell, Adam Albright, Peter Graff, Timothy J. O'Donnell. January 2017. PDF Cite. Type. Journal article. |
-| Leveraging Passage Retrieval with Generative ... - Kartik Perisetla | https://kartikperisetla.github.io/blog/2020/leveraging-passage-retrieval-generative-models-qna/ | Leveraging Passage Retrieval with Generative Models for open-domain Question Answering. 25th July 2020 keywords: generative model, question answering, ... |
-| Flow-based Deep Generative Models | https://salu133445.github.io/pdf/flow_based_deep_generative_models_report.pdf | Flow-based generative models: A flow-based generative model is constructed by a sequence of invertible transformations. Unlike other two, the model ... |
-| DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to ... | https://gwang-kim.github.io/datid_3d/ | DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model. |
-| Introduction | https://deepgenerativemodels.github.io/notes/introduction/ | At its very core, the goal of any generative model is then to approximate this data distribution given access to the dataset D. The hope is that if we are able ... |
-| IJCAI-ECAI 2018 Tutorial on Deep Generative Models \| Deep ... | https://ermongroup.github.io/generative-models/ | Traditional approaches to generative modeling and the role of deep neural networks for effective parameterization. Taxonomy of generative model based on ... |
-| [Generative Model] Conditioned Diffusion Models | https://leeyngdo.github.io/blog/generative-model/2023-11-15-conditional-diffusions/ | Nov 15, 2023 ... [Generative Model] Conditioned Diffusion Models. 11 minute read. TABLE OF CONTENTS. Zero-shot Applications. SDEdit: Guided Image Synthesis ... |
-| GameNGen | https://gamengen.github.io/ | ... generative model. Training the Generative Diffusion Model: We re-purpose a small diffusion model, Stable Diffusion v1.4, and condition it on a sequence of ... |
-| Conditional Generative Model - Haolin Jia's Homepage | https://harrypotterrrr.github.io/2022/01/25/gan-2.html | Jan 25, 2022 ... Conditional Generative Model. Supervised Conditional. Use paired data to train the network. Conditional GAN. Reason to add noise: Without ... |
-| What are Diffusion Models? \| Lil'Log | https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ | Jul 11, 2021 ... [Updated on 2022-08-31: Added latent diffusion model. [Updated on 2024-04-13: Added progressive distillation, consistency models, and the Model ... |
-| Human Motion Diffusion Model | https://guytevet.github.io/mdm-page/ | In this paper, we introduce Motion Diffusion Model (MDM), a carefully adapted classifier-free diffusion-based generative model for the human motion domain. |
-| Building Diffusion Model's theory from ground up \| ICLR Blogposts ... | https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/ | May 7, 2024 ... Building Diffusion Model's theory from ground up. Diffusion Models, a new generative model family, have taken the world by storm after the ... |
-| Measurement Score-Based Diffusion Model | https://wustl-cig.github.io/msmwww/ | Figure 1. Illustration of the Measurement Score-based diffusion Model (MSM) for training and sampling using subsampled data. Training: MSM is trained solely ... |
-| EMDM: Efficient Motion Diffusion Model for Fast, High-Quality ... | https://frank-zy-dou.github.io/projects/EMDM/index.html | We introduce Efficient Motion Diffusion Model (EMDM) for fast and high-quality human motion generation. While current state-of-the-art generative diffusion ... |
-| Diffusion Classifier | https://diffusion-classifier.github.io/ | Given an input image x and text conditioning c , we use a diffusion model to choose the class that best fits this image. Our approach, Diffusion Classifier, ... |
-| Align your Latents: High-Resolution Video Synthesis with Latent ... | https://nv-tlabs.github.io/VideoLDM/ | Latent Diffusion Models (LDMs) enable high-quality image synthesis while avoiding excessive compute demands by training a diffusion model in a compressed lower- ... |
-| BrepGen: A B-rep Generative Diffusion Model with Structured Latent ... | https://brepgen.github.io/ | BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry. |
-| DICEPTION: A Generalist Diffusion Model for Vision Perception | https://aim-uofa.github.io/Diception/ | DICEPTION: A Generalist Diffusion Model for Vision Perception · Results of Our Generalist Model · Compare with SAM-vit-h · Small Data But Good Performance on ... |
-| SynthLight: Portrait Relighting with Diffusion Model by Learning to ... | https://vrroom.github.io/synthlight/ | SynthLight relights human portraits using an environment map lighting. By learning to re-render synthetic human faces, our diffusion model produces realistic ... |
-| BSDF importance sampling using a diffusion model | https://fzy28.github.io/BSDF_diffusion_sampling_web/ | BSDF importance sampling using a diffusion model · SIGGRAPH Asia 2024 (conference track) · Top Row: Equal-time comparison of our method against NBRDF and ... |
-| Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi ... | https://synbol.github.io/Lumina-DiMOO/ | To foster further advancements in multimodal and dicrete diffusion model research, we release our code and checkpoints. Lumina-DiMOO Overall. Overview of ... |
-| MagicAnimate: Temporally Consistent Human Image Animation ... | https://showlab.github.io/magicanimate/ | ▷ Combining MagicAnimate with T2I Diffusion Model. Animating reference images generated by DALLE3 to perform various actions. Text prompt for each reference ... |
-| Taming Latent Diffusion Model for Neural Radiance Field Inpainting | https://hubert0527.github.io/MALD-NeRF/ | We propose tempering the diffusion model's stochasticity with per-scene customization and mitigating the textural shift with masked adversarial training. |
-| ZoomLDM: Latent Diffusion Model for multi-scale image generation ... | https://histodiffusion.github.io/docs/projects/zoomldm/ | Here we propose ZoomLDM, a multi-scale latent diffusion model that can synthesize large images in these domains. |
-| Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model | https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html | May 10, 2023 ... In this paper, we derive a minimalist diffusion model. The diffusion model that we obtain is pretty much equivalent to existing ones. |
-| Diffusion models are autoencoders – Sander Dieleman | https://benanne.github.io/2022/01/31/diffusion.html | Jan 31, 2022 ... And the iterative process at inference time is not dissimilar to that of a diffusion model. Back when pixelCNNs were hot, I actually played ... |
-| ReconX: Reconstruct Any Scene from Sparse Views with Video ... | https://liuff19.github.io/ReconX/ | ReconX, unleashes the strong generative prior of video diffusion model for sparse-view 3D scene reconstruction. |
-| MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity ... | https://ku-cvlab.github.io/MoDiTalker/ | We present the Motion-Disentangled diffusion model for high-fidelity Talking head generation, dubbed MoDiTalker. This framework generates high-quality talking ... |
-| Motion-Conditioned Diffusion Model for Controllable Video Synthesis | https://tsaishien-chen.github.io/MCDiff/ | We introduce MCDiff, a conditional diffusion model that generates a video from a starting image frame and a set of strokes. |
-| StarGen: A Spatiotemporal Autoregression Framework with Video ... | https://zju3dv.github.io/StarGen/ | We propose StarGen, a novel framework that employs a pre-trained video diffusion model in an autoregressive manner for long-range scene generation. |
-| Diamond - diffusion for world modeling | https://diamond-wm.github.io/ | The agent playing in the diffusion model is shown above. DIAMOND's diffusion world model can also be trained to simulate 3D environments, such as CounterStrike: ... |
-| PhysDiff: Physics-Guided Human Motion Diffusion Model | https://nvlabs.github.io/PhysDiff/ | ... diffusion model (PhysDiff), which incorporates physical constraints into the diffusion process. Specifically, we propose a physics-based motion projection ... |
-| LION: Latent Point Diffusion Models for 3D Shape Generation | https://nv-tlabs.github.io/LION/ | We introduce the Latent Point Diffusion Model (LION), a DDM for 3D shape generation. LION focuses on learning a 3D generative model directly from geometry data. |
-| SMooDi: Stylized Motion Diffusion Model | https://neu-vi.github.io/SMooDi/ | We introduce a novel Stylized Motion Diffusion model, dubbed SMooDi, to generate stylized motion driven by content texts and style motion sequences. |
-| Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion ... | https://diffusion-vision.github.io/dmd/ | We present DMD (Diffusion for Metric Depth), a state-of-the-art diffusion model for monocular absolute depth estimation. |
-| CS492(D) Diffusion Models and Their Applications (KAIST, Fall 2024) | https://mhsung.github.io/kaist-cs492d-fall-2024/ | While the goal is to cover both theory and practice, the focus will be on gaining hands-on experience by implementing diffusion model techniques in ... |
-| GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents | https://pku-mocca.github.io/GestureDiffuCLIP-Page/ | Our system learns a latent diffusion model to generate high-quality gestures and infuses the CLIP representations of style into the generator via an adaptive ... |
-| Diffusion Model for Dense Matching | https://ku-cvlab.github.io/DiffMatch/ | Diffusion Model for Dense Matching. Jisu Nam, Gyuseong Lee, Sunwoo Kim, Hyeonsu Kim, Hyoungwon Cho, Seyeon Kim, Seungryong Kim. Korea University. ICLR 2024 ... |
-| CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text ... | https://caraj7.github.io/comat/ | We propose CoMat, an end-to-end diffusion model fine-tuning strategy with an image-to-text concept matching mechanism. |
-| Multimodal Latent Diffusion Model for Complex Sewing Pattern ... | https://shengqiliu1.github.io/SewingLDM/ | Multimodal Latent Diffusion Model for Complex Sewing Pattern Generation · SewingLDM can generate complex sewing pattern designs under the condition of texts, ... |
-| My notes on discrete denoising diffusion models (D3PMs ... | http://christopher-beckham.github.io/2022/07/11/d3pms.html | Jul 11, 2022 ... It proposes a variant of the (continuous) diffusion model for discrete data, which is typically an awkward modality to deal with since almost everything we do ... |
-| SinDDM: A Single Image Denoising Diffusion Model | https://matankleiner.github.io/sinddm/ | SinDDM: A Single Image Denoising Diffusion Model. ICML 2023. Vladimir Kulikov · Shahar Yadin · Matan Kleiner · Tomer Michaeli. Technion - Israel Institute of ... |
-| Beyond Surface Statistics: Scene Representations in a Latent ... | https://yc015.github.io/scene-representation-diffusion-model/ | Linear probes found strong representations of foreground and scene depth in a pretrained 2D Stable Diffusion model. |
-| Training Diffusion Models with Reinforcement Learning | https://rl-diffusion.github.io/ | We use animals doing human-like activites, since the base Stable Diffusion model tends to struggle with these kinds of prompts. Each series of 3 images ... |
-| Drift Diffusion Model — choiceRT_ddm • hBayesDM | https://ccs-lab.github.io/hBayesDM/reference/choiceRT_ddm.html | Hierarchical Bayesian Modeling of the Choice Reaction Time Task using Drift Diffusion Model. It has the following parameters: alpha (boundary separation), beta ... |
-| Diffusion Models for Video Generation \| Lil'Log | https://lilianweng.github.io/posts/2024-04-12-diffusion-video/ | Apr 12, 2024 ... Another prominent approach for diffusion video modeling is to “inflate” a pre-trained image-to-text diffusion model by inserting temporal layers ... |
-| Compositional Visual Generation with Composable Diffusion Models | https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/ | Failure Examples. There are three main types of failures: (1) The pre-trained diffusion model does not understand certain concepts, such as "person". |
-| DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal ... | https://ucsdml.github.io/2023/12/22/dyffusion.html | Dec 22, 2023 ... We introduce a novel diffusion model-based framework, DYffusion, for large-scale probabilistic forecasting. |
-| VMix: Improving Text-to-Image Diffusion Model with Cross-Attention ... | https://vmix-diffusion.github.io/VMix/ | VMix : Improving Text-to-Image Diffusion Model with. Cross-Attention Mixing Control. Shaojin Wu,1 Fei Ding, 1,* Mengqi Huang,1,2 Wei Liu,1 Qian He1 |
-| MeshDiffusion | https://meshdiffusion.github.io/ | MeshDiffusion uses a 3D diffusion model to generate 3D meshes parametrized by deformable marching tetrahedra (DMTets). |
-| HumanSD: A Native Skeleton-Guided Diffusion Model for Human ... | https://idea-research.github.io/HumanSD/ | HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation. Xuan Ju 12 Ailing Zeng 1 Chenchen Zhao 2 Jianan Wang 1 Lei Zhang 1 Qiang Xu 2 |
-| VideoScene: Distilling Video Diffusion Model to Generate 3D ... | https://hanyang-21.github.io/VideoScene/ | In this paper, we propose VideoScene to distill the video diffusion model to generate 3D scenes in one step, aiming to build an efficient and effective tool to ... |
-| High-Fidelity Relightable Monocular Portrait Animation with Lighting ... | https://mingtaoguo.github.io/ | We propose a framework for relightable portrait animation based on lighting-controllable video diffusion model. |
-| Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher ... | https://guolanqing.github.io/Self-Cascade/ | This paper proposes a novel self-cascade diffusion model that leverages the rich knowledge gained from a well-trained low-resolution model for rapid adaptation. |
-| Motion to Dance Music Generation using Latent Diffusion Model | https://dmdproject.github.io/ | Our method generates dance music using a latent diffusion model paired with a pre-trained Variational AutoEncoder (VAE). |
-| EMO | https://humanaigc.github.io/emote-portrait-alive/ | EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions · Abstract · Method · Overview of the ... |
-| BrepDiff: Single-stage B-rep Diffusion Model | https://brepdiff.github.io/ | A simple, single-stage diffusion model for generating Boundary Representations (B-reps). BrepDiff enables intuitive, editable geometry creation. |
-| FloVD: Optical Flow Meets Video Diffusion Model for Enhanced ... | https://jinwonjoon.github.io/flovd_site/ | Abstract. We present FloVD, a novel video diffusion model for camera-controllable video generation. FloVD leverages optical flow to represent the motions of the ... |
-| DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi ... | https://shelsin.github.io/dymo.github.io/ | Text-to-image diffusion model alignment is critical for improving the alignment between the generated images and human preferences. While training-based methods ... |
-| Local Action-Guided Motion Diffusion Model for Text-to-Motion ... | https://jpthu17.github.io/GuidedMotion-project/ | In this paper, we propose the local action-guided motion diffusion model, which facilitates global motion generation by utilizing local actions as fine-grained ... |
-| DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose ... | https://dposer.github.io/ | Diffusion Model as Robust 3D Whole-body Human Pose Prior. |
-| MotionDiffuse | https://mingyuan-zhang.github.io/projects/MotionDiffuse.html | We propose MotionDiffuse, the first diffusion model-based text-driven motion generation framework, which demonstrates several desired properties over existing ... |
-| Generative Modeling by Estimating Gradients of the Data ... | http://yang-song.github.io/blog/2021/score/ | May 5, 2021 ... Thanks for the great blog post that clarifies the thinking process behind score-based model and its' connection to diffusion model. I was a ... |
-| PrefPaint: Aligning Image Inpainting Diffusion Model with Human ... | https://prefpaint.github.io/ | Then, we adopt a reinforcement learning process to fine-tune the distribution of a pre-trained diffusion model for image inpainting in the direction of higher ... |
-| Affordance Diffusion: Synthesizing Hand-Object Interactions | https://judyye.github.io/affordiffusion-www/ | Both are built on top of a large-scale pretrained diffusion model to make use of its latent representation. Compared to baselines, the proposed method is ... |
-| Cascaded Diffusion Models for High Fidelity Image Generation | https://cascaded-diffusion.github.io/ | We introduce conditioning augmentation, our data augmentation technique that we find critical towards achieving high sample fidelity. A cascaded diffusion model ... |
-| Fashion-VDM: Video Diffusion Model for Virtual Try-On | https://johannakarras.github.io/Fashion-VDM/ | We present Fashion-VDM, a video diffusion model (VDM) for generating virtual try-on videos. Given an input garment image and person video, our method aims to ... |
-| CyberHost: A One-stage Diffusion Framework for Audio-driven ... | https://cyberhost.github.io/ | CyberHost is the first one-stage audio-driven human diffusion model capable of zero-shot video generation for the human body. |
-| Circular Drift-diffusion Model \| Cognitive Models | https://yxlin.github.io/cognitive-model/cddm/ | Circular drift-diffusion model (CDDM) is a two-dimension process model. It could be viewed as an extension of the one-dimension diffusion model. |
-| MVGenMaster: Scaling Multi-View Generation from Any Image via ... | https://ewrfcas.github.io/MVGenMaster/ | We introduce MVGenMaster, a multi-view diffusion model enhanced with 3D priors to address versatile Novel View Synthesis (NVS) tasks. |
-| GameNGen | https://gamengen.github.io/ | GameNGen is trained in two phases: (1) an RL-agent learns to play the game and the training sessions are recorded, and (2) a diffusion model ... diffusion model, ... |
-| Diffusion Models as a kind of VAE \| Angus Turner | https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html | Jun 29, 2021 ... Can we fit a diffusion model in the latent space of an autoencoder, as a means to: a) sample from a deterministic autoencoder, as was done ... |
-| Neural Sign Actors: A diffusion model for 3D sign language ... | https://baltatzisv.github.io/neural-sign-actors/ | We employ a diffusion model to learn a mapping between text scripts and 3D sign language. The proposed framework consists of an auto-regressive denoising ... |
-| Guidance: a cheat code for diffusion models – Sander Dieleman | https://benanne.github.io/2022/05/26/guidance.html | May 26, 2022 ... To sample from a diffusion model, an input is initialised to random noise, and is then iteratively denoised by taking steps in the direction of ... |
-| 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint ... | https://klauscc.github.io/4diff | We present 4Diff, a 3D-aware diffusion model addressing the exo-to-ego viewpoint translation problem. This task involves generating first-person (egocentric) ... |
-| CLE Diffusion: Controllable Light Enhancement Diffusion Model ... | https://yuyangyin.github.io/CLEDiffusion/ | We propose Controllable Light Enhancement Diffusion Model, dubbed CLE Diffusion, a novel diffusion framework to provide users with rich controllability. |
-| Diffusion Meets Flow Matching | https://diffusionflow.github.io/ | Dec 2, 2024 ... 1. Same forward process, if we assume that one end of flow matching is Gaussian, and the noise schedule of the diffusion model is in a ... |
-| Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D ... | https://ku-cvlab.github.io/3DFuse/ | (a) Previous methods only use noisy rendered images and prompt itself for score distillation through diffusion model, resulting in poor 3D coherence. (b) Our ... |
-| LayoutDM: Discrete Diffusion Model for Controllable Layout ... | https://cyberagentailab.github.io/layout-dm/ | Jun 5, 2023 ... LayoutDM: Discrete Diffusion Model for Controllable Layout Generation CVPR 2023. Naoto Inoue CyberAgent; Kotaro Kikuchi CyberAgent; Edgar Simo ... |
-| Reinforcement Learning Drift Diffusion Model 1 — pstRT_rlddm1 ... | https://ccs-lab.github.io/hBayesDM/reference/pstRT_rlddm1.html | Hierarchical Bayesian Modeling of the Probabilistic Selection Task (with RT data) using Reinforcement Learning Drift Diffusion Model 1. |
-| Diffusion Autoencoders: Toward a Meaningful and Decodable ... | https://diff-ae.github.io/ | Unconditional Sampling. By fitting the latent distribution of our diffusion autoencoder with another diffusion model, we can also synthesize images ... |
-| PanoDiffusion | https://sm0kywu.github.io/panodiffusion/ | III. Bi-modal Latent Diffusion Model. We designed a bi-modal latent diffusion structure to introduce depth information while generating high-quality RGB output, ... |
-| FusionDock: Physics-informed Diffusion Model for Molecular Docking | https://icml-compbio.github.io/2023/papers/WCBICML2023_paper159.pdf | We propose FusionDock, a diffusion model for protein-ligand docking which incorporates physi- cal priors, such as classical mechanics principles, known ... |
-| Dream 7B \| HKU NLP Group | https://hkunlp.github.io/blog/2025/dream/ | Apr 2, 2025 ... Thanks to the existing left-to-right knowledge in the AR model, the diffusion model's any-order learning can be accelerated, significantly ... |
-| Decentralized Diffusion | https://decentralizeddiffusion.github.io/ | Jan 9, 2025 ... Some samples from our largest Decentralized Diffusion Model, pretrained with just eight independent GPU nodes in less than a week. |
-| Random Conditioning with Distillation for Data-Efficient Diffusion ... | https://dohyun-as.github.io/Random-Conditioning/ | We propose random conditioning to overcome student models failing to generate images for conditions not covered by the paired dataset during diffusion model ... |
-| Diffusion with Forward Models: Solving Stochastic Inverse Problems ... | https://diffusion-with-forward-models.github.io/ | This diffusion model directly samples from the distribution of 3D scenes conditioned on a single image, trained only on 2D images. Denoising diffusion ... |
-| ReF-LDM: A Latent Diffusion Model for Reference-based Face ... | https://chiweihsiao.github.io/refldm.github.io/ | ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration · ReF-LDM leverages a flexible number of reference images to restore a low-quality ... |
-| FasterCache: Training-Free Video Diffusion Model Acceleration with ... | https://vchitect.github.io/FasterCache/ | FasterCache: Training-Free Video Diffusion Model Acceleration with High Quality · Abstract · Figure 1. Comparison of visual quality and inference speed with ... |
-| DOLCE: A model-based probabilistic diffusion framework for limited ... | https://wustl-cig.github.io/dolcewww/ | Model-based Diffusion model for LACT. ... DOLCE achieves the SOTA performance in highly ill-posed LACT by alternating between the data-fidelity and sampling ... |
-| Re-HOLD: Video Hand Object Interaction Reenactment via adaptive ... | https://fyycs.github.io/Re-HOLD/ | We present a novel video Reenactment framework focusing on Human-Object Interaction (HOI) via an adaptive Layout-instructed Diffusion model (Re-HOLD). |
-| DPOK: Reinforcement Learning for Fine-tuning Text-to-Image ... | https://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf | In our experiments, we fine-tune the Stable Diffusion model [30] using ImageReward [43], an open- source reward model trained on a large dataset comprised of ... |
-| Visual Layout Composer: Image-Vector Dual Diffusion Model for ... | https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf | Our key contributions are summarized below: • A novel dual diffusion model that generates layout design in both image and vector domains conditioned on input. |
-| Image Neural Field Diffusion Models | https://yinboc.github.io/infd/ | At test time, a diffusion model generates a latent representation z , which is then decoded and used to render a high-resolution image. Convolutional Local ... |
-| MV-Diffusion: Motion-aware Video Diffusion Model | https://hexiangteng.github.io/papers/ACM%20MM%202023%20MV%20diffusion.pdf | In this paper, we present a Motion-aware Video Diffusion Model. (MV-Diffusion) for enhancing the temporal consistency of gen- erated videos using autoregressive ... |
-| DiffusionSat | https://samar-khanna.github.io/DiffusionSat/ | Further research on controlling the reliability of diffusion model outputs will be crucial to make accurate geospatial predictions for inverse problems such as ... |
-| Diff-BGM: A Diffusion Model for Video Background Music Generation | https://sizhelee.github.io/publication/diffbgm.html | Diff-BGM: A Diffusion Model for Video Background Music Generation. Sizhe Li1, Yiming Qin1, Minghang Zheng1, Xin Jin2,3, Yang Liu1,. 1Wangxuan Institute of ... |
-| Large Language Diffusion Models | https://ml-gsai.github.io/LLaDA-demo/ | We introduce LLaDA, a diffusion model with an unprecedented 8B scale, trained entirely from scratch, rivaling LLaMA3 8B in performance. |
-| A practical guide to Diffusion models \| Sven Elflein | https://selflein.github.io/diffusion_practical_guide | Nov 18, 2022 ... The goal of a diffusion model is to be able to generate novel data after being trained on data points of that distribution. |
-| SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation | https://swiftsketch.github.io/ | SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation. |
-| ShapeFusion: A 3D diffusion model for localized shape editing | https://rolpotamias.github.io/Shapefusion/ | We propose a masked 3D diffusion model for localized attribute manipulation and editing. During forward diffusion step, noise is gradually added to random ... |
-| Denoising Diffusion Models: A Generative Learning Big Bang | https://cvpr2023-tutorial-diffusion-models.github.io/ | He also co-developed eDiff-I, NVIDIA's first large-scale text-to-image diffusion model. Jiaming is a recipient of the ICLR 2022 Outstanding Paper Award ... |
-| Application of the Merton Jump Diffusion Model in S&P500 | https://ionides.github.io/531w16/final_project/Project06/final_report.html | 2.4 Hierarchical Merton Jump Diffusion model. Compared with the BS, MJD is more volatile by adding a compound Poisson process. That is more reasonable since the ... |
-| WDM: 3D Wavelet Diffusion Models for High-Resolution Medical ... | https://pfriedri.github.io/wdm-3d-io/ | This work presents WDM, a wavelet-based medical image synthesis framework that applies a diffusion model on wavelet decomposed images. |
-| The Wiener Diffusion Model Distribution — Wiener • brms | http://paul-buerkner.github.io/brms/reference/Wiener.html | Density function and random generation for the Wiener diffusion model distribution with boundary separation alpha, non-decision time tau, bias beta and drift ... |
-| DiffV2IR: Visible-to-Infrared Diffusion Model via Vision-Language ... | https://diffv2ir.github.io/ | Project page for DiffV2IR: Visible-to-Infrared Diffusion Model via Vision-Language Understanding. |
-| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model | https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html | However, the performance on more diverse motions remains unsatisfactory. In this work, we propose ReMoDiffuse, a diffusion-model-based motion generation ... |
-| Visual Layout Composer: Image-Vector Dual Diffusion Model for ... | https://aminshabani.github.io/visual_layout_composer/index.html | Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation. Mohammad Amin Shabani, Zhaowen Wang, Difan Liu, Nanxuan Zhao, ... |
-| HumanNorm | https://humannorm.github.io/ | HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation. Xin Huang Ruizhi Shao Qi Zhang Hongwen Zhang Ying ... |
-| GAN Lab: Play with Generative Adversarial Networks in Your Browser! | https://poloclub.github.io/ganlab/ | What is a GAN? Many machine learning systems look at some kind of complicated input (say, an image) and produce a simple output (a label like, "cat"). |
-| From GAN to WGAN \| Lil'Log | https://lilianweng.github.io/posts/2017-08-20-gan/ | Aug 20, 2017 ... Generative Adversarial Network (GAN)#. GAN consists of two models: A discriminator D estimates the probability ... |
-| Kyra Gan's Personal Website | https://kyra-gan.github.io/ | Kyra Gan. kyragan at cornell.edu. Bio; Group; Methodological Work; Review, Workshop Publication, and Applied Work; Teaching; Selected Talks. I am an assistant ... |
-| Lu Gan | https://ganlumomo.github.io/ | Lu Gan ... I am an Assistant Professor in the School of Aerospace Engineering at Georgia Tech. I lead the Lu's Navigation and Autonomous Robotics (Lunar) Lab, and ... |
-| Gan Shen | https://gshen42.github.io/ | Gan Shen. Email: gshen42@ucsc.edu. Google Scholar · Mastodon · GitHub. About. I'm a ... |
-| Zhe Gan | https://zhegan27.github.io/ | Zhe Gan · Publications · Google Scholar · GitHub · LinkedIn · CV. Principal Research Scientist Apple AI/ML Seattle, WA 98109. Email: zhe.gan@apple.com. |
-| Zecheng Gan \| Homepage of Zecheng Gan （干则成） | https://zcgan.github.io/ | Gan is organizing the minisymposium on “Modeling and Simulation for Materials Science and Deep Learning”, EASIAM 2024, together with Prof. Yuqing Li (SJTU). |
-| Tackling the Generative Learning Trilemma with Denoising Diffusion ... | https://nvlabs.github.io/denoising-diffusion-gan/ | We introduce denoising diffusion generative adversarial networks (denoising diffusion GANs) that model each denoising step using a multimodal conditional GAN. |
-| Yiming Gan – Yiming Gan | https://gyiming.github.io/ | My name is Yiming Gan (甘一鸣). I'm currently an assistant professor at Institute of Computing Technologies, Chinese Academy of Sciences. Before joining ICT, ... |
-| Training GANs the right way \| Christopher Beckham, PhD | http://christopher-beckham.github.io/2021/06/28/training-gans.html | Jun 28, 2021 ... GAN training used to involve a lot of heuristics in order to minimise their various degenerate behaviours, like mode collapse or mode dropping. |
-| Qijun Gan (干淇钧) - Homepage | https://agnjason.github.io/ | Publications. arxiv. sym. OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation. Qijun Gan, Ruizi Yang, Jianke Zhu, Shaofei ... |
-| EEG-GAN | https://autoresearch.github.io/EEG-GAN/ | The GAN Package. We here use Generative Adversarial Networks (GANs) to create trial-level synthetic EEG samples. We can then use these samples as extra data ... |
-| CGS-GAN | https://fraunhoferhhi.github.io/cgs-gan/ | A novel 3D Gaussian Splatting GAN framework that enables stable training and high-quality 3D-consistent synthesis of human heads without relying on view- ... |
-| mahfuzmohammad/Fixed-Point-GAN: Official ... - GitHub | https://jlianglab.github.io/Fixed-Point-GAN | This repository provides the official PyTorch implementation of Fixed-Point GAN. Fixed-Point GAN introduces fixed-point translation which dramatically reduces ... |
-| pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D ... | https://marcoamonteiro.github.io/pi-GAN-website/ | We propose a novel generative model, named Periodic Implicit Generative Adversarial Networks (π-GAN or pi-GAN), for high-quality 3D-aware image synthesis. |
-| Weijie Gan | https://wjgancn.github.io/ | Weijie Gan 甘伟捷. I am a 5th year PhD student in Computational Imaging Group (CIG) from Computer Science and Engineering Department at Washington ... |
-| My first GAN using CelebA data | https://fairyonice.github.io/My-first-GAN-using-CelebA-data.html | Jul 7, 2018 ... Everyone has been lately talking about Generative Adversarial Networks, or more famously known as GAN. My colleagues, interview candidates, ... |
-| Gan Fang \| Purdue CS | https://gfang99.github.io/ | Profile photo of Gan Fang. Gan Fang. Ph.D. Student Department of Computer Science Purdue University Email: fang301@purdue.edu · Google Scholar. Biography. I am ... |
-| Zeyu Gan / HomePage: About Me | https://zygan1999.github.io/ | Zeyu Gan (甘泽宇). Renmin Univerisity of China. Follow. Beijing, China ... © 2025 Zeyu Gan. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes. |
-| Polymorphic-GAN | https://nv-tlabs.github.io/PMGAN/ | Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps. Seung Wook Kim 1,2,3. Karsten Kreis 1. Daiqing Li 1. |
-| Jingru Gan's Homepage - Jingru GAN | https://jingrug.github.io/ | May 19, 2025 ... Jingru Gan's Homepage. I am currently pursuing my Master degree of Computer Science at the University of California, Los Angeles (UCLA), ... |
-| Wanshui Gan | https://ganwanshui.github.io/ | Wanshui Gan. I earned my Ph.D. from the Sugiyama-Yokoya-Ishida Lab at the University of Tokyo, Department of Complexity Science and Engineering, ... |
-| House-GAN++: Generative Adversarial Layout Refinement Network ... | https://ennauata.github.io/houseganpp/page.html | House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects. |
-| GAN playground: Experiment with Generative Adversarial Networks ... | https://reiinakano.github.io/gan-playground/ | We do not yet support your device, please try to load this demo on a desktop computer with Chrome. We are working hard to add support for other devices. |
-| The Math Behind GANs - Jake Tae | https://jaketae.github.io/study/gan-math/ | Mar 15, 2020 ... GAN can be seen as an interplay between two different models: the generator and the discriminator. Therefore, each model will have its own ... |
-| Wasserstein GAN and the Kantorovich-Rubinstein Duality - Vincent ... | https://vincentherrmann.github.io/blog/wasserstein/ | Feb 24, 2017 ... Wasserstein GAN and the Kantorovich-Rubinstein Duality. From what I can tell, there is much interest in the recent Wasserstein GAN paper. In ... |
-| Yuan Gan: About | https://yuangan.github.io/ | Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation. Yuan Gan ... Yuan Gan, Jiaxu Miao, Yi Yang. |
-| GAN convergence and stability: eight techniques explained \| ML Blog | https://davidleonfdez.github.io/gan/2022/05/17/gan-convergence-stability.html | May 17, 2022 ... In this post we are focusing on GANs. The objective is to provide a good understanding of a list of key contributions specific to GAN training. |
-| VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI ... | https://augmentedperception.github.io/voluxgan/ | We propose VoLux-GAN, a generative framework to synthesize 3D-aware faces with convincing relighting. Our main contribution is a volumetric HDRI relighting ... |
-| Pix2Pix Image Transfer Activity | https://mitmedialab.github.io/GAN-play/ | With the GAN technique, we train two machine learning models that compete with one another: the Generator, and the Discriminator. You can think of the Generator ... |
-| Generative Multiplane Images: Making a 2D GAN 3D-Aware | https://xiaoming-zhao.github.io/projects/gmpi/ | "What is really needed to make an existing 2D GAN 3D-aware?" To answer this question, we modify a classical GAN, i.e., StyleGANv2, as little as possible. We ... |
-| Generative Adversarial Networks | https://deepgenerativemodels.github.io/notes/gan/ | GAN Objective. We thus arrive at the generative adversarial network formulation. There are two components in a GAN: (1) a generator and (2) a discriminator. |
-| Gan Zhang | https://ganzhang-gfd.github.io/ | Gan Zhang, Ph.D. Assistant Professor (starting in 05/2023). Department of Atmospheric Sciences. |
-| My First GAN - Jake Tae | https://jaketae.github.io/study/gan/ | Feb 25, 2020 ... In this post, we will attempt to create a very simple vanilla GAN using TensorFlow. Specifically, our goal will be to train a neural network that is capable of ... |
-| Kyra (Jingyi) Gan | https://kyra-gan.github.io/cv.pdf | Gan. • Online Uniform Sampling: Randomized Learning-Augmented Approximation Al- gorithms with Application to Digital Health Xueqing Liu, Kyra Gan♧, Esmaeil Key-. |
-| Advanced GANs - Exploring Normalization Techniques for GAN ... | https://sthalles.github.io/advanced_gans/ | Aug 11, 2018 ... However, much of the work focuses on how to make the GAN training more stable. Self-Attention GANs. Self-Attention for Generative Adversarial ... |
-| Audio samples from "HiFi-GAN: Generative Adversarial Networks for ... | https://jik876.github.io/hifi-gan-demo/ | In this work, we propose HiFi-GAN, which achieves both efficient and high-fidelity speech synthesis. As speech audio consists of sinusoidal signals with ... |
-| GigaGAN: Scaling up GANs for Text-to-Image Synthesis | https://mingukkang.github.io/GigaGAN/ | We introduce GigaGAN, a new GAN architecture that far exceeds this limit, demonstrating GANs as a viable option for text-to-image synthesis. |
-| Edward Gan | https://edgan8.github.io/edgan8.github.io/ | I graduated from Stanford with a PhD in Computer Science on Data summaries for scalable, high-cardinality analytics advised by Peter Bailis. Edward Gan; edgan8@ ... |
-| Understanding Generative Adversarial Networks – Naoki Shibuya | https://naokishibuya.github.io/blog/2017-11-03-understanding-generative-adversarial-networks/ | Nov 3, 2017 ... For example, we can train a GAN to generate digit images that look like handwritten ones from MNIST database. MNIST hand-written digit images. A ... |
-| Rewriting Geometric Rules of a GAN | https://peterwang512.github.io/GANWarping/ | With our method, a user can edit a GAN model to synthesize many unseen objects with the desired shape. The user is asked to warp just a handful of generated ... |
-| SURF-GAN | https://jgkwak95.github.io/surfgan/ | Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis. |
-| The best of GAN papers in the year 2018 | http://dtransposed.github.io/blog/2018/12/31/Best-of-GANs-2018-(Part-1-out-of-2)/ | Dec 31, 2018 ... GAN Dissection: Visualizing and Understanding Generative Adversarial Networks - given the amount of hype around GANs, it is obvious that this ... |
-| Shuyu Gan | https://shuyugan.github.io/ | My name is Shuyu Gan(甘书宇). I am an incoming CS PhD student at UMN Minnesota NLP and Optimization for AI Lab (OptimAI-Lab), co-advised by Prof. |
-| Barbershop: GAN-based Image Compositing using Segmentation ... | https://zpdesu.github.io/Barbershop/ | We present a novel solution to image blending, particularly for the problem of hairstyle transfer, based on GAN-inversion. |
-| Temporally Consistent Semantic Video Editing | https://video-edit-gan.github.io/ | Our work focuses on GAN-based, temporally consistent video editing. |
-| Tianjun Gan's personal website | https://tianjungan.github.io/ | Oct 9, 2024 ... Welcome To My Website: Tianjun Gan ... I obtained my PhD in Astronomy at Tsinghua University under the supervision of Profs. Shude Mao and Sharon ... |
-| Adversarial Generation of Continuous Images | https://universome.github.io/inr-gan.html | ... GAN. Previous attempts to adapt INRs for image generation were limited to MNIST-like datasets and do not scale to complex real-world data. Our proposed INR-GAN ... |
-| IDInvert | https://genforce.github.io/idinvert/ | We propose In-Domain GAN inversion (IDInvert) by first training a novel domain-guided encoder which is able to produce in-domain latent code. |
-| Image Editing using GAN | https://tandon-a.github.io/Image-Editing-using-GAN/ | In this post, I would go through the process of using a GAN for the image editing task. Pairing DCGAN with Encoder. Deep Convolutional Generative Adversarial ... |
-| ConText-GAN: using contextual texture information for realistic and ... | https://bhiconference.github.io/BHI2023/2023/pdfs/1570927321.pdf | Mar 13, 2024 ... Abstract—This study proposes an enhancement to the. ConText-GAN, an image synthesis model using a controllable texture input. The improvement ... |
-| The Emotional GAN: Priming Adversarial Generation of Art with ... | https://dmelis.github.io/assets/publications/2017_emotional_gan/NIPS2017_Creativity.pdf | For this, we use a Generative Adversarial Network (GAN) with Auxiliary Classifier (AC-GAN)[9], an extension of GAN that conditions generation on class labels. |
-| Perceptual-Sensitive GAN for Generating Adversarial Patches | https://xlliu-beihang.github.io/file/aaai19.pdf | To address this problem, this paper proposes a perceptual-sensitive generative adver- sarial network (PS-GAN) that can simultaneously enhance the visual ... |
-| VAE-GAN · Fun with ML | https://hellomoto-ai.github.io/splatoon2-ml/vae-gan/2019/04/11/initial-implementation/ | Apr 11, 2019 ... I built VAE-GAN and trained models with Splatoon 2 video screens. Code and model is available here. |
-| Explaining in Style: Training a GAN to explain a classifier in ... | https://explaining-in-style.github.io/ | dog" classifier), thus driving latent attributes in the GAN's StyleSpace to capture classifier-specific attributes. (Right) We automatically discover top ... |
-| Eric Gan | https://eric-gan.github.io/about.html | Eric Gan. Menu. About Me. Born in Boston, raised in the Bay, I am currently a ... © Eric Gan. All rights reserved; Design By: Eric Gan. Menu. Home · Portfolio ... |
-| Welcome Gan Chengguang academic personal websites - Gan ... | https://ganchengguang.github.io/ | Welcome Gan Chengguang academic personal websites. Currently, I am working as a data scientist. I received my Ph.D. in March 2025 from Yokohama National ... |
-| Elaine Gan's Homepage | https://elainegan-2020.github.io/ | Luyining (Elaine) Gan. Distingushed Research Fellow Beijing University of Posts and Telecommunications. Home · Conference · Research · Teaching · Personal. |
-| Stitch it in Time: GAN-Based Facial Editing of Real Videos | https://stitch-time.github.io/ | Stitch it in Time: GAN-Based Facial Editing of Real Videos · Our method can apply semantic manipulations to real facial videos without requiring any temporal ... |
-| D2M-GAN | https://l-yezhu.github.io/D2M-GAN/ | We present Dance2Music-GAN (D2M-GAN), a novel adversarial multi-modal framework that generates complex musical samples conditioned on dance videos. Our ... |
-| CDE-GAN(Shiming Chen) | https://shiming-chen.github.io/CDE-GAN-website/CDE-GAN.html | CDE-GAN incorporates dual evolution with respect to the generator(s) and discriminators into a unified evolutionary adversarial framework. |
-| PU-GAN: a Point Cloud Upsampling Adversarial Network | https://liruihui.github.io/publication/PU-GAN/ | This paper presents a new point cloud upsampling network called PU-GAN, which is formulated based on a generative adversarial network (GAN), to learn a rich ... |
-| Emilia Gan | https://efran.github.io/ | Emilia Gan. Ph.D. Candidate Paul G. Allen School of. Computer Science & Engineering (University of Washington) M.S. Computer Science University of Washington ... |
-| CycleGAN Project Page | https://junyanz.github.io/CycleGAN/ | How to interpret CycleGAN results: CycleGAN, as well as any GAN-based method, is fundamentally hallucinating part of the content it creates. Its outputs are ... |
-| Masked Auto-Encoders Meet Generative Adversarial Networks and ... | https://feizc.github.io/resume/ganmae.pdf | Extensive experiments demon- strate that adversarial training of GAN-MAE framework is more efficient and accordingly outperforms the standard. MAE given the ... |
-| Feature-Based vs. GAN-Based Imitation: When and Why \| Chenhao Li | https://breadli428.github.io/post/lfd/ | Jul 8, 2025 ... Comparing feature-based and GAN-based methods for learning from demonstrations, the key to success lies less in the method itself and more ... |
-| Wensheng Gan's Homepage | https://wsgan001.github.io/ | Wensheng Gan. Ph.D. Associate Professor. College of Cyber Security · Jinan University, Guangzhou, China. Office: Building D, Room 103, Panyu Campus Email ... |
-| Wasserstein 2 Minibatch GAN with PyTorch — POT Python Optimal ... | https://pythonot.github.io/master/auto_examples/backends/plot_wass2_gan_torch.html | In this example we train a Wasserstein GAN using Wasserstein 2 on minibatches as a distribution fitting term. |
-| Flow-GAN: Combining Maximum Likelihood and Adversarial ... | https://ermongroup.github.io/blog/flow-gan/ | Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models. Aditya Grover and Manik Dhar. TL;DR: Objectives based on maximum ... |
-| GAN in PyTorch - Jake Tae | https://jaketae.github.io/study/pytorch-gan/ | Nov 30, 2020 ... GAN in PyTorch. 7 minute read. In this blog post, we will be revisiting GANs, or general adversarial networks. This isn't the first time ... |
-| Sketch Your Own GAN | https://peterwang512.github.io/GANSketching/ | Abstract. Can a user create a deep generative model by sketching a single example? Traditionally, creating a GAN model has required the collection of a large- ... |
-| EditGAN | https://nv-tlabs.github.io/editGAN/ | Generative adversarial networks (GANs) have recently found applications in image editing. However, most GAN-based image editing methods often require large- ... |
-| GAN-Avatar - Controllable Personalized GAN-based Human Head ... | https://zielon.github.io/ganavatar/ | GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar ... Digital humans and, especially, 3D facial avatars have raised a lot of attention in the past ... |
-| Distilling Diffusion Models into Conditional GANs | https://mingukkang.github.io/Diffusion2GAN/ | We propose a method to distill a complex multistep diffusion model into a single-step conditional GAN student model, dramatically accelerating inference while ... |
-| GAN Ensembling | https://chail.github.io/gan-ensembling/ | ... GAN reconstructions, coupled with classifier sensitivities to artifacts in GAN-generated images. Summary. We investigate different methods of perturbing the ... |
-| InterFaceGAN | https://genforce.github.io/interfacegan/ | GAN Dissection: Visualizing and Understanding Generative Adversarial Networks. ... Comment: Navigates the manifold of GAN's latent space to increase memorability. |
-| 干煸牛肉 Chinese Beef Jerky (Pan Dried) - 5 minutes! Gan Bian Niu ... | https://connie-feng.github.io/blog/recipes/chinese-beef-jerky/ | Jul 30, 2020 ... \| Gan Bian Niu Rou. Ingredients. 1/2 lb any cheap cut of beef or pork (we're using beef shoulder); 3 dried chili peppers; 1 teaspoon whole ... |
-| Gan Luo (罗淦) - Homepage | https://luoxiaogan.github.io/GanLuo.github.io/ | My name is Gan Luo(罗淦). I am an undergraduate at School of Mathematical Sciences, Peking University. I am currently doing research on distributed machine ... |
-| Appendix A. Training of the GW GAN with Fixed Adversary B ... | https://dmelis.github.io/assets/publications/2019_incomparable_learning/ICML2019_Incomparable-supp.pdf | The GW GAN recovers relational and geometric properties of the reference distribution. Global aspects can be determined via constraints of the generator gθ. |
-| SPEECH2IR-GAN - Audio Demo | https://anton-jeran.github.io/S2IR/ | We then propose a GAN-based architecture that encodes RIR features from reverberant speech and constructs an RIR from the encoded features, and uses a novel ... |
-| Nickel and Diming Your GAN: A Dual-Method Approach to ... | https://lait-cvlab.github.io/Nickel_and_Diming_Your_GAN/ | Nickel and Diming Your GAN: A Dual-Method Approach to Enhancing GAN Efficiency via Knowledge Distillation · Congratulations! NICKEL & DiME is accepted in ECCV ... |
-| Gan Yu | https://theganyu.github.io/ | ... Gan Yu, Joel Reis, David Cabecinhas, Rita Cunha, and Carlos Silvestre, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023. The problem of ... |
-| Dual Encoder 3D GAN Inversion | https://berkegokmen1.github.io/dual-enc-3d-gan-inv/ | 3D GAN inversion aims to project a single image into the latent space of a 3D Generative Adversarial Network (GAN), thereby achieving 3D geometry reconstruction ... |
-| HiFi-GAN: Generative Adversarial Networks for Efficient and High ... | https://tskim9439.github.io/assets/HiFiGAN/HiFiGAN.pdf | Oct 23, 2020 ... We further show the generality of HiFi-GAN to the mel- spectrogram inversion of unseen speakers and end-to-end speech synthesis. Finally, a ... |
-| PETIT-GAN | https://bermanz.github.io/PETIT/ | We propose PETIT-GAN, a physically enhanced thermal image-translating generative adversarial network to transform between different thermal modalities. |
-| Practical GAN-based Synthetic IP Header Trace Generation using ... | https://xieyaxiongfly.github.io/CSE610_UB/_files/paper/gan_ip.pdf | Aug 26, 2022 ... We identify key fidelity, scalability, and privacy challenges and tradeoffs in existing GAN- based approaches. By synthesizing domain-specific ... |
-| Generative Adversarial Nets (GAN) — Machine Learning Lecture | https://hannibunny.github.io/mlbook/gan/GAN.html | The task of the GAN is to generate fake-data at the output of the Generator. This fake data shall be indistinguishable from the real-data ... |
-| Anyres GAN | https://chail.github.io/anyres-gan/ | First, conditioning the generator on a target scale allows us to generate higher resolutions images than previously possible, without adding layers to the model ... |
-| COCO-GAN | https://hubert0527.github.io/COCO-GAN/ | We propose COnditional COordinate GAN (COCO-GAN) of which the generator generates images by parts based on their spatial coordinates as the condition. |
-| GAN 4 \| Shangeth | https://shangeth.github.io/post/gan-4 | May 24, 2019 ... GAN 4. Deep Convolutional GAN. Shangeth Rajaa. May 24, 2019 6 min read 0 Comments Deep Learning, Python, PyTorch. DGGAN is exactly the same as ... |
-| Towards a Framework for Human-AI Interaction Patterns in Co ... | https://hai-gen.github.io/2022/papers/paper-HAIGEN-GrabeImke.pdf | The suggested framework enables us to discuss the affordances and limitations of the different kind of interactions underlying co-creative GAN applications. |
-| Attributing Fake Images to GANs: Learning and Analyzing GAN ... | https://ningyu1991.github.io/projects/GANFingerprints.html | We present the first study of learning GAN fingerprints towards image attribution and using them to classify an image as real or GAN-generated. |
-| Prot-A-GAN: Automatic Protein Function Annotation using GAN ... | https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_55.pdf | The Prot-A-GAN aproach uses GAN-like adversarial training for learning embedding of nodes and relation in an heteroge- nous knowledge graph. Following the ... |
-| Training an LC-GAN \| Nadja Rhodes | https://iconix.github.io/dl/2018/07/28/lcgan | Jul 28, 2018 ... GAN is short for generative adversarial network, a neural network that “simultaneously trains two models: a generative model G that captures the ... |
-| 3D-FM GAN | https://lychenyoko.github.io/3D-FM-GAN-Webpage/ | 3D-FM GAN produces photo-realistic controllable manipulations in pose, expression, and illumination with strong identity preservation. |
-| Generative-Model \| Lil'Log | https://lilianweng.github.io/tags/generative-model/ | Flow-based Deep Generative Models. So far, I've written about two types of generative models, GAN and VAE. Neither of them explicitly learns the probability ... |
-| Source-Filter HiFi-GAN | https://chomeyama.github.io/SiFiGAN-Demo/ | Although the HiFi-GAN vocoder achieves fast high-fidelity voice generation thanks to the efficient upsampling-based generator architecture, the pitch ... |
-| GAN Tutorial - EEG-GAN | https://autoresearch.github.io/EEG-GAN/Tutorials/Tutorial_AEGAN/ | GAN Tutorial¶. Augmenting EEG with Generative Adversarial Networks. We here use Generative Adversarial Networks (GANs) to create trial-level synthetic EEG ... |
-| cv \| Lu Gan | https://ganlumomo.github.io/cv/ | cv. General Information. Full Name, Lu Gan. Languages, English, Mandarin ... |
-| GAN Steerability | https://ali-design.github.io/gan_steerability/ | On the "steerability" of generative adversarial networks. Ali Jahanian* Lucy Chai* Phillip Isola MIT Computer Science and Artificial Intelligence Laboratory. |
-| Speech Recognition \| Web Accessibility Initiative (WAI) \| W3C | https://w3c.github.io/wai-website/perspective-videos/voice/ | Speech recognition is about recognizing words for speech-to-text (STT) transcription, virtual assistants, and other speech user interfaces. |
-| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/ | CMUSphinx is an open source speech recognition system for mobile and server applications. Supported languages: C, C++, C#, Python, Ruby, Java, Javascript. |
-| MRTK2 to MRTK3 - simple global speech recognition ... | https://localjoost.github.io/MRTK2-to-MRTK3-simple-global-speech-recognition/ | Aug 3, 2022 ... In the mean time, I really wanted to use global speech commands. And I did. With a little help from a script. So how does speech recognition ... |
-| A tutorial on hidden Markov models and selected applications in ... | http://lcolladotor.github.io/courses/Courses/R/resources/Rabiner_HMM_Tutorial.pdf | We will show that once these three fundamental problems are solved, we can apply HMMs to selected prob- lems in speech recognition. Neither the theory of hidden ... |
-| p5.speech \| Speech synthesis and recognition for p5.js | https://idmnyu.github.io/p5.js-speech/ | var foo = new p5.SpeechRec(); // speech recognition object (will prompt for mic access) foo.onResult = showResult; // bind callback function to trigger when ... |
-| Web Speech API | https://webaudio.github.io/web-speech-api/ | Jul 7, 2025 ... This specification defines a JavaScript API to enable web developers to incorporate speech recognition and synthesis into their web pages. |
-| Speech Recognition Is Not Solved – Awni Hannun – Writing About ... | https://awni.github.io/speech-recognition/ | Oct 11, 2017 ... Ever since Deep Learning hit the scene in speech recognition, word error rates have fallen dramatically. But despite articles you may have ... |
-| Using Radio Archives for Low-Resource Speech Recognition ... | https://mdoumbouya.github.io/nicolingua.pdf | The second, West African Vir- tual Assistant Speech Recognition Corpus, consists of 10K labeled audio clips in four languages. Next, we share West. African ... |
-| Basic concepts of speech recognition – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialconcepts/ | That's why there are often three states in a phone selected for speech recognition. Sometimes phones are considered in context. Such phones in context are ... |
-| Introduction to Automatic Speech Recognition (ASR) - | https://maelfabien.github.io/machinelearning/speech_reco/ | Automatic Speech Recognition (ASR), or Speech-to-text (STT) is a field of study that aims to transform raw audio into a sequence of corresponding words. |
-| Speech Recognition and Graph Transformer Network I · Deep ... | https://atcold.github.io/NYU-DLSP21/en/week11/11-1/ | Apr 14, 2021 ... This section is a high level introduction to speech recognition and modern speech recognition specifically why it's become so good, but what are some of the ... |
-| Speech Recognition | https://anwarvic.github.io/speech-recognition/ | A visual speech recognition (VSR) model that is able to read lip movements and transform them into text. |
-| Real-time speech recognition from a microphone — sherpa 1.3 ... | https://k2-fsa.github.io/sherpa/onnx/python/real-time-speech-recongition-from-a-microphone.html | ... speech recognition with a microphone. With endpoint detection . cd /path/to/sherpa-onnx python3 ./python-api-examples/speech-recognition-from-microphone ... |
-| Child Speech Recognition in Human-Robot Interaction: Evaluations ... | https://james-kennedy.github.io/publications/KennedyEtAl2017HRIFull.pdf | Mar 6, 2017 ... Great advances have been made in adult speech recognition and it is often assumed that these advances will carry over to the HRI domain and to ... |
-| THE XIAOMI-TALKFREELY SYSTEM FOR AUDIO-VISUAL SPEECH ... | https://mispchallenge.github.io/papers/task2/Xiaomi_tr_task2.pdf | In recent years, automatic speech recognition(ASR) for single-speaker and clean speech has substantially improved, and it has been widely utilized in meeting ... |
-| Speech Recognition and Graph Transformer Network II · Deep ... | https://atcold.github.io/NYU-DLSP21/en/week11/11-2/ | Speech Recognition and Graph Transformer Network I · 11.2. Speech ... Speech Recognition and Graph Transformer Network II. \gdef \sam #1 {\mathrm ... |
-| Tuning speech recognition accuracy – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialtuning/ | Tuning speech recognition accuracy. Reasons for bad accuracy; Test database setup; Running the test. Speech recognition accuracy is not always great. First, it ... |
-| Task Arithmetic can Mitigate Synthetic-to-Real Gap in Automatic ... | https://farnhua.github.io/syn2real.github.io/ | Synthetic data is widely used in speech recognition due to the availability of text-to-speech models, which facilitate adapting models to previously unseen ... |
-| Is the language param required in speech recognition to transform ... | https://jrichardsz.github.io/speech-to-text/is-the-language-param-required-in-speech-recognition-to-transform-the-human-speech-to-a-text | Jan 22, 2023 ... As I am a developer, transcription service based on humans don't makes sense. Speech to text is a speech recognition software that enables the ... |
-| ViASR: A Novel Benchmark Dataset and Methods for Vietnamese ... | https://paclic2023.github.io/downloads/PACLIC_37/PACLIC_37_paper_67.pdf | We also propose a new Vietnamese Automatic Speech Recognition framework that utilizes recent deep learning ap- proaches to improve performance on low-resource. |
-| Life after Speech Recognition: Fuzzing Semantic Misinterpretation ... | https://wcventure.github.io/FuzzingPaper/Paper/NDSS19_Life.pdf | Feb 24, 2019 ... proper speech recognition and interpretation. Previous works have only studied the ASR text interpretation component. In the NLU, an Intent ... |
-| SynthVSR: Scaling Visual Speech Recognition With Synthetic ... | https://liuxubo717.github.io/SynthVSR/ | Recently reported state-of-the-art results in visual speech recognition (VSR) often rely on increasingly large amounts of video data, while the publicly ... |
-| Speech recognition with .NET MAUI | https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/ | Nov 13, 2022 ... This article is devoted to a built-in speech recognition mechanism. .NET MAUI already has a mechanism to convert text to speech. |
-| BembaSpeech: A Speech Recognition Corpus for the Bemba ... | https://csikasote.github.io/assets/pdf/2022.lrec-1.790.pdf | Jun 25, 2022 ... Unfortunately, this is not the case for Africa and its over. 2000 languages (Heine and Nurse, 2000). The preva- lence of speech recognition ... |
-| Best of Both Worlds: Robust Accented Speech Recognition with ... | https://poloclub.github.io/papers/21-interspeech-accpt.pdf | Huge advancements in the field of automatic speech recognition. (ASR) have been made in the recent years by leveraging deep learning techniques [1–6]. State-of- ... |
-| Improving Speech Recognition for Children using Acoustic ... | https://slp-ntua.github.io/potam/preprints/conf/2014_WOCCI_children_ASR.pdf | Developing a robust Automatic Speech Recognition (ASR) sys- tem for children is a challenging task because of increased vari- ability in acoustic and ... |
-| Speech recognition for Asterisk PBX | https://zaf.github.io/asterisk-speech-recog/ | Speech recognition for Asterisk. Speech recognition script for Asterisk that uses Cloud Speech API by Google. This AGI script makes use of Google's Cloud ... |
-| Unsupervised Active Learning: Optimizing Labeling Cost ... | https://zszheng147.github.io/publication/zheng2023unsupervisedal/ | In recent years, speech-based self-supervised learning (SSL) has made significant progress in various tasks, including automatic speech recognition (ASR). |
-| Artyom.js \| A speech recognition, voice commands and speech ... | https://sdkcarlos.github.io/sites/artyom.html | 7339.207 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html). According to your browser, speech synthesis and speech recognition ... |
-| Building an application with sphinx4 – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialsphinx4/ | Sphinx4 is a pure Java speech recognition library. It provides a quick and easy API to convert the speech recordings into text with the help of CMUSphinx ... |
-| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/page4/ | You should not use CMU Sphinx for large-vocabulary continuous speech recognition. The simplest way to train a CMU Sphinx model is using a single machine with ... |
-| Almost Unsupervised Text to Speech and Automatic Speech ... | https://speechresearch.github.io/unsuper/ | Text to speech (TTS) and automatic speech recognition (ASR) are two dual tasks in speech processing and both achieve impressive performance thanks to the recent ... |
-| EXPLORING EFFECTIVE DISTILLATION OF SELF-SUPERVISED ... | https://zszheng147.github.io/publication/wang2022exploring/ | EXPLORING EFFECTIVE DISTILLATION OF SELF-SUPERVISED SPEECH MODELS FOR AUTOMATIC SPEECH RECOGNITION. Yujin Wang, Changli Tang, Ziyang Ma, Zhisheng Zheng, Xie ... |
-| About KaleidoEscape – KaleidoEscape – Linguist turned Programmer | https://kaleidoescape.github.io/about/ | About. I'm a natural language processing (NLP) expert with a background primarily in speech recognition and machine translation. You can view my updated CV ... |
-| Kernel Approximation Methods for Speech Recognition | https://avnermay.github.io/files/thesis_defense_slides.pdf | Dec 12, 2017 ... speech recognition. 5. Page 6. Outline. I. Background. II. Random Fourier features (RFFs) for acoustic modeling. III. Improved RFFs through ... |
-| Automatic Speech Recognition (Multi-tasking) | https://espnet.github.io/espnet/recipe/asr1.html | Automatic Speech Recognition (Multi-tasking) ... This is a template of ASR1 Multi-tasking recipe for ESPnet2. This README provides comprehensive instructions on ... |
-| A Joint Training Framework for Robust Automatic Speech Recognition | https://zqwang7.github.io/publications/taslp2016.pdf | Index Terms—CHiME-2, deep neural networks (DNN), joint training, robust automatic speech recognition, speech separation, time-frequency masking. I. INTRODUCTION. |
-| X-VECTORS: ROBUST DNN EMBEDDINGS FOR SPEAKER ... | https://maelfabien.github.io/assets/litterature/representation/x_vector.pdf | The DNNs most often found in speaker recognition are trained as acoustic models for automatic speech recognition (ASR), and are then used to enhance phonetic ... |
-| EXPLOITING LSTM STRUCTURE IN DEEP NEURAL NETWORKS ... | https://cloudygoose.github.io/papers/16lstmdnn_icassp16.pdf | ABSTRACT. The CD-DNN-HMM system has became the state-of-art system for large vocabulary continuous speech recognition. (LVCSR) tasks, in which deep neural ... |
-| Speech Enhancement Using End-to-End Speech Recognition ... | https://sas91.github.io/pdf/p229-subramanian.pdf | Oct 23, 2019 ... attention-based speech recognition within a single neural network. ... Wang, “Joint noise adaptive training for robust automatic speech ... |
-| Postprocessing Framework – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/postpframework/ | Speech segmentation in sentences is an important sub-problem of speech recognition and depends on context, grammar and semantics. This task requires non ... |
-| CMUSphinx Tutorial For Developers – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorial/ | The tutorial is intended for developers who need to apply speech technology in their applications, not for speech recognition researchers. If you are a ... |
-| Introduction to Automatic Speech Recognition | https://kharshit.github.io/blog/2019/04/19/introduction-to-automatic-speech-recognition | Apr 19, 2019 ... The Automatic Speech Recognition (ASR) systems are widely used nowadays. Some of the most notable uses include Siri, Alexa Google Assistant, Cortana, etc. |
-| The History of Speech Recognition to the Year 2030 – Awni Hannun ... | https://awni.github.io/future-speech/ | Aug 3, 2021 ... Given the remarkable changes in the state of speech recognition over the previous decade, what can we expect over the coming decade? |
-| An Overview of Multi-Task Learning in Speech Recognition | http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html | Mar 21, 2020 ... The field of Automatic Speech Recognition moves fast, but I think you will find the general trends and logic discussed here to hold true today. |
-| Temporal Multimodal Learning in Audiovisual Speech Recognition | https://dtaoo.github.io/papers/2016_avSpeech.pdf | Robust Automatic Speech Recognition (ASR) has been the key to the natural human-computer interfaces in most cases, but it's challenged by the noisy ... |
-| Fundamentals of Speech Recognition | https://slpcourse.github.io/materials/lecture_notes/Xiao_Guest_lecture_ASR.pdf | Mar 28, 2023 ... Speech Recognition Task. • Convert human speech waveform to human text. • Also called automatic speech recognition (ASR) or speech-to-text (STT) ... |
-| Relative Positional Encoding for Speech Recognition and Direct ... | https://esalesky.github.io/assets/pdf/interspeech20_relativepos.pdf | When ap- plied to speech recognition and direct speech translation, this architecture also stands out as the highest performing option for several datasets [7, ... |
-| MelNet - Audio Samples | https://audio-samples.github.io/ | Multi-Speaker Text-to-Speech. Samples generated by MelNet trained on the task of multi-speaker TTS using noisy speech recognition data from the TED-LIUM 3 ... |
-| CHiME-6 Challenge | https://chimechallenge.github.io/chime6/ | an accurate array synchronization script is provided,; the impact of diarization error on speech recognition error will be measured,; upgraded, state-of-the-art ... |
-| AVATAR: Unconstrained Audiovisual Speech Recognition | https://gabeur.github.io/avatar-visspeech | Abstract. Audio-visual automatic speech recognition (AV-ASR) is an extension of ASR that incorporates visual cues, often from the movements of a speaker's ... |
-| HMM Speech Recognition | https://sut-ai.github.io/supplementary/notebooks/hmm_speech_recognition/ | HMMs' Applications - Speach Recognition. In this notebook, we will study how Hidden Markov Models can be applied to speech recognition and introduce some useful ... |
-| Robust AM-FM Features for Speech Recognition | https://slp-ntua.github.io/potam/preprints/journal/2005_dimitriadis_maragos_potamianos_draft.pdf | Robust ASR is an active research field and a variety of algorithms can be used to improve speech recognition performance under adverse conditions including ... |
-| Whisper: Web-Scale Supervised Pretraining for Speech Recognition ... | https://john-see.github.io/blog/2022/Whisper/ | Sep 21, 2022 ... Scale weakly supervised speech recognition the next order of magnitude to 680,000 hours of labeled audio data. Remove the need for any ... |
-| CMUSphinx Documentation – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/ | This page contains collaboratively developed documentation for the CMU Sphinx speech recognition engines. |
-| Frequently Asked Questions (FAQ) – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/faq/ | Speech recognition accuracy is not always great. To test speech recognition you need to run recognition on prerecorded reference database to see what ... |
-| Speech Recognition — OpenSeq2Seq 0.2 documentation | https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html | Automatic speech recognition (ASR) systems can be built using a number of approaches depending on input data type, intermediate representation, model's type ... |
-| Zipformer-transducer-based Models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/ncnn/pretrained_models/zipformer-transucer-models.html | Real-time speech recognition from a microphone . cd /path/to/sherpa-ncnn ./build/bin/sherpa-ncnn-microphone ... |
-| Using PocketSphinx with GStreamer and Python – CMUSphinx ... | http://cmusphinx.github.io/wiki/gstreamer/ | Now, we will fill in the gst.init method, which initializes a GStreamer pipeline that will do speech recognition for us. Creating the pipeline. For simplicity ... |
-| Speech Recognition - Robotics Knowledgebase | https://roboticsknowledgebase.github.io/wiki/sensing/speech-recognition/ | May 2, 2023 ... Speech Recognition. On This Page. Resources; Example; Hotword/Wakeword Detection. Snowboy; Porcupine; Keyword Spotting. Microphone Selection ... |
-| Semantic Language model – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/semanticlanguagemodel/ | Latent Semantic Analysis (LSA) Tutorial [5] (A good start for LAS); Using semantic analysis to improve speech recognition performance [6]; Semantics in Speech ... |
-| Quantized QuartzNet with Brevitas for efficient speech recognition ... | https://xilinx.github.io/finn/2020/03/27/brevitas-quartznet-release.html | Mar 27, 2020 ... We are pleased to announce the release of quantized pre-trained models of QuartzNet for efficient speech recognition. |
-| Sample-Efficient Unsupervised Domain Adaptation of Speech ... | https://slp-ntua.github.io/potam/preprints/journal/2023_TASL_domain_adaptation.pdf | Dec 31, 2022 ... In the context of speech recognition the importance of. UDA is extenuated, as the transcription and alignment pro- cess is especially expensive ... |
-| VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device ... | https://google.github.io/speaker-id/publications/VoiceFilter-Lite/ | ... speech recognition system. Delivering such a model presents numerous challenges: It should improve the performance when the input signal consists of ... |
-| NeMo — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/onnx/nemo/index.html | NeMo . This page lists models from NeMo. Speech Recognition models . NeMo CTC-based models · How to export models from NeMo to sherpa-onnx. |
-| IMPROVING SPEECH RECOGNITION ACCURACY OF LOCAL POI ... | https://songjuncao.github.io/files/SLT2021_presentation.pdf | IMPROVING SPEECH RECOGNITION ACCURACY. OF LOCAL POI USING GEOGRAPHICAL MODELS. Songjun Cao, Yike Zhang, Xiaobing Feng, Long Ma. Tencent Cloud Xiaowei. January ... |
-| Overview of the CMUSphinx toolkit – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialoverview/ | The CMUSphinx toolkit is a venerable speech recognition toolkit with various tools used to build speech applications. |
-| Sequence-to-sequence learning with Transducers - Loren Lugosch | https://lorenlugosch.github.io/posts/2020/11/transducer/ | Nov 16, 2020 ... Graves showed that the Transducer was a sensible model to use for speech recognition, achieving good results on a small dataset (TIMIT). |
-| SNRi Target Training for Joint Speech Enhancement and Recognition | https://google.github.io/df-conformer/snri_target/ | Abstract: Speech enhancement (SE) is used as a frontend in speech applications including automatic speech recognition (ASR) and telecommunication. |
-| About CMUSphinx – CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/wiki/about/ | CMUSphinx collects over 20 years of the CMU research. All advantages are hard to list, but just to name a few: State of art speech recognition algorithms for ... |
-| A Simple Applescript Voice Recognition Program \| mhamilt.github.io | https://mhamilt.github.io/blog/2018/08/30/a-simple-applescript-voice-recognition-program.html | Aug 30, 2018 ... When messing around creating some tools in applescript I stumbled across the Speech Recognition Server library. It is quite constrained in ... |
-| Layer-wise relevance propagation for explainable deep learning ... | https://homangab.github.io/papers/isspit.pdf | Neural Networks in conjunction with Hidden Markov Mod- els have been used for a long time in speech recognition [1]. This interest has been renewed with the ... |
-| react-speech-kit \| Demo | https://mikeyparton.github.io/react-speech-kit/ | Speech Recognition. Click 'Listen' and start speaking. SpeechRecognition will provide a transcript of what you are saying. Language. Cambodian, Deutsch, English ... |
-| Lattices and Confusion Networks for Automatic Speech Recognition ... | https://alecokas.github.io/asr/2019/09/30/lattices-for-asr.html | Sep 30, 2019 ... ... speech recognition (ASR) predictions in a number of settings. These include machine translation [1], confidence score estimation [2], and ... |
-| Noise Robust Speech Recognition for Search and Rescue Domain | https://sangeet2020.github.io/assets/pdf/MS_Thesis_Speech_Recognition_for_SAR_domain.pdf | Apr 18, 2023 ... This work extends the task of noise robustness in speech recognition to SAR missions. To address this issue, we have created and made publicly ... |
-| Language-specific Effects on Automatic Speech Recognition Errors ... | https://yjunechoe.github.io/static/papers/Choe%20et_al%202022%20COLING.pdf | Despite recent advancements in automated speech recognition (ASR) technologies, reports of unequal performance across speakers of dif- ferent demographic ... |
-| How many Mel‐frequency cepstral coefficients to be utilized in ... | https://hasan-rakibul.github.io/pdfs/hasan2022how.pdf | Aug 31, 2021 ... speech recognition? A study with the Bengali language. Md. Rakibul Hasan1,2. Md. Mahbub Hasan1. Md Zakir Hossain3,4. 1 Department of Electrical ... |
-| Testing with assistive technologies — Web Accessibility Guide — NZ ... | https://govtnz.github.io/web-a11y-guidance/ka/how-disabled-people-use-the-web/at/testing-with-at.html | Interactive controls that are keyboard accessible can be activated more easily by users of screen readers, Braille displays and speech recognition software. Of ... |
-| Publications | https://desh2608.github.io/publications/ | Joint speaker diarization and speech recognition based on region proposal networks. Zili Huang, Marc Delcroix, Leibny Paola Garcia, Shinji Watanabe, Desh Raj ... |
-| Error Correction of Speech Recognition by Custom Phonetic ... | http://kazukifujiwara.github.io/projects/PhoneticAlphabet/index.html | Automatic speech recognition (ASR) is one of the most effective ways to input text, in particular, for ultra-small devices such as smartwatches. |
-| Multilingual and Low-Resource Speech Recognition - | https://maelfabien.github.io/machinelearning/speech_reco_6/ | limited web presence, hence lack resources on text corpora and pronunciation; lack of linguistic expertise. Speech Recognition of under-resources languages. |
-| Audio Deep Learning Made Simple - Automatic Speech Recognition ... | https://ketanhdoshi.github.io/Audio-ASR/ | Audio Deep Learning Made Simple - Automatic Speech Recognition (ASR), How it Works. Ketan Doshi Mar 26, 2021 · 18 mins read. Audio Deep Learning Made Simple ... |
-| Join Our Community – CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/wiki/communicate/ | Write a message on forum · Help - Help on pocketsphinx and sphinxtrain · Sphinx4 Help - Discussions and help on sphinx4 · Speech Recognition - Generic discussions ... |
-| Deep Neural Networks for Acoustic Modeling in Speech Recognition | https://peidong-wang.github.io/files/Automatic%20Speech%20Recognition%20%28ASR%29%20and%20Robust%20ASR.pdf | Apr 4, 2016 ... speech recognition: The shared views of four research groups.” Signal. Processing Magazine, IEEE29.6 (2012): 82-97. Presented by Peidong Wang. |
-| SpecAugment; A Simple Data Augmentation Method for Automatic ... | https://seunghan96.github.io/audio/ts/cl/(audio_paper23)SpecAug/ | Oct 30, 2023 ... simple DA for speech recognition; applied directly to the feature inputs of a NN (i.e., filter bank coefficients); consists of .. warping the ... |
-| CMUDict 0.7b update – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/2014/11/cmudict-0-7b-update/ | Nov 20, 2014 ... ... speech recognition research and overall speech recognition technology: Phonemic vs phonetic. CMUDict is originally a phonetic dictionary ... |
-| THE NPU-ASLP SYSTEM FOR AUDIO-VISUAL SPEECH ... | https://mispchallenge.github.io/mispchallenge2022/papers/task2/Track2_NPU-ASLP.pdf | With the advances of deep learning, lots of progress has been achieved for automatic speech recognition (ASR) and its perfor- mance has been improved ... |
-| Modeling speech recognition and synthesis simultaneously ... | https://gbegus.github.io/assets/pdf/begusZhouInterspeech.pdf | Speech technology has traditionally been divided into auto- mated speech recognition (ASR) and speech synthesis. Hearing humans, however, perform both tasks ... |
-| RECURRENT NEURAL NETWORK LANGUAGE MODEL WITH ... | https://cloudygoose.github.io/papers/15mrnnlm_icassp15.pdf | Although the conventional back-off n-gram language model has been widely used in the automatic speech recognition (ASR) com- munity for its simplicity and ... |
-| Spoken Digit Speech Recognition - Ludwig | https://ludwig-ai.github.io/ludwig-docs/latest/examples/speech_recognition/ | This is a complete example of training an spoken digit speech recognition model on the "MNIST dataset of speech recognition". Download the free spoken digit ... |
-| Quantum Neural Networks for Speech and Natural Language ... | https://huckiyang.github.io/quantum-ml-main/ | ... speech recognition and natural language processing. All technical details will be provided with references and clear illustration and explanation. We will ... |
-| Adapting the default acoustic model – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialadapt/ | This page describes how to do some simple acoustic model adaptation to improve speech recognition in your configuration. |
-| AUTOMATIC SPEECH RECOGNATION FOR AMHARIC ... | https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_4.pdf | Automatic Speech Recognition (ASR) systems have become a very natural human-machine interaction in which it allows users to speak entries rather than. |
-| Speech Recognition (ASR) \| Open LLM Vtuber | https://open-llm-vtuber.github.io/en/docs/user-guide/backend/asr/ | Speech Recognition (ASR, Automatic Speech Recognition) converts user speech to text. This project supports multiple speech recognition model implementations. |
-| deepspeech-playbook \| A crash course for training speech ... | https://mozilla.github.io/deepspeech-playbook/SCORER.html | The default scorer used with DeepSpeech is trained on Librivox. It's a general model. But let's say that you want to train a speech recognition model for ... |
-| Mu Yang's Website | https://mu-y.github.io/ | My research interests include Speech Recognition and Speech Synthesis. ... My recent works have focused on accented (non-native) speech assessment and ... |
-| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/page2/ | Open source speech recognition toolkit. Oct 13, 2022 SphinxTrain 5.0.0 is released! There is also an updated release of SphinxTrain, and the acoustic modeling ... |
-| Versions Of Decoders – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/versions/ | Sphinx-4 is a state-of-the-art speech recognition system written entirely in the Java(tm) programming language. It's best for implementation of complex ... |
-| LP Conformer for VSR/AVSR | https://anwarvic.github.io/speech-recognition/LP_Conformer | Feb 17, 2023 ... LP Conformer stands for “Linear Projection Conformer” which is a visual speech recognition (VSR) model that is able to read lip movements and transform them ... |
-| Publications - Songjun Cao | https://songjuncao.github.io/publications/ | A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition. Yangze Li*, Xiong Wang*, Songjun Cao, Yike Zhang, Long Ma, Lei ... |
-| LIBRISPEECH: AN ASR CORPUS BASED ON PUBLIC DOMAIN ... | https://maelfabien.github.io/assets/litterature/databases/librispeech.pdf | LIBRISPEECH: AN ASR CORPUS BASED ON PUBLIC DOMAIN AUDIO BOOKS ... The corpus is freely available4 under the very permissive CC BY 4.0 li- cense [3] and there are ... |
-| Audio Deep Learning Made Simple - Automatic Speech Recognition ... | https://ketanhdoshi.github.io/Audio-ASR/ | Audio Deep Learning Made Simple - Automatic Speech Recognition (ASR), How it Works. Ketan Doshi Mar 26, 2021 · 18 mins read. Audio Deep Learning Made Simple ... |
-| meegkit.asr — MEEGkit 0.1.9 documentation | https://nbara.github.io/python-meegkit/modules/meegkit.asr.html | Artifact subspace reconstruction (ASR) is an automatic, online, component-based artifact removal method for removing transient or large-amplitude artifacts in ... |
-| Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/ | OpenAI Whisper ASR Webservice API. |
-| Introduction to Automatic Speech Recognition (ASR) - | https://maelfabien.github.io/machinelearning/speech_reco/ | What is ASR? How is speech produced? Breaking down words; Evaluation metrics. Statistical historical approach to ASR. Feature extraction (X); Acoustic model. |
-| Installation & Usage - Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/run/ | Whisper ASR Webservice now available on Docker Hub. You can find the latest version of this repository on docker hub for CPU and GPU. |
-| ASR example — MEEGkit 0.1.9 documentation | https://nbara.github.io/python-meegkit/auto_examples/example_asr.html | ASR example: Denoise data using Artifact Subspace Reconstruction. Uses meegkit.ASR(). import os import matplotlib.pyplot as plt import numpy as np |
-| c. Automated rejection - EEGLAB Wiki | https://sccn.github.io/tutorials/06_RejectArtifacts/cleanrawdata.html | It can remove both bad data channels and bad portions of data. Select menu item Tools and press sub-menu item Reject data using Clean Rawdata and ASR. Image: ... |
-| ESPnet2-ASR realtime demonstration | https://espnet.github.io/espnet/notebook/ESPnet2/Demo/ASR/asr_realtime_demo.html | In this demonstration, we will show English, Japanese, Spanish, Mandrain, Multilingual ASR model, respectively |
-| ASR pipeline with Whisper - Docling | https://docling-project.github.io/docling/examples/minimal_asr_pipeline/ | Install Docling with ASR extras and any audio dependencies (ffmpeg, etc.). Ensure your environment can download or access the configured ASR model. Some ... |
-| asr.GRASP \| GRASP-suite | http://bodenlab.github.io/GRASP-suite/project/graspcmd/ | asr.GRASP accepts an alignment (FASTA or Clustal formats) and a phylogenetic tree (Newick format) with concordant labels, to infer ancestor sequences by joint ... |
-| espnet2.asr.encoder.contextual_block_conformer_encoder ... | https://espnet.github.io/espnet/guide/espnet2/asr/ContextualBlockConformerEncoder.html | class espnet2.asr.encoder.contextual_block_conformer_encoder.ContextualBlockConformerEncoder(input_size: int, output_size: int = 256, attention_heads: int ... |
-| Seed-ASR | https://bytedancespeech.github.io/seedasr_tech_report/ | Modern automatic speech recognition (ASR) model is required to accurately transcribe diverse speech signals (from different domains, languages, accents, etc) ... |
-| Setting Up Auto Service Request | https://xy2401-local-doc-java.github.io/bigdata/bda412/BIGOG/asr.htm | Auto Service Request (ASR) is designed to automatically open service requests when specific Oracle Big Data Appliance hardware faults occur. |
-| Configuration - Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/environmental-variables/ | OpenAI Whisper ASR Webservice API. |
-| Dual-Mode ASR: Unify and Improve Streaming ASR with full-context ... | https://eloweimi.github.io/files/Tutorials/DualMode_ASR_ErfanLoweimi.pdf | Jul 20, 2021 ... ○ Dual-mode E2E ASR: Streaming & Full-context ... Full-context Conv. Page 11. This Paper … Dual-Mode ASR. ○ What: Unify streaming [RNN-T] and full ... |
-| On-device VAD + ASR (本地非流式语音识别) — sherpa 1.3 ... | https://k2-fsa.github.io/sherpa/onnx/harmony-os/vad-asr.html | On-device VAD + ASR (本地非流式语音识别) . This page describes how to build SherpaOnnxVadAsr for on-device non-streaming speech recognition that runs on ... |
-| Streaming ASR — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/python/streaming_asr/index.html | This page describes how to use sherpa for streaming ASR. The following types of transducer models are supported: ... We support standalone speech recognition as ... |
-| espnet.asr.asr_utils.torch_load | https://espnet.github.io/espnet/guide/espnet/asr/torch_load.html | path (str) – Model path or snapshot file path to be loaded. model (torch.nn.Module) – Torch model. Prev. espnet.asr ... |
-| The Challenges of using Transformers in ASR | https://desh2608.github.io/2020-01-08-transformer-asr/ | Jan 8, 2020 ... Positional encoding; Difficult to train; Large model size; Streaming ASR; Parallelization. 1. Long sequence length. Transformers were originally ... |
-| Pre-trained models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/onnx/pretrained_models/index.html | The following table lists links for all pre-trained models. Description. URL. Speech recognition (speech to text, ASR). |
-| Implementing Attack Surface Reduction Policies \| Azure with Tom | https://awt-tom.github.io/posts/Attack-surface-reduction/ | Apr 13, 2025 ... This is where Attack Surface Reduction (ASR) comes in, a set of controls in Microsoft Defender for Endpoint designed to harden endpoints and ... |
-| Streaming ASR — icefall 0.1 documentation | https://k2-fsa.github.io/icefall/recipes/Streaming-ASR/index.html | Streaming ASR ... Built with Sphinx using a theme provided by Read the Docs. |
-| Streaming ASR — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/cpp/online_asr/index.html | This page describes how to use the C++ API of sherpa for streaming/online ASR. Warning. It supports only models from https://github.com/k2-fsa/icefall/tree/ ... |
-| On Prosody Modeling for ASR+TTS based Voice Conversion | https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html | A promising approach to voice conversion (VC) is to first use an automatic speech recognition (ASR) model to transcribe the source speech into the underlying ... |
-| sherpa — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/ | sherpa · Offline CTC models · icefall · icefall-asr-gigaspeech-conformer-ctc (English) · icefall-asr-librispeech-conformer-ctc-jit-bpe-500-2021-11-09 (English) ... |
-| Pre-trained models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/cpp/pretrained_models/index.html | icefall-asr-librispeech-pruned-transducer-stateless8-2022-12-02 · icefall-asr-librispeech-pruned-transducer-stateless8-2022-11-14 · icefall-asr-librispeech ... |
-| Enriching ASR Lattices with POS Tags for Dependency Parsing | https://speechnlp.github.io/2017/papers/W17-4605.pdf | Sep 7, 2017 ... In this pa- per, we therefore explore a joint model- ing approach of automatic speech recog- nition (ASR) and POS tagging to enrich. ASR word ... |
-| Evaluation of ASR in concrete using acoustic emission and deep ... | https://liaiusc.github.io/files/Evaluation%20of%20ASR.pdf | Jun 15, 2021 ... Alkali-silica reaction (ASR) is one of main damages causes in concrete structures such as nuclear power plants which may endanger structural ... |
-| ESPnet2 real streaming Transformer demonstration | https://espnet.github.io/espnet/notebook/ESPnet2/Demo/ASR/streaming_asr_demo.html | This local notebook provides a demonstration of streaming ASR based on Transformer using ESPnet2. You can recognize a recorded audio file or a speech online. |
-| LLM Powered Autonomous Agents \| Lil'Log | https://lilianweng.github.io/posts/2023-06-23-agent/ | Jun 23, 2023 ... Building agents with LLM (large language model) as its core controller is a cool concept. Several proof-of-concepts demos, such as AutoGPT, ... |
-| LLM Fun: Building a Q&A Bot of Myself \| Bounded Rationality | https://bjlkeng.github.io/posts/building-a-qa-bot-of-me-with-openai-and-cloudflare/ | Sep 24, 2023 ... Unless you've been living under a rock, you've probably heard of large language models (LLM) such as ChatGPT or Bard. |
-| Configure LLM Provider \| goose | https://block.github.io/goose/docs/getting-started/providers/ | goose is compatible with a wide range of LLM providers, allowing you to choose and integrate your preferred model. |
-| Using an LLM in GitHub Actions | https://tonybaloney.github.io/posts/using-llm-in-github-actions.html | Using an LLM in GitHub Actions. by Anthony Shaw, August 14, 2025. LLMs are effective for generating both code and written text. They're also quite effective ... |
-| LLM - txtai | https://neuml.github.io/txtai/pipeline/text/llm/ | The LLM pipeline runs prompts through a large language model (LLM). This pipeline autodetects the LLM framework based on the model path. |
-| Welcome to TensorRT LLM's Documentation! — TensorRT LLM | https://nvidia.github.io/TensorRT-LLM/ | Launch Docker on a node with NVIDIA GPUs deployed · Deploy online serving with trtllm-serve · Run Offline inference with LLM API · Next Steps. |
-| Quick Start Guide — TensorRT LLM | https://nvidia.github.io/TensorRT-LLM/quick-start-guide.html | Specifically, this Quick Start Guide enables you to quickly get set up and send HTTP requests using TensorRT LLM. Launch Docker on a node with NVIDIA GPUs ... |
-| OnPrem.LLM – onprem | https://amaiya.github.io/onprem/ | OnPrem.LLM (or “OnPrem” for short) is a Python-based toolkit for applying large language models (LLMs) to sensitive, non-public data in offline or restricted ... |
-| LLM (ML) Job Interviews (Fall 2024) - Process • Mimansa Jaiswal | https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-fall-2024-process/ | Dec 24, 2024 ... A retelling of my experience interviewing for ML/LLM research science/engineering focused roles in Fall 2024. |
-| Guardrails and Security for LLMs: Safe, Secure, and Controllable ... | https://llm-guardrails-security.github.io/ | Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications @ ACL 2025 tutorial. |
-| Probabilistic Modeling and Statistical Inference | https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html | 1 Probabilistic Modeling. Models are approximations of the complex dynamics that drive the observable phenomena in the world around us. They provide the setting ... |
-| 8th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/tpm2025/ | This new edition of the Tractable Probabilistic Modeling workshop focuses on scaling and providing guarantees when used for probabilistic and logical reasoning, ... |
-| 7th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/ | This year's workshop on Tractable Probabilistic Modeling aims to highlight the connection between trustworthy artificial intelligence (in a broad sense) and ... |
-| Fault Localization via Efficient Probabilistic Modeling of Program ... | https://xiongyingfei.github.io/papers/ICSE22a.pdf | May 21, 2022 ... Software and its engineering → Software testing and de- bugging. KEYWORDS fault localization, semantics, probabilistic modeling. ACM Reference ... |
-| TPM 2023 | https://tractable-probabilistic-modeling.github.io/tpm2023/ | 6th Workshop on Tractable Probabilistic Modeling. Building Bridges. UAI 2023. Workshop Description. For AI and ML systems aimed to assist decision-making in ... |
-| TPM 2022 | https://tractable-probabilistic-modeling.github.io/tpm2022/ | Connections between tractable probabilistic modeling classes. Tractable probabilistic models for responsible, robust and explainable AI. Approximate inference ... |
-| probabilistic modeling \| Diana Cai | https://dicai.github.io/tags/probabilistic-modeling/ | probabilistic modeling. A Bayesian nonparametric view on count-min sketch. The count-min sketch is a time- and memory-efficient randomized data structure that ... |
-| Post-Inference Methods for Scalable Probabilistic Modeling and ... | https://willieneis.github.io/pdf/willie_thesis.pdf | Probabilistic modeling refers to a set of techniques for modeling data that allows one to specify assumptions about the processes that generate data, ... |
-| 7th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/tpm2024/papers/ | 7th Workshop on Tractable Probabilistic Modeling. Models We Trust. UAI 2024 Workshop · About · Accepted Papers · Program. Accepted Papers. See all accepted ... |
-| Probabilistic Modeling with Matrix Product States | https://jterilla.github.io/entropy-21-01236-with-cover.pdf | Dec 17, 2019 ... Probabilistic Modeling with Matrix ... probabilistic modeling, with applications from hidden Markov models to quantum machine learning. |
-| Siddhartha Srinivasa | https://siddhss5.github.io/ | I founded the Personal Robotics Lab in 2005. I am an IEEE Fellow for contributions to robotic manipulation and human-robot interaction. I AM A FULL-STACK ... |
-| Biomechatronics and Intelligent Robotics Lab | https://haosu-robotics.github.io/ | Dr. Hao Su, PhD, is an Associate Professor at the New York University, He is the Director of Center of Assistive and Personal Robotics for Independent Living ( ... |
-| One year of working as a Robotics consultant | https://msadowski.github.io/one-year-of-robotics-consulting/ | Apr 30, 2019 ... It has been one year since I decided to go solo and start working as a Robotics consultant/contractor. In this post I'll sum up my ... |
-| Trustworthy Robotics Lab @ Georgia Tech | http://trustworthyrobotics.github.io/ | The Trustworthy Robotics Lab at Georgia Tech, directed by Glen Chou, designs principled algorithms that can enable general-purpose robots and autonomous ... |
-| Stanford Robotics Seminar | https://stanfordasl.github.io/robotics_seminar/ | Stanford Robotics and Autonomous Systems Seminar series hosts both invited and internal speakers. The seminar aims to bring the campus-wide robotics ... |
-| CCNY Robotics Lab | https://ccny-ros-pkg.github.io/ | The Robotics and Intelligent Systems Lab (CCNY Robotics Lab) is a research laboratory directed by Dr. John (Jizhong) Xiao, in the Electrical Engineering ... |
-| Intelligent Robotics and Vision Lab at the University of Texas at ... | https://irvlutd.github.io/ | The Intelligent Robotics and Vision Lab (IRVL) at UT Dallas was established in 2021. We are interested in fundamental research in intelligent robotics and ... |
-| Getting Started as a Robotics Software Engineer! \| Mike Likes Robots | https://mikelikesrobots.github.io/blog/getting-started-robot-sw-eng/ | Feb 6, 2024 ... I have 11 years experience in software engineering, with 7 years of that specialising in robotics. Throughout my career, I've worked on: A robot ... |
-| Northwest Robotics Symposium 2025 | https://nwrsymposium.github.io/ | June 20, 2025 at Simon Fraser University. NWRS began in 2022 to bring together robotics labs in the Pacific Northwest, with previous editions held at the ... |
-| Aluminum Narwhals: Team 3128 | http://team3128.github.io/ | Interested in joining CCA's FRC robotics team? Visit the Members page for instructions on how to roster for the team! Robotics Summer Camp. After two years ... |
-| Learning Deep Representations of Data Distributions | https://ma-lab-berkeley.github.io/deep-representation-learning-book/ | This book is an attempt to "open the black box" and understand the mechanisms of large deep networks, through the perspective of representation learning, which ... |
-| Self-Supervised Representation Learning \| Lil'Log | https://lilianweng.github.io/posts/2019-11-10-self-supervised/ | Self-Supervised Representation Learning. Date: November 10, 2019 \| Estimated Reading Time: 38 min \| Author: Lilian Weng. Table of Contents. |
-| Table Representation Learning Workshop | https://table-representation-learning.github.io/ | We invite submissions on any of, or related to, the following topics on machine learning for tabular data: Representation Learning for (semi-)Structured Data ... |
-| 5TH MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2025-mrl.html | Multilingual representation learning methods have recently been found to be extremely efficient for transfer learning between languages, and they ... |
-| Representation Learning on Graphs and Manifolds | https://rlgm.github.io/rlgm.github.io/ | Representation Learning on Graphs and Manifolds. ICLR 2019 Workshop. Overview · Accepted Papers · Schedule · Speakers · Organizers · Program Committee. © 2019 ... |
-| metapath2vec: Scalable Representation Learning for ... | https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf | ABSTRACT. We study the problem of representation learning in heterogeneous networks. Its unique challenges come from the existence of mul-. |
-| 2ND MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2022-mrl.html | Dec 8, 2022 ... Workshop Description. Multi-lingual representation learning methods have recently been found to be extremely efficient in learning features ... |
-| ProNE: Fast and Scalable Network Representation Learning | https://ericdongyx.github.io/papers/IJCAI19-zhang-et-al-proNE-network-representation-learning.pdf | The recent emergence of network embedding is largely trig- gered by representation learning natural language process- ing [Mikolov et al., 2013b]. Its ... |
-| 4TH MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2024-mrl.html | Nov 16, 2024 ... Workshop Description. Multi-lingual representation learning methods have recently been found to be extremely efficient in learning features ... |
-| A Few Words on Representation Learning - Thalles' blog | https://sthalles.github.io/a-few-words-on-representation-learning/ | Apr 15, 2021 ... From this perspective, deep neural networks are representation learning models. At a high-level, a typical supervised neural network has two ... |
-| 2 Interpretability – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/interpretability.html | Interpretability is about mapping an abstract concept from the models into an understandable form. Explainability is a stronger term requiring interpretability ... |
-| Interpretability vs Neuroscience [rough note] -- colah's blog | https://colah.github.io/notes/interp-v-neuro/ | Mar 12, 2021 ... Interpretability vs Neuroscience. Six major advantages which make artificial neural networks much easier to study than biological ones ... |
-| Learning Interpretability Tool | https://pair-code.github.io/lit/ | The Learning Interpretability Tool (LIT) is a visual, interactive ML model-understanding tool that supports text, image, and tabular data. |
-| Understanding Data Scientists' Use of Interpretability Tools for ... | https://harmanpk.github.io/Papers/CHI2020_Interpretability.pdf | Machine Learning Research on Interpretability. Within the ML community, there has been a surge of research on interpretability techniques. These techniques ... |
-| The 2nd New England Mechanistic Interpretability (NEMI) Workshop | https://nemiconf.github.io/summer25/ | Aug 22, 2025 ... ... interpretability in machine learning systems. The workshop will serve as a forum to share recent progress, challenges, and ideas in reverse ... |
-| General Information \| Workshop on Actionable Interpretability@ICML ... | https://actionable-interpretability.github.io/ | The workshop on Actionable Interpretability@ICML2025 aims to foster discussions on leveraging interpretability insights to drive tangible advancements in AI. |
-| NEMI: New England Mechanistic Interpretability | https://nemiconf.github.io/summer24/ | Aug 19, 2024 ... NEMI is a workshop for academic and industry researchers working on mechanistic interpretability that live and work in New England. |
-| Getting Started in Mechanistic Interpretability - TransformerLens ... | https://transformerlensorg.github.io/TransformerLens/content/getting_started_mech_interp.html | Indirect Object Identification: a replication of interpretability in the wild, that covers standard techniques in mech interp such as direct logit attribution, ... |
-| Measuring Mechanistic Interpretability at Scale Without Humans | https://brendel-group.github.io/mis/ | We introduce the first scalable method to measure the per-unit interpretability in vision neural networks, demonstrate its alignment to human judgements. |
-| Interpretability for current NLP | https://nasmith.github.io/NLP-winter22/assets/slides/interpretability.pdf | “interpretability.” That's why you tend to see conference tracks on. “interpretability/explainability and analysis”. Page 48. Closing takeaways. If you're ... |
-| Multimodal Topic Modeling - BERTopic | https://maartengr.github.io/BERTopic/getting_started/multimodal/multimodal.html | Multimodal Topic Modeling. Documents or text are often accompanied by imagery or the other way around. For example, social media images with captions and ... |
-| ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning | https://knowledgemr-workshop.github.io/ | This workshop aims to advance the frontier of multimodal AI systems that can effectively reason across specialized domains requiring extensive domain knowledge. |
-| All-printed chip-less wearable neuromorphic system for multimodal ... | https://yusong17.github.io/mypaper/ys-nc.pdf | Jul 1, 2025 ... ... multimodal physicochemical biomarker data (i.e., metabolites, cardiac activities, and core body temperature). By leveraging scalable ... |
-| Multimodal Representation and Retrieval [MRR 2025] | https://mrr-workshop.github.io/ | Multimodal Representation and Retrieval Workshop at ICCV 2025. |
-| Multimodal Machine Learning | https://cmu-mmml.github.io/ | 11-777 - Multimodal Machine Learning - Carnegie Mellon University. |
-| Scalable, multimodal profiling of chromatin accessibility, gene ... | https://clareaulab.github.io/pdfs/MimitouLareauChen-NBT-2021.pdf | Jun 3, 2021 ... Scalable, multimodal profiling of chromatin accessibility, gene expression and protein levels in single cells. Eleni P. Mimitou,; Caleb ... |
-| AIpparel: A Multimodal Foundation Model for Digital Garments | https://georgenakayama.github.io/AIpparel/ | AIpparel is a multimodal foundation model for digital garments trained by fine-tuning a large multimodal model on a custom sewing pattern dataset. |
-| Multimodal Spectroscopic Dataset \| NeurIPS 2024 | https://rxn4chemistry.github.io/multimodal-spectroscopic-dataset/ | Unraveling Molecular Structure: A Multimodal Spectroscopic Dataset for Chemistry. Marvin Alberts1,2,4* ... |
-| UMD CMSC848K: Multimodal Foundation Models | https://jbhuang0604.github.io/teaching/CMSC848K/ | CMSC848K: Multimodal Foundation Models ... Students will work in a group of 2-3 students to work on projects on the topic of multimodal foundation models. |
-| PaLM-E: An Embodied Multimodal Language Model | https://palm-e.github.io/ | PaLM-E: An Embodied Multimodal Language Model. Danny Driess1,2; Fei Xia1; Mehdi S. M. Sajjadi3; Corey Lynch1; Aakanksha Chowdhery3; Brian Ichter1; Ayzaan Wahid1 ... |
+| title | link |
+|---|---|
+| Machine Learning Systems | https://harvard-edge.github.io/cs249r_book/ |
+| Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/ |
+| Machine Learning CO2 Impact Calculator | https://mlco2.github.io/impact/ |
+| scikit-learn: machine learning in Python — scikit-learn 1.7.2 ... | http://scikit-learn.github.io/stable |
+| Machine learning functions — Trino 477 Documentation | https://trinodb.github.io/docs.trino.io/current/functions/ml.html |
+| Machine learning for molecular and materials science \| Nature | https://dandavies99.github.io/files/2018_nature.pdf |
+| ML-Helio \| Machine Learning in Heliophysics | https://ml-helio.github.io/ |
+| Machine Learning at Brown University | https://stephenbach.github.io/cs142-s25-www/ |
+| TensorFlow: A System for Large-Scale Machine Learning | https://readingxtra.github.io/docs/ml-gpu/tensorflow-osdi16.pdf |
+| Machine Learning for Artists | https://ml4a.github.io/ |
+| a few useful things to Know about machine Learning | https://qiyanjun.github.io/2019f-UVA-CS6316-MachineLearning//Lectures/L20-AfewUseful.pdf |
+| Stop explaining black box machine learning models for high stakes ... | https://csethics.github.io/docs/rudin2019.pdf |
+| How I learn machine learning \| Vicki Boykis | https://veekaybee.github.io/2022/11/10/how-i-learn-machine-learning/ |
+| “Probabilistic machine learning”: a book series by Kevin Murphy ... | https://probml.github.io/pml-book/ |
+| Applied Machine Learning Using mlr3 in R | https://mlr-org.github.io/mlr3book/ |
+| Mallet: MAchine Learning for LanguagE Toolkit \| Mallet | https://mimno.github.io/Mallet/ |
+| COMS30035 - Machine Learning - Computer Science Department ... | https://uob-coms30035.github.io/ |
+| MLU-Explain | https://mlu-explain.github.io/ |
+| Machine Learning with Adversaries: Byzantine Tolerant Gradient ... | https://id2223kth.github.io/papers/2017%20-%20Machine%20Learning%20with%20Adversaries_%20Byzantine%20Tolerant%20Gradient%20Descent.pdf |
+| 6.7930/HST.956: Machine Learning for Healthcare | https://mlhcmit.github.io/ |
+| Machine Learning @ VU \| MLVU | https://mlvu.github.io/ |
+| Machine Learning for Beginners | https://microsoft.github.io/ML-For-Beginners/ |
+| 2 Interpretability – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/interpretability.html |
+| Introduction to Machine Learning with Scikit Learn | https://carpentries-incubator.github.io/machine-learning-novice-sklearn/ |
+| DS-GA 1003: Machine Learning, Spring 2022 | https://nyu-ds1003.github.io/spring2022/ |
+| Probabilistic Machine Learning: Advanced Topics | https://probml.github.io/pml-book/book2.html |
+| Stanford Machine Learning Group | https://stanfordmlgroup.github.io/ |
+| Automatic Differentiation in Machine Learning: a Survey | https://gbaydin.github.io/assets/pdf/baydin-2018-ad-machinelearning.pdf |
+| Machine Learning Lunches at Vector | https://ml-lunch-vector.github.io/ |
+| MLG Cambridge | https://cambridge-mlg.github.io/ |
+| The reproducibility crisis in Machine Learning | https://mariushobbhahn.github.io/2020-03-22-case_for_rep_ML/ |
+| Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/ |
+| Cover - Machine Learning in Production: From Models to Products | https://mlip-cmu.github.io/book/ |
+| Machine Learning and the Physical Sciences, NeurIPS 2025 | https://ml4physicalsciences.github.io/ |
+| Fast Machine Learning Lab | https://fastmachinelearning.github.io/ |
+| Oblivious Multi-Party Machine Learning on Trusted Processors | https://aasthakm.github.io/files/sec16-oblivML.pdf |
+| Getting machine learning to production \| Vicki Boykis | http://veekaybee.github.io/2020/06/09/ml-in-prod/?mkt_tok=eyJpIjoiWkdJNE5USXlaRE5qTTJJMyIsInQiOiJMWUlmY0h1WmFvZXdFdnFBY05lYUdielJsMlJub1pcL29mVkRxTjVTUUZ5OGR4S3I4SkxBSWRHd25ybmZZa0QxMFNENittTnpxdFlUNkQxdnFBUDlkazdLR1ZLeGRNalFYaVB1NURKY04xY3lNekZrdHNVUDNwZjFFbXBzOGJGcW0ifQ%3D%3D |
+| The Problem of Induction and Machine Learning \| Vaden Masrani | https://vmasrani.github.io/blog/2021/problem-of-induction/ |
+| Understanding Data Scientists' Use of Interpretability Tools for ... | https://harmanpk.github.io/Papers/CHI2020_Interpretability.pdf |
+| Penn Machine Learning Benchmarks | https://epistasislab.github.io/pmlb/ |
+| Delayed Impact of Fair Machine Learning – The Berkeley Artificial ... | https://bairblog.github.io/2018/05/17/delayed-impact/ |
+| mlip-cmu: Machine Learning in Production @ CMU | https://mlip-cmu.github.io/ |
+| Hands-On Machine Learning with R | https://bradleyboehmke.github.io/HOML/ |
+| Technology readiness levels for machine learning systems \| Nature ... | https://gbaydin.github.io/assets/pdf/lavin-2022-technology.pdf |
+| Machine Learning - Argo Workflows - The workflow engine for ... | https://argoproj.github.io/argo-workflows/use-cases/machine-learning/ |
+| Efficient and Robust Automated Machine Learning | https://aaronkl.github.io/assets/pdf/autosklearn.pdf |
+| The Discipline of Machine Learning | https://aykuterdem.github.io/classes/bbm406/readings/MachineLearning.pdf |
+| Overview – IDS705: Principles of Machine Learning | https://kylebradbury.github.io/ids705/ |
+| My Machine Learning Research Jobhunt – Generalized Error ... | https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/ |
+| MLDS Lab: Welcome | https://martinastro.github.io/ |
+| ML For Systems: Announcement | http://mlforsystems.github.io/ |
+| Machine Learning Tutorials - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html |
+| Foundations of Machine Learning - Maximilian Kasy | https://maxkasy.github.io/home/ML_Oxford_2022/ |
+| Multimodal Machine Learning | https://cmu-mmml.github.io/ |
+| DoubleML — DoubleML documentation | http://doubleml.github.io/ |
+| Machine Learning for Discrete Optimization (MS&E 236 / CS 225 ... | https://vitercik.github.io/ml4do/ |
+| 17-445 Machine Learning in Production / AI Engineering | https://mlip-cmu.github.io/s2025/ |
+| Machine Learning for Variance Reduction in Online Experiments | https://dominiccoey.github.io/assets/papers/variance_reduction.pdf |
+| Machine Learning in Heliophysics - ML-Helio | https://ml-helio.github.io/2019/index_2019.html |
+| Classes of Kernels for Machine Learning: A Statistics Perspective | https://marcgenton.github.io/2001.G.JMLR.pdf |
+| Machine Learning Team Projects: a Survival Guide – Daniele ... | https://danielegrattarola.github.io/posts/2018-03-20/ml-team-projects.html |
+| Machine learning with ROOT - ROOT | https://root-project.github.io/web/manual/tmva/ |
+| Home \| CS 189/289A | https://berkeleyml.github.io/ |
+| Machine Learning and the Physical Sciences, NeurIPS 2022 | https://ml4physicalsciences.github.io/2022/ |
+| General Insurance Machine Learning in Reserving Working Party ... | https://institute-and-faculty-of-actuaries.github.io/mlr-blog/ |
+| CMS Machine Learning Documentation | https://cms-ml.github.io/documentation/index.html |
+| Machine Learning Symposium - 2025 - BayLearn | https://baylearn-org.github.io/www/ |
+| Machine Learning Experiments | https://trekhleb.github.io/machine-learning-experiments/ |
+| Foundations of Machine Learning | https://bloomberg.github.io/foml/ |
+| Machine Learning for Health - ML4H | https://ml4health.github.io/2019/ |
+| Applied Machine Learning | https://kuleshov-group.github.io/aml-website/ |
+| Getting started - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/getting_started.html |
+| Introduction to Machine Learning (I2ML) | https://slds-lmu.github.io/i2ml/ |
+| Aalto Dictionary of Machine Learning (ADictML) \| AaltoDictionaryofML | https://aaltodictionaryofml.github.io/ |
+| Machine Learning for Algorithm Design (MS&E/CS 331) | https://vitercik.github.io/ml4algs/ |
+| Introduction to Machine Learning | https://hsf-training.github.io/hsf-training-ml-webpage/ |
+| Combining rule engines and machine learning - nlathia.github.io | https://nlathia.github.io/2020/10/ML-and-rule-engines.html |
+| Chemical reaction networks and opportunities for machine learning | https://espottesmith.github.io/files/papers/wen_chemical_reaction_2023.pdf |
+| IBM Watson Machine Learning | https://ibm.github.io/watson-machine-learning-sdk/index.html |
+| Machine Learning on GPU | https://hsf-training.github.io/hsf-training-ml-gpu-webpage/ |
+| SoK: Security and Privacy in Machine Learning | https://oaklandsok.github.io/papers/papernot2018.pdf |
+| AdvML 2024 - New Frontiers in Adversarial Machine Learning | https://advml-frontier.github.io/ |
+| Machine Learning @Sapienza \| ML-s2-2025 | https://erodola.github.io/ML-s2-2025/ |
+| Quantum Kernel Machine Learning - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/03_quantum_kernel.html |
+| ML Hardware and Systems | https://abdelfattah-class.github.io/ece5545/ |
+| Interpretable Machine Learning (IML) | https://slds-lmu.github.io/iml/ |
+| Accord.NET Machine Learning Framework | http://accord-net.github.io/ |
+| Machine learning functions — Starburst Enterprise | https://starburstdata.github.io/latest/functions/ml.html |
+| What Is Machine Learning? \| Python Data Science Handbook | https://jakevdp.github.io/PythonDataScienceHandbook/05.01-what-is-machine-learning.html |
+| AstroML: Machine Learning and Data Mining for Astronomy ... | http://astroml.github.io/ |
+| Theorem Proving and Machine Learning in the age of LLMs: SoA ... | https://europroofnet.github.io/wg5-edinburgh25/ |
+| 36 Citing this Book – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/cite.html |
+| Machine Learning for Biologists | https://carpentries-incubator.github.io/ml4bio-workshop/ |
+| Machine Learning \| Computer Science \| The University of Sheffield | https://sheffieldml.github.io/ |
+| A Survey of Machine Learning for Big Code and Naturalness ... | https://ml4code.github.io/ |
+| Human & Machine Intelligence | https://lake-lab.github.io/ |
+| Machine Learning Explanations with Topological Data Analysis | https://sauln.github.io/blog/tda_explanations.html/ |
+| Cargese2025 \| Website of the Cargese 2025 event | https://cargese2025.github.io/ |
+| Intro to AI for GLAM: Applying Machine Learning | https://carpentries-incubator.github.io/machine-learning-librarians-archivists/06-applying-machine-learning.html |
+| Machine Learning Playground | https://peterleong.github.io/ML-Playground/ |
+| Deep Learning Course | https://brown-deep-learning.github.io/dl-website-2022/ |
+| DEEP LEARNING · Deep Learning | https://atcold.github.io/NYU-DLSP21/ |
+| Understanding Deep Learning | https://udlbook.github.io/udlbook/ |
+| Introduction to deep learning: Summary and Setup | https://carpentries-incubator.github.io/deep-learning-intro/ |
+| Deep Learning Rules of Thumb - Jeff Macaluso | https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/ |
+| Recommending music on Spotify with deep learning – Sander ... | http://benanne.github.io/2014/08/05/spotify-cnns.html |
+| Uncertainty in Deep Learning | https://seunghan96.github.io/assets/pdf/BNN/paper/20.Uncertainty%20in%20Deep%20Learning%20(2016).pdf |
+| Deep Learning for Event-Driven Stock Prediction - Xiao Ding ... | https://frcchang.github.io/pub/ijcai15.xiao.pdf |
+| Deep Learning For Code | https://dl4c.github.io/ |
+| TREC 2023 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning.html |
+| Deep Learning, NLP, and Representations - colah's blog | https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/ |
+| Practical Deep Learning | https://fastai.github.io/course22-web/ |
+| Overview — deep learning for molecules & materials | https://whitead.github.io/dmol-book |
+| Analogies between Biology and Deep Learning [rough note ... | https://colah.github.io/notes/bio-analogies/ |
+| 6.S898 Deep Learning, Fall 2023 | https://phillipi.github.io/6.s898/ |
+| CS565600 Deep Learning | https://nthu-datalab.github.io/ml/ |
+| Meet “Iva”, my mini Deep Learning rig \| Chan Kha Vu | https://hav4ik.github.io/meet-iva-my-dl-rig/ |
+| Deep learning algorithm predicts diabetic retinopathy progression in ... | https://maguire-lab.github.io/health_data_science_research_2024/static_files/literature/retinopathy_progression.pdf |
+| Grokking Deep Learning - i am trask | https://iamtrask.github.io/2016/08/17/grokking-deep-learning/ |
+| Deep Learning for Economists | https://econdl.github.io/redirects/publications/econdl |
+| Optimal Auctions through Deep Learning | https://marketdesign.github.io/files/duetting19a.pdf |
+| Learning Deep Representations of Data Distributions | https://ma-lab-berkeley.github.io/deep-representation-learning-book/ |
+| Deep Learning and Scientific Computing with R torch | https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/ |
+| EconDL \| Blog | https://econdl.github.io/ |
+| An End-to-End Deep Learning Architecture for Graph Classification | https://muhanzhang.github.io/papers/AAAI_2018_DGCNN.pdf |
+| Building A Flexible Configuration System For Deep Learning Models ... | https://julienbeaulieu.github.io/2020/03/16/building-a-flexible-configuration-system-for-deep-learning-models/ |
+| Lessons from Optics, The Other Deep Learning – arg min blog | http://benjamin-recht.github.io/2018/01/25/optics/ |
+| 10417/10617 Fall 2019 : Intermediate Deep Learning | https://deeplearning-cmu-10417.github.io/ |
+| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2025 | https://erodola.github.io/DLAI-s2-2025/ |
+| UvA Deep Learning II Course | https://uvadl2c.github.io/ |
+| Building a deep learning rig \| part-1 - Samsja | https://samsja.github.io/blogs/rig/part_1/ |
+| DEEP LEARNING · Deep Learning | https://atcold.github.io/NYU-DLSP20/ |
+| Information Theory of Deep Learning – Aditya Sharma – Data ... | https://adityashrm21.github.io/Information-Theory-In-Deep-Learning/ |
+| Deep learning with COTS HPC systems | https://readingxtra.github.io/docs/ml-gpu/coates-dl-gpu-icml13.pdf |
+| What Uncertainties Do We Need in Bayesian Deep Learning for ... | https://seunghan96.github.io/assets/pdf/BNN/paper/29.What%20Uncertainties%20Do%20We%20Need%20in%20Bayesian%20Deep%20Learning(2017).pdf |
+| Dataflowr - Deep Learning DIY | https://dataflowr.github.io/website/ |
+| Deep learning benchmark — AI Power Meter documentation | https://greenai-uppa.github.io/AIPowerMeter/experiments/experiments.html |
+| Untitled | https://bana-handaga.github.io/cv/deeplearning/contents/intro.html |
+| IndabaX Nigeria - Deep Learning Indaba 2025 | https://indabaxng.github.io/ |
+| Deep Learning @ VU | https://dlvu.github.io/ |
+| 11-785 Deep Learning | https://cmu-ideel.github.io/ |
+| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2024 | https://erodola.github.io/DLAI-s2-2024/ |
+| Deep Learning Drizzle | https://deep-learning-drizzle.github.io/ |
+| Deep Learning for Entity Matching: A Design Space Exploration | https://chu-data-lab.github.io/CS8803Fall2018/CS8803-Fall2018-DML-Papers/deepmatcher-space-exploration.pdf |
+| DeepLog: Anomaly Detection and Diagnosis from System Logs ... | https://machine-learning-and-security.github.io/papers/mlsec17_paper_49.pdf |
+| 6.7960 Deep Learning, Fall 2025 | https://deeplearning6-7960.github.io/ |
+| UvA - An Introduction to Group Equivariant Deep Learning \| uvagedl | https://uvagedl.github.io/ |
+| A Deep Learning Approach to Data Compression – The Berkeley ... | https://bairblog.github.io/2019/09/19/bit-swap/ |
+| Deep Learning & Applied AI @Sapienza \| DLAI-s2-2023 | https://erodola.github.io/DLAI-s2-2023/ |
+| Deep Learning: Do-It-Yourself! 2019 version \| dataflowr | https://mlelarge.github.io/dataflowr-web/dldiy_ens.html |
+| The Limitations of Deep Learning in Adversarial Settings | https://beerkay.github.io/papers/Berkay2016DLLimitationEuroSP.pdf |
+| Spring 2021 6.874 Computational Systems Biology: Deep Learning ... | https://mit6874.github.io/ |
+| TREC 2019 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2019.html |
+| CS 2952N \| CSCI 2470 | https://brown-deep-learning.github.io/csci2470_f24/ |
+| An Introduction to Deep Learning - Melissa Dell | https://dell-research-harvard.github.io/intro/2023/01/18/lecture1.html |
+| Course Info \| INF6953PE - Deep Learning Dynamics | https://chandar-lab.github.io/INF6953PE/ |
+| Poseidon: An Efficient Communication Architecture for Distributed ... | https://readingxtra.github.io/docs/ml-gpu/atc17-zhang-dlgpu.pdf |
+| Concept-based Interpretable Deep Learning | https://conceptlearning.github.io/ |
+| Untitled | https://bana-handaga.github.io/cv/deeplearning/contents/guidelines.html |
+| CIS 522 | https://cis-522.github.io/website/ |
+| The 9 Deep Learning Papers You Need To Know About ... | https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html |
+| course-deep-learning \| Teaching materials for the deep learning ... | https://interactiveaudiolab.github.io/course-deep-learning/ |
+| Overview of Active Learning for Deep Learning | http://jacobgil.github.io/deeplearning/activelearning |
+| TREC 2021 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021.html |
+| NEW! DEEP LEARNING DO IT YOURSELF \| dataflowr | https://mlelarge.github.io/dataflowr-web/ |
+| Deep Learning based Wireless Localization for Indoor Navigation | https://dineshb-ucsd.github.io/files/papers/mobicom20-dloc.pdf |
+| TREC 2020 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2020.html |
+| An Overview of Deep Learning for Curious People \| Lil'Log | https://lilianweng.github.io/posts/2017-06-21-overview/ |
+| STOR 566: Intro to Deep Learning | https://liyao880.github.io/stor566/ |
+| LEMNA: Explaining Deep Learning based Security Applications | https://henrygwb.github.io/publications/ccs18.pdf |
+| TTIC 31230: Fundamentals of Deep Learning | https://mcallester.github.io/ttic-31230/ |
+| Approximate Inference in Bayesian Deep Learning | https://izmailovpavel.github.io/neurips_bdl_competition/ |
+| Improving Palliative Care with Deep Learning | https://stanfordmlgroup.github.io/projects/improving-palliative-care/ |
+| Deep Learning on Graphs | https://yaoma24.github.io/dlg_book/ |
+| CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays ... | https://stanfordmlgroup.github.io/projects/chexnet/ |
+| Deep learning for fast spatially-varying deconvolution | https://waller-lab.github.io/MultiWienerNet/ |
+| 3 Probability and Information Theory | https://bana-handaga.github.io/cv/deeplearning/contents/prob.html |
+| Advanced Deep Learning for Robotics | https://bbaeuml.github.io/tum-adlr/adlr/index.html |
+| CSCI 4961/6961 Deep Learning (Spring 2024) | https://yaoma24.github.io/csci4961_6961/index.html |
+| MIT 6.S090 - Deep Learning for Control | https://pulkitag.github.io/rlbootcamp-iap/ |
+| Deep Learning Streamer — Open Edge Platform Documentation | https://dlstreamer.github.io/ |
+| An Empirical Study on Program Failures of Deep Learning Jobs | https://wencongxiao.github.io/res/icse20/icse20-main-199.pdf |
+| DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for ... | https://taskflow.github.io/taskflow/lin_19_01.pdf |
+| UCSD ECE176: Introduction to Deep Learning & Applications ... | https://xiaolonw.github.io/ece176/ |
+| Wordle Solving with Deep Reinforcement Learning \| Not A Real ... | https://andrewkho.github.io/wordle-solver/ |
+| Deep Learning for Search and Matching Models | https://yangycpku.github.io/files/DeepSAM_paper.pdf |
+| CMSC 35200 - Deep Learning Systems | https://uchicago-cs.github.io/cmsc35200/index.html |
+| Automated Quantification of Photoreceptor alteration in macular ... | https://ignaciorlando.github.io/publication/2020-sr-photoreceptors/2020-sr-photoreceptors.pdf |
+| 6.7960 Deep Learning, Fall 2024 | https://phillipi.github.io/6.7960/ |
+| Follow the Moving Leader in Deep Learning | https://szhengac.github.io/papers/icml17.pdf |
+| TREC 2022 Deep Learning Track Guidelines \| msmarco | https://microsoft.github.io/msmarco/TREC-Deep-Learning-2022.html |
+| A Survey of Clustering With Deep Learning: From the Perspective of ... | https://xifengguo.github.io/papers/Access-survey.pdf |
+| 10-417/617 Fall 2020 : Intermediate Deep Learning | https://andrejristeski.github.io/10417-20/ |
+| Deep Learning with Limited Numerical Precision | https://readingxtra.github.io/docs/ml-fpga/limited-precision-gupta15.pdf |
+| Adit Deshpande – Engineering at Forward \| UCLA CS '19 | https://adeshpande3.github.io/ |
+| Deep learning for particle physicists — Introduction to deep learning ... | https://hsf-training.github.io/deep-learning-intro-for-hep/ |
+| Deep Reinforcement Learning: Pong from Pixels | http://karpathy.github.io/2016/05/31/rl/ |
+| ECBM E4040 Neural Networks and Deep Learning | https://ecbme4040.github.io/ |
+| UBC CPEN 455 (2025 Winter Term 1): Deep Learning \| UBC Course | https://lrjconan.github.io/UBC-CPEN455-DL/ |
+| NVIDIA Learning and Perception Research | https://nvlabs.github.io/lpr/ |
+| Welcome to the Deep Reinforcement Learning Course - Hugging ... | https://simoninithomas.github.io/Deep_reinforcement_learning_Course/ |
+| Deep Reinforcement Learning: Pong from Pixels | http://karpathy.github.io/2016/05/31/rl/ |
+| A (Long) Peek into Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2018-02-19-rl-overview/ |
+| Reinforcement Learning: Theory and Algorithms | https://rltheorybook.github.io/ |
+| DeepMimic: Example-Guided Deep Reinforcement Learning of ... | https://xbpeng.github.io/projects/DeepMimic/index.html |
+| Wordle Solving with Deep Reinforcement Learning \| Not A Real ... | https://andrewkho.github.io/wordle-solver/ |
+| Program Synthesis using Deduction-Guided Reinforcement Learning? | https://fredfeng.github.io/papers/cav20.pdf |
+| Reinforcement Learning (Spring 2024) | https://bahh723.github.io/rl2024sp/ |
+| Going Deeper Into Reinforcement Learning: Understanding Q ... | https://danieltakeshi.github.io/2016/10/31/going-deeper-into-reinforcement-learning-understanding-q-learning-and-linear-function-approximation/ |
+| Learning to Play Settlers of Catan with Deep Reinforcement Learning | https://settlers-rl.github.io/ |
+| Course Info \| INF8953DE - Reinforcement Learning | https://chandar-lab.github.io/INF8953DE/ |
+| Reinforcement learning is supervised learning on optimized data ... | https://bairblog.github.io/2020/10/13/supervised-rl/ |
+| Going Deeper Into Reinforcement Learning: Fundamentals of Policy ... | https://danieltakeshi.github.io/2017/03/28/going-deeper-into-reinforcement-learning-fundamentals-of-policy-gradients/ |
+| RaMP: Self-Supervised Reinforcement Learning that Transfers ... | https://buoyancy99.github.io/ramp-rl/ |
+| SERL: A Software Suite for Sample-Efficient Robotic Reinforcement ... | https://serl-robot.github.io/ |
+| Exploration Strategies in Deep Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2020-06-07-exploration-drl/ |
+| Introduction to Reinforcement Learning \| A course on reinforcement ... | https://amfarahmand.github.io/IntroRL/ |
+| QwQ-32B: Embracing the Power of Reinforcement Learning \| Qwen | https://qwenlm.github.io/blog/qwq-32b/ |
+| Solving the Traveling Salesman Problem with Reinforcement Learning | https://ekimetrics.github.io/blog/2021/11/03/tsp/ |
+| Visual Reinforcement Learning with Imagined Goals – The Berkeley ... | https://bairblog.github.io/2018/09/06/rig/ |
+| Selecting CPU and GPU for a Reinforcement Learning Workstation ... | https://deeepwin.github.io/experience/hardware/2021/05/11/selecting-cpu-and-gpu.html |
+| AI Ethics: Inverse Reinforcement Learning to the Rescue? - Daniel ... | https://dkasenberg.github.io/inverse-reinforcement-learning-rescue/ |
+| Risk-Constrained Reinforcement Learning with Percentile Risk Criteria | https://stanfordasl.github.io/wp-content/papercite-data/pdf/Chow.Ghavamzadeh.Janson.Pavone.JMLR18.pdf |
+| Reinforcement Learning | https://mlu-explain.github.io/reinforcement-learning/ |
+| Reinforcement Learning — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/index.html |
+| Model-Based Reinforcement Learning:Theory and Practice – The ... | https://bairblog.github.io/2019/12/12/mbpo/ |
+| Data-Driven Deep Reinforcement Learning – The Berkeley Artificial ... | https://bairblog.github.io/2019/12/05/bear/ |
+| Meta Reinforcement Learning \| Lil'Log | https://lilianweng.github.io/posts/2019-06-23-meta-rl/ |
+| Contents — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/index.html |
+| HIL-SERL: Precise and Dexterous Robotic Manipulation via Human ... | https://hil-serl.github.io/ |
+| Reinforcement-Learning \| Lil'Log | https://lilianweng.github.io/tags/reinforcement-learning/ |
+| UTK ECE 414/517: Reinforcement Learning (Fall 2024) | https://lnnx2006.github.io/teaching/ece517_fall24/index.html |
+| Visual Model-Based Reinforcement Learning as a Path towards ... | https://bairblog.github.io/2018/11/30/visual-rl/ |
+| ARLET | https://arlet-workshop.github.io/ |
+| Theoretical Foundations of Reinforcement Learning Workshop | https://wensun.github.io/rl_theory_workshop_2020_ICML.github.io/ |
+| Reinforcement Learning Scripts — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_existing_scripts.html |
+| Decentralized Reinforcement Learning:Global Decision-Making ... | https://bairblog.github.io/2020/07/11/auction/ |
+| Learning to Optimize with Reinforcement Learning – The Berkeley ... | https://bairblog.github.io/2017/09/12/learning-to-optimize-with-rl/ |
+| Reinforcement Learning: Theory and Algorithms | https://rltheorybook.github.io/rltheorybook_AJKS.pdf |
+| RL4AA Collaboration \| Homepage | https://rl4aa.github.io/ |
+| Steering Your Diffusion Policy with Latent Space Reinforcement ... | https://diffusion-steering.github.io/ |
+| Sutton and Barto's Reinforcement Learning Textbook | https://danieltakeshi.github.io/2019/08/18/rl-00/ |
+| Beyond Tabula Rasa: Reincarnating Reinforcement Learning | https://agarwl.github.io/reincarnating_rl/ |
+| Review of Deep Reinforcement Learning (CS 294-112) at Berkeley | https://danieltakeshi.github.io/2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/ |
+| Reward shaping — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/single-agent/reward-shaping.html |
+| DeepLoco: Dynamic Locomotion Skills Using Hierarchical Deep ... | https://xbpeng.github.io/projects/DeepLoco/index.html |
+| MAPLE: Augmenting Reinforcement Learning with Behavior ... | https://ut-austin-rpl.github.io/maple/ |
+| Combining Imitation Learning and Reinforcement Learning Using ... | https://danieltakeshi.github.io/2019/04/30/il-and-rl/ |
+| I trained an A.I. to beat Minesweeper.. without teaching it any rules ... | https://sdlee94.github.io/Minesweeper-AI-Reinforcement-Learning/ |
+| Learning Diverse Skills via Maximum Entropy Deep Reinforcement ... | https://bairblog.github.io/2017/10/06/soft-q-learning/ |
+| Preserving and Combining Knowledge in Robotic Lifelong ... | https://ghiara.github.io/LEGION/ |
+| NeurIPS 2019 Optimization Foundations of Reinforcement Learning ... | https://optrl2019.github.io/ |
+| SFV: Reinforcement Learning of Physical Skills from Videos | https://xbpeng.github.io/projects/SFV/index.html |
+| Pablo Samuel Castro | https://psc-g.github.io/ |
+| Contrastive Learning As a Reinforcement Learning Algorithm ... | https://ben-eysenbach.github.io/contrastive_rl/ |
+| Information Theoretic MPC for Model-Based Reinforcement Learning | https://nolanwagener.github.io/media/mppi/paper.pdf |
+| An Object-Oriented Representation for Efficient Reinforcement ... | https://carlosdiuk.github.io/papers/OORL.pdf |
+| Reinforcement Learning Coach | https://intellabs.github.io/coach/ |
+| A Brief Introduction to Reinforcement Learning – Emma Benjaminson | https://sassafras13.github.io/RL/ |
+| Deep Decision Making and Reinforcement Learning | https://nyu-robot-learning.github.io/deep-decision-making-2024/ |
+| Deep Reinforcement Learning & Control | https://cmudeeprl.github.io/403website_s22/ |
+| d1: Scaling Reasoning in Diffusion Large Language Models via ... | https://dllm-reasoning.github.io/ |
+| n-step reinforcement learning — Mastering Reinforcement Learning | https://gibberblot.github.io/rl-notes/single-agent/n-step.html |
+| REINFORCEMENT LEARNING WITH UNKNOWN REWARD ... | https://tarl2019.github.io/assets/papers/eysenbach2019reinforcement.pdf |
+| Rliable: Better Evaluation for Reinforcement Learning - A Visual ... | https://araffin.github.io/post/rliable/ |
+| Policy and Value Transfer in Lifelong Reinforcement Learning | https://jinnaiyuu.github.io/pdf/papers/ICML-18.pdf |
+| CS 224R Deep Reinforcement Learning | http://cs224r.github.io/ |
+| PRL Workshop Series \| Bridging the Gap Between AI Planning and ... | https://prl-theworkshop.github.io/ |
+| DPOK: Reinforcement Learning for Fine-tuning Text-to-Image ... | https://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf |
+| Training Diffusion Models with Reinforcement Learning | https://rl-diffusion.github.io/ |
+| PYSE: Automatic Worst-Case Test Generation by Reinforcement ... | https://helix979.github.io/jkoo/pdf/[ICST19]%20PYSE%20Automatic%20Worst-Case%20Test%20Generation%20by%20Reinforcement%20Learning.pdf |
+| NeurIPS 2019 Deep Reinforcement Learning Workshop | https://mishalaskin.github.io/research/2019/11/06/blac.html |
+| Shared Autonomy via Deep Reinforcement Learning – The Berkeley ... | https://bairblog.github.io/2018/04/18/shared-autonomy/ |
+| RLDG: Robotic Generalist Policy Distillation via Reinforcement ... | https://generalist-distillation.github.io/ |
+| Dissecting Reinforcement Learning-Part.1 | https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html |
+| Learning to play Yahtzee with Advantage Actor-Critic (A2C ... | https://dionhaefner.github.io/2021/04/yahtzotron-learning-to-play-yahtzee-with-advantage-actor-critic/ |
+| Asynchronous Methods for Deep Reinforcement Learning | https://readingxtra.github.io/docs/ml-gpu/mniha-drl-icml16.pdf |
+| Grounded Reinforcement Learning for Visual Reasoning | https://visually-grounded-rl.github.io/ |
+| CS 6789 Foundations of RL | https://wensun.github.io/CS6789.html |
+| Reinforcement Learning - Sutton (Book Notes) | https://strikingloo.github.io/wiki/reinforcement-learning-sutton |
+| A Bag of Tricks for Deep Reinforcement Learning \| Jeremiah Coholich | https://jmcoholich.github.io/post/rl_bag_of_tricks/ |
+| Reinforcement Learning as One Big Sequence Modeling Problem | https://trajectory-transformer.github.io/ |
+| Reinforcement Learning - AirSim | https://microsoft.github.io/AirSim/reinforcement_learning/ |
+| Accelerating Reinforcement Learning with Learned Skill Priors | https://clvrai.github.io/spirl/ |
+| SFP: State-free Priors for Exploration in Off-Policy Reinforcement ... | https://eth-ait.github.io/sfp/ |
+| Teaching AI Agents Ethical Values Using Reinforcement Learning ... | https://krvarshney.github.io/pubs/NoothigattuBMCMVCSR_ijcai2019.pdf |
+| Sequence Modeling Solutions for Reinforcement Learning Problems ... | https://bairblog.github.io/2021/11/19/trajectory-transformer/ |
+| Diversity-Driven Exploration Strategy for Deep Reinforcement ... | https://williamd4112.github.io/pubs/nips2018_div.pdf |
+| Workshop on Programmatic Reinforcement Learning at RLC 2025 | https://prl-workshop.github.io/ |
+| Reinforcement Learning for Ising Model | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_248.pdf |
+| Regularization in Reinforcement Learning | https://rl-vs.github.io/rlvs2021/class-material/regularized_mdp/Regularization_RL_RLVS.pdf |
+| CS 4789/5789 Intro to RL | https://wensun.github.io/CS4789.html |
+| Reverse Curriculum Generation for Reinforcement Learning Agents ... | https://bairblog.github.io/2017/12/20/reverse-curriculum/ |
+| Review of "Entity Abstraction in Visual Model-Based Reinforcement ... | https://sassafras13.github.io/EntAbs1/ |
+| Learning to Land on Mars with Reinforcement Learning | https://antoinebrl.github.io/blog/rl-mars-lander/ |
+| Random Latent Exploration for Deep Reinforcement Learning | https://srinathm1359.github.io/random-latent-exploration/ |
+| Three Dogmas of Reinforcement Learning | https://david-abel.github.io/tdorl.pdf |
+| TDM: From Model-Free to Model-Based Deep Reinforcement Learning | https://bairblog.github.io/2018/04/26/tdm/ |
+| RUDDER - Reinforcement Learning with Delayed Rewards \| rudder | https://ml-jku.github.io/rudder/ |
+| Reinforcement Learning Library Comparison — Isaac Lab ... | https://isaac-sim.github.io/IsaacLab/main/source/overview/reinforcement-learning/rl_frameworks.html |
+| Alibaba HPN: A Data Center Network for Large Language Model ... | https://ennanzhai.github.io/pub/sigcomm24-hpn.pdf |
+| Large Language Model tools for R | https://luisdva.github.io/llmsr-book/ |
+| VideoAgent: Long-form Video Understanding with Large Language ... | https://wxh1996.github.io/VideoAgent-Website/ |
+| Language Models are Unsupervised Multitask Learners \| OpenAI | https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf |
+| LLM Systems \| Large Language Model Systems | https://llmsystem.github.io/llmsystem2025spring/ |
+| Gorilla | https://shishirpatil.github.io/gorilla/ |
+| LLaVA | https://llava-vl.github.io/ |
+| CMU Large Language Model System Course \| llmsystem | https://llmsystem.github.io/ |
+| Robots That Ask For Help: Uncertainty Alignment for Large ... | https://robot-help.github.io/ |
+| A Large Language Model Walks Into an Archive... \| Cameron Blevins | https://cblevins.github.io/posts/llm-primary-sources/ |
+| CoLLM: A Large Language Model for Composed Image Retrieval | https://collm-cvpr25.github.io/ |
+| TypeFly: Flying Drones with Large Language Model | https://typefly.github.io/ |
+| Watermarking for Large Language Model | https://leililab.github.io/llm_watermark_tutorial/ |
+| Controlling Robots using a Large Language Model \| Mike Likes ... | https://mikelikesrobots.github.io/blog/llm-robot-control/ |
+| Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi ... | https://synbol.github.io/Lumina-DiMOO/ |
+| Learning to Select In-Context Demonstration Preferred by Large ... | https://foundation-model-research.github.io/GenICL/ |
+| Large Language Model for E-Commerce Workshop - Large ... | https://llm4ecommerce.github.io/ |
+| MOSS: An Open Conversational Large Language Model | https://xpqiu.github.io/pdf/MOSS.pdf |
+| PaLM-E: An Embodied Multimodal Language Model | https://palm-e.github.io/ |
+| CSE 5610: Large Language Models (2025 Fall) - Jiaxin Huang | https://teapot123.github.io/CSE561A_2025fl/ |
+| LLMR: Real-time Prompting of Interactive Worlds using Large ... | https://llm4mr.github.io/ |
+| Planting a SEED of Vision in Large Language Model | https://ailab-cvc.github.io/seed/seed.html |
+| Arcana: Improving Multi-modal Large Language Model through ... | https://arcana-project-page.github.io/ |
+| The Mutators Reloaded: Fuzzing Compilers with Large Language ... | https://connglli.github.io/pdfs/metamut_asplos24.pdf |
+| LLMSC: Home | https://llmsc.github.io/ |
+| NeurIPS Large Language Model Efficiency Challenge:1 LLM + ... | https://llm-efficiency-challenge.github.io/ |
+| Report on the 1st Workshop on Large Language Model for ... | https://bhaskar-mitra.github.io/files/p12.pdf |
+| Large Language Model (LLM) \| Learn how to interact with OpenAI ... | https://microsoft.github.io/Workshop-Interact-with-OpenAI-models/llms/ |
+| LLM-Reasoning-Stanford-CS-25.pdf | https://dennyzhou.github.io/LLM-Reasoning-Stanford-CS-25.pdf |
+| Language-Model \| Lil'Log | https://lilianweng.github.io/tags/language-model/ |
+| Flextron: Many-in-One Flexible Large Language Model | https://cairuisi.github.io/Flextron/ |
+| Large Language Model Guided Deep Reinforcement Learning for ... | https://bitmobility.github.io/LGDRL/ |
+| MASTERKEY: Automated Jailbreaking of Large Language Model ... | https://neuzhangy.github.io/assets/2024-188-paper_masterkey--R0vpGNJ.pdf |
+| Large Language Model Conversations \| Thomas Finley | https://tomfinley.github.io/llm/ |
+| LLM-UM: The 1 st Workshop on Large Language Model Using Multi ... | https://zhicheng-lu.github.io/LLM-UM/ |
+| SegPoint: Segment Any Point Cloud via Large Language Model | https://heshuting555.github.io/SegPoint/ |
+| LLM-A*: Large Language Model Enhanced Incremental Heuristic ... | https://silinmeng0510.github.io/llm-astar/ |
+| Vaccine: Perturbation-aware Alignment for Large Language Model | https://huangtiansheng.github.io/Vaccine_gh_page/ |
+| Inspect | https://ukgovernmentbeis.github.io/inspect_ai/ |
+| Reasoning Grasping via Multimodal Large Language Model | https://reasoning-grasping.github.io/ |
+| VisionLLM v2: An End-to-End Generalist Multimodal Large ... | https://wjn922.github.io/visionllmv2.github.io/ |
+| CAM: A Large Language Model-based Creative Analogy Mining ... | https://bhaavya.github.io/files/www23.pdf |
+| EgoPlan-Bench2: A Benchmark for Multimodal Large Language ... | https://qiulu66.github.io/egoplanbench2/ |
+| Generative AI with LLMs Week 1 quiz · Clare S. Y. Huang | https://csyhuang.github.io/coursenotes/2023-06-29-coursera-generative-ai-llms-quiz-1.html |
+| 3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied ... | https://3dllm-mem.github.io/ |
+| Bootstrap Your Own Skills: Learning to Solve New Tasks with LLM ... | https://clvrai.github.io/boss/ |
+| Tools for Large Language Model Agents | https://leehanchung.github.io/blogs/2024/05/09/tools-for-llms/ |
+| VideoLLM-online: Online Large Language Model for Streaming Video | https://showlab.github.io/videollm-online/ |
+| Efficient Memory Management for Large Language Model Serving ... | https://minjiazhang.github.io/courses/sp24-resource/vLLM-pre.pdf |
+| RaDialog: A Large Vision-Language Model for Radiology Report ... | https://chantalmp.github.io/RaDialog/ |
+| Gorilla: Large Language Model Connected with Massive APIs | https://shishirpatil.github.io/publications/gorilla-2023.pdf |
+| Intent-Driven Mobile GUI Testing with Autonomous Large Language ... | https://coinse.github.io/publications/pdfs/Yoon2024aa.pdf |
+| SpatialLM | https://manycore-research.github.io/SpatialLM/ |
+| Toward Efficient Exploration by Large Language Model Agents | https://dilipa.github.io/papers/psrl_llms.pdf |
+| Chat with NeRF | https://chat-with-nerf.github.io/ |
+| Introduction - The Large Language Model Playbook | https://cyrilzakka.github.io/llm-playbook/ |
+| L2MAC: Large Language Model Automatic Computer for Extensive ... | https://samholt.github.io/publication/large_language_model_automatic_computer/ |
+| Can Large Language Models Design CSS? - Experiments with Claude | https://strikingloo.github.io/llm-css-design |
+| Characterization of Large Language Model Development in the ... | https://tianweiz07.github.io/Papers/24-nsdi.pdf |
+| Dream 7B \| HKU NLP Group | https://hkunlp.github.io/blog/2025/dream/ |
+| A Reward Analysis of Reinforcement Learning from Large ... | https://rlbrew-workshop.github.io/papers/39_a_reward_analysis_of_reinforce.pdf |
+| ALISA: Accelerating Large Language Model Inference via Sparsity ... | https://kennethzhao24.github.io/images/isca_presentation_final.pdf |
+| Zhenhua Xu | https://tonyxuqaq.github.io/ |
+| Pimba: A Processing-in-Memory Acceleration for Post-Transformer ... | https://jinuhwang.github.io/papers/2025-micro-pimba.pdf |
+| PowerInfer: Fast Large Language Model Serving with a Consumer ... | https://adsl-rg.github.io/slides/241210-PowerInfer.pdf |
+| LLM-GEm: Large Language Model-Guided Prediction of People's ... | https://hasan-rakibul.github.io/pdfs/hasan2024LLM-GEm.pdf |
+| ChatBridge: Bridging Modalities with Large Language Model as a ... | https://iva-chatbridge.github.io/ |
+| Chapter 17 Large Language Model APIs \| APIs for social scientists ... | https://paulcbauer.github.io/apis_for_social_scientists_a_review/large-language-model-apis.html |
+| Large Language Model Powered Agents for Information Retrieval | https://llmagenttutorial.github.io/sigir2024 |
+| RAG-Driver: Generalisable Driving Explanations with Retrieval ... | https://yuanjianhao508.github.io/RAG-Driver/ |
+| Edge-Device Large Language Model Competition | https://edge-llms-challenge.github.io/edge-llm-challenge.github.io/ |
+| Schedule \| NeurIPS Large Language Model Efficiency Challenge:1 ... | https://llm-efficiency-challenge.github.io/schedule.html |
+| The Rise and Potential of Large Language Model Based Agents: A ... | https://xuanjing-huang.github.io/files/agent.pdf |
+| AgentGen: Enhancing Planning Abilities for Large Language Model ... | https://agent-gen.github.io/ |
+| Visualising large language model ... - Augustas Macijauskas | https://augustasmacijauskas.github.io/personal-website/posts/embedding-visualisation/embedding-visualisation.html |
+| Publications using Large Language Models (LLM) | https://chunyang-chen.github.io/LLMpublications.html |
+| TwIPS: A Large Language Model Powered Texting Application to ... | https://rukhshan23.github.io/twips.pdf |
+| DeLLMa: Decision Making Under Uncertainty with Large Language ... | https://dellma.github.io/ |
+| Large Language Model guided Protocol Fuzzing | https://mpi-softsec.github.io/papers/NDSS24-chatafl.pdf |
+| Sheared LLaMA: Accelerating Language Model Pre-training via ... | https://xiamengzhou.github.io/sheared-llama/ |
+| Large Language Models as Generalizable Policies for Embodied ... | https://llm-rl.github.io/ |
+| LLM Powered Autonomous Agents \| Lil'Log | https://lilianweng.github.io/posts/2023-06-23-agent/ |
+| Large Language Model Powered Symbolic Execution | https://mengrj.github.io/pdfs/autobug-oopsla25.pdf |
+| Enhancing Multimodal-Input Object Goal Navigation by Leveraging ... | https://sunleyuan.github.io/ObjectNav/ |
+| Large Language Model Powered Agents for Information Retrieval | https://llmagenttutorial.github.io/files/recagent_slides-sigir.pdf |
+| SignLLM: Sign Languages Production Large Language Models | https://signllm.github.io/ |
+| News | https://aml-cityu.github.io/allnews.html |
+| LMCanvas: Object-Oriented Interaction to Personalize Large ... | https://kixlab.github.io/website-files/2023/chi2023-workshop-lmcanvas-paper.pdf |
+| Towards Effective and Efficient Evaluation of Large Language ... | https://godxuxilie.github.io/file/talk/ncript_technical_workshop_19_Apr_PromptAttack.pdf |
+| GoLLIE \| Guideline following Large Language Model for Information ... | https://hitz-zentroa.github.io/GoLLIE/ |
+| DiLu: A Knowledge-Driven Approach to Autonomous Driving with ... | https://pjlab-adg.github.io/DiLu/ |
+| Concept Bottleneck Large Language Models | https://lilywenglab.github.io/CB-LLMs/ |
+| MLLM Tutorial | https://mllm2024.github.io/CVPR2024/ |
+| The 2nd Workshop on Large Language Models for E-Commerce ... | https://kdd2025llm4ecommerce.github.io/ |
+| A Survey of Large Language Models for Graphs | https://llm4graph-tutorial.github.io/ |
+| \| Kun Yuan | https://kunyuan827.github.io/llm2024/ |
+| Introduction \| CS324 | https://stanford-cs324.github.io/winter2022/lectures/introduction/ |
+| LLMGA: Multimodal Large Language Model based Generation ... | https://llmga.github.io/ |
+| WALL-E: Embodied Robotic WAiter Load Lifting with Large ... | https://star-uu-wang.github.io/WALL-E/ |
+| Textractor for Large Language Models (LLM) — amazon-textract ... | https://aws-samples.github.io/amazon-textract-textractor/notebooks/textractor_for_large_language_models.html |
+| The Art of Transformer Programming · Yaniv Leviathan | https://yanivle.github.io/ai/2023/08/04/taotp.html |
+| Transformer - pyproj 3.7.2 documentation | https://pyproj4.github.io/pyproj/stable/api/transformer.html |
+| Transformer Explainer: LLM Transformer Model Visually Explained | https://poloclub.github.io/transformer-explainer/ |
+| Transformer :: Apache Camel | https://jcug-oss.github.io/camel-ja/manual/latest/transformer.html |
+| Konva.Transformer \| Konva - JavaScript Canvas 2d Library | https://konvajs.github.io/api/Konva.Transformer.html |
+| The Illustrated Transformer – Jay Alammar – Visualizing machine ... | https://jalammar.github.io/illustrated-transformer/ |
+| PDE-Transformer: Efficient and Flexible Network Architecture for ... | https://tum-pbs.github.io/pde-transformer/landing.html |
+| Galerkin Transformer: A One-Shot Experiment at NeurIPS 2021 - An ... | https://scaomath.github.io/blog/galerkin-transformer/ |
+| The Transformer Family \| Lil'Log | https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/ |
+| Thinking like Transformer | https://srush.github.io/raspy/ |
+| The Transformer Family Version 2.0 \| Lil'Log | https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/ |
+| ts-transformer \| Format.JS | https://formatjs.github.io/docs/tooling/ts-transformer/ |
+| RVT: Robotic View Transformer for 3D Object Manipulation | https://robotic-view-transformer.github.io/ |
+| Surgical Robot Transformer | https://surgical-robot-transformer.github.io/ |
+| VGGT: Visual Geometry Grounded Transformer | https://vgg-t.github.io/ |
+| T4V @ CVPR 2022 - Transformers for Vision | https://transformers4vision.github.io/cvpr22/ |
+| Static Covariates Transformer — darts documentation | https://unit8co.github.io/darts/generated_api/darts.dataprocessing.transformers.static_covariates_transformer.html |
+| PerAct | https://peract.github.io/ |
+| Transformer — pyproj 2.2.0 documentation | https://pyproj4.github.io/pyproj/v2.2.0rel/api/transformer.html |
+| Transformer Lens Main Demo Notebook - TransformerLens ... | https://transformerlensorg.github.io/TransformerLens/generated/demos/Main_Demo.html |
+| Multimodal Diffusion Transformer: Learning Versatile Behavior from ... | https://intuitive-robots.github.io/mdt_policy/ |
+| Transformer \| Lil'Log | https://lilianweng.github.io/tags/transformer/ |
+| Evolution of Representations in the Transformer | http://lena-voita.github.io/posts/emnlp19_evolution.html |
+| How to resize and rotate canvas shapes with React and Konva ... | https://konvajs.github.io/docs/react/Transformer.html |
+| Shared functional specialization in transformer-based language ... | https://snastase.github.io/files/Kumar_NatCommun_2024.pdf |
+| Transformer Model — darts documentation | https://unit8co.github.io/darts/generated_api/darts.models.forecasting.transformer_model.html |
+| Scene Representation Transformer | https://srt-paper.github.io/ |
+| The Annotated Transformer | https://princeton-nlp.github.io/cos484/readings/the-annotated-transformer.pdf |
+| LinkTransformer: A Unified Package for Record Linkage with ... | https://econdl.github.io/redirects/publications/linktransformer |
+| RenderFormer: Transformer-based Neural Rendering of Triangle ... | https://microsoft.github.io/renderformer/ |
+| Swin Transformer | https://amaarora.github.io/posts/2022-07-04-swintransformerv1.html |
+| Large Transformer Model Inference Optimization \| Lil'Log | https://lilianweng.github.io/posts/2023-01-10-inference-optimization/ |
+| All the Transformer Math You Need to Know \| How To Scale Your ... | https://jax-ml.github.io/scaling-book/transformers/ |
+| TransformerLens Documentation | https://transformerlensorg.github.io/TransformerLens/ |
+| Trajectory Transformer | https://trajectory-transformer.github.io/ |
+| HiVT: Hierarchical Vector Transformer for Multi-Agent Motion ... | https://zikangzhou.github.io/files/hivt.pdf |
+| Robotics Transformer: RT-1 | https://robotics-transformer1.github.io/ |
+| Listen To Transformer | https://magenta.github.io/listen-to-transformer/ |
+| Vision Transformer | https://amaarora.github.io/posts/2021-01-18-ViT.html |
+| Scaling Proprioceptive-Visual Learning with Heterogeneous Pre ... | https://liruiw.github.io/hpt/ |
+| Transformer-based Model Predictive Control: Trajectory ... | https://stanfordasl.github.io/wp-content/papercite-data/pdf/Celestini.Gammelli.ea.RAL24.pdf |
+| An even more annotated Transformer :: pi-tau | https://pi-tau.github.io/posts/transformer/ |
+| The Random Transformer – hackerllama | https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/ |
+| Speeding Up Transformer Training and Inference By Increasing ... | https://bairblog.github.io/2020/03/05/compress/ |
+| Analysis of Transformer Model · Better Tomorrow with Computer ... | https://insujang.github.io/2022-07-30/analysis-of-transformer-model/ |
+| An Intuitive Introduction to the Vision Transformer - Thalles' blog | https://sthalles.github.io/an-intuitive-introduction-to-the-vision-transformer/ |
+| 4D Gaussian Transformer | https://4dgt.github.io/ |
+| How to Parallelize a Transformer for Training \| How To Scale Your ... | https://jax-ml.github.io/scaling-book/training/ |
+| Frame Transformer — Isaac Lab Documentation | https://isaac-sim.github.io/IsaacLab/main/source/overview/core-concepts/sensors/frame_transformer.html |
+| LineVul: A Transformer-based Line-Level Vulnerability Prediction | https://michaelfu1998-create.github.io/papers/linevul.pdf |
+| SplatFormer: Point Transformer for Robust 3D Gaussian Splatting | https://sergeyprokudin.github.io/splatformer/ |
+| Vision Transformer in pure JAX. - Alessio Devoto | https://alessiodevoto.github.io/ViT-in-pure-JAX/ |
+| Q-Transformer | https://qtransformer.github.io/ |
+| Turbulence Mitigation Transformer | https://xg416.github.io/TMT/ |
+| Transformer Model — darts documentation | https://unit8co.github.io/darts/examples/06-Transformer-examples.html |
+| Learning to generate human-like sketches with a (decoder-only ... | https://mayalene.github.io/sketch-transformer/ |
+| Meta-Transformer: A Unified Framework for Multimodal Learning | https://kxgong.github.io/meta_transformer/ |
+| The Sensory Neuron as a Transformer: Permutation-Invariant Neural ... | https://attentionneuron.github.io/ |
+| Advanced Examples - pyproj 3.7.2 documentation | https://pyproj4.github.io/pyproj/stable/advanced_examples.html |
+| ContiFormer: Continuous-Time Transformer for Irregular Time Series ... | https://seqml.github.io/contiformer/ |
+| Vanilla Transformer - Nixtla | https://nixtla.github.io/neuralforecast/models.vanillatransformer.html |
+| Gauge Equivariant Transformer | https://zhouchenlin.github.io/Publications/2021-NIPS-GET.pdf |
+| FlowFormer: A Transformer Architecture for Optical Flow | https://drinkingcoder.github.io/publication/flowformer/ |
+| SkateFormer: Skeletal-Temporal Transformer for Human Action ... | https://kaist-viclab.github.io/SkateFormer_site/ |
+| Open X-Embodiment: Robotic Learning Datasets and RT-X Models | https://robotics-transformer-x.github.io/ |
+| Transformer Design Guide (Part 2: Modern Architecture) \| Rohit ... | https://rohitbandaru.github.io/blog/Transformer-Design-Guide-Pt2/ |
+| Art of Transformer Programming | https://yanivle.github.io/taotp.pdf |
+| The Transformer Blueprint: A Holistic Guide to ... - AI Research Blog | https://deeprevision.github.io/posts/001-transformer/ |
+| Lazy Diffusion Transformer for Interactive Image Editing | https://lazydiffusion.github.io/ |
+| Token Statistics Transformer: Linear-Time Attention via Variational ... | https://robinwu218.github.io/ToST/ |
+| SE(3)-Transformer | https://fabianfuchsml.github.io/se3transformer/ |
+| Erwin Transformer \| Maksim Zhdanov | https://maxxxzdn.github.io/blog/erwin/ |
+| Converting TensorFlow 2 BERT Transformer Models — Guide to ... | https://apple.github.io/coremltools/docs-guides/source/convert-tensorflow-2-bert-transformer-models.html |
+| Graph-Transformer-based Surrogate Model for Accelerated ... | https://shunzh.github.io/pdfs/fan-dac-2024.pdf |
+| Set Transformer: A Framework for Attention-based Permutation ... | https://jungtaek.github.io/papers/icml_2019.pdf |
+| RT-1: Robotics Transformer for Real-World Control at Scale ... | https://rss2023.github.io/rss2023-website/program/papers/025/ |
+| The Animated Transformer | https://prvnsmpth.github.io/animated-transformer/ |
+| Anticipative Video Transformer | https://facebookresearch.github.io/AVT/ |
+| Understanding Music Transformer - gudgud96's Blog | https://gudgud96.github.io/2020/04/01/annotated-music-transformer/ |
+| BAKU: An Efficient Transformer for Multi-Task Policy Learning | https://baku-robot.github.io/ |
+| Style Konva Transformer \| Konva - JavaScript Canvas 2d Library | https://konvajs.github.io/docs/select_and_transform/Transformer_Styling.html |
+| White-Box Transformers via Sparse Rate Reduction | https://ma-lab-berkeley.github.io/CRATE/ |
+| MaskGIT: Masked Generative Image Transformer | https://masked-generative-image-transformer.github.io/ |
+| Sequence-To-Sequence, Attention, Transformer — Machine ... | https://hannibunny.github.io/mlbook/transformer/attention.html |
+| Transformer Design Guide (Part 1: Vanilla) \| Rohit Bandaru | https://rohitbandaru.github.io/blog/Transformer-Design-Guide-Pt1/ |
+| Object Scene Representation Transformer | https://osrt-paper.github.io/ |
+| Population Transformer | https://glchau.github.io/population-transformer/ |
+| Hierarchical Surgical Robot Transformer (SRT-H) | https://h-surgical-robot-transformer.github.io/ |
+| Relation-Aware Transformer for Portfolio Policy Learning | https://tanmingkui.github.io/files/publications/Relation-Aware.pdf |
+| M2T2: Multi-Task Masked Transformer for Object-centric Pick and ... | https://m2-t2.github.io/ |
+| DiT-Policy | https://dit-policy.github.io/ |
+| POTTER: Pooling Attention Transformer for Efficient Human Mesh ... | https://zczcwh.github.io/potter_page/ |
+| How to resize and rotate canvas shapes with Vue and Konva ... | https://konvajs.github.io/docs/vue/Transformer.html |
+| Simple Transformers | https://thilinarajapakse.github.io/simpletransformers/ |
+| Lensformer: A Physics-Informed Vision Transformer for Gravitational ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_214.pdf |
+| 165B Machine Learning Transformer | https://lileicc.github.io/course/mldl22w/14-Transformer.pdf |
+| MeshGPT: Generating Triangle Meshes with Decoder-Only ... | https://nihalsid.github.io/mesh-gpt/ |
+| Human Scene Transformer | https://human-scene-transformer.github.io/ |
+| make_column_transformer — scikit-learn 1.7.2 documentation | https://thomasjpfan.github.io/scikit-learn-website/modules/generated/sklearn.compose.make_column_transformer.html |
+| All About Transformer Inference \| How To Scale Your Model | https://jax-ml.github.io/scaling-book/inference/ |
+| Vision Transformer in pure JAX. - Alessio Devoto | https://alessiodevoto.github.io/ViT-in-pure-JAX/ |
+| Vision Transformer | https://amaarora.github.io/posts/2021-01-18-ViT.html |
+| An Intuitive Introduction to the Vision Transformer - Thalles' blog | https://sthalles.github.io/an-intuitive-introduction-to-the-vision-transformer/ |
+| Debugging a Vision Transformer Compilation Issue | https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/ |
+| Implementing Vision Transformer (ViT) from Scratch - Tin Nguyen | https://tintn.github.io/Implementing-Vision-Transformer-from-Scratch/ |
+| Uncertainty Estimation in Deterministic Vision Transformer | https://charliezhaoyinpeng.github.io/UDM-AAAI23/assets/papers/3/CameraReady/UDM_AAAI_23_camera_ready.pdf |
+| Vision Transformer (ViT) - Pytorch Image Models | https://pprp.github.io/timm/models/vision-transformer/ |
+| Lensformer: A Physics-Informed Vision Transformer for Gravitational ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_214.pdf |
+| ViTA: A Vision Transformer Inference Accelerator for Edge ... | https://shashanknag.github.io/files/camera_ready_paper.pdf |
+| Exploring Explainability for Vision Transformers | http://jacobgil.github.io/deeplearning/vision-transformer-explainability |
+| Interpretable ECG Classification With 1D Vision Transformer \| Yoni ... | https://yonigottesman.github.io/ecg/vit/deep-learning/2023/01/20/ecg-vit.html |
+| Demystifying Local Vision Transformer: Sparse Connectivity, Weight ... | https://jingdongwang2017.github.io/Pubs/Demystify_Local_Attention.pdf |
+| minViT: Walkthrough of a minimal Vision Transformer (ViT) \| Dennis ... | https://dmicz.github.io/machine-learning/minvit/ |
+| IA-RED2: Interpretability-Aware Redundancy Reduction for Vision ... | https://rpand002.github.io/data/NeurIPS_2021_iared.pdf |
+| Vision transformer properties - Christian Garbin's personal blog | https://cgarbin.github.io/vision-transformers-properties/ |
+| DVT: Denoising Vision Transformers | https://jiawei-yang.github.io/DenoisingViT/ |
+| Vision Transformer | https://tugot17.github.io/Vision-Transformer-Presentation/ |
+| ViT: Vision Transformer (2020) – Naoki Shibuya | https://naokishibuya.github.io/blog/2022-11-02-vit-vision-transformer-image-classifier-2020/ |
+| MeViT: A Medium-Resolution Vision Transformer for Semantic ... | https://kaopanboonyuen.github.io/publication/mevit-a-medium-resolution-vision-transformer/ |
+| Vision Transformer finetuned without augmentation \| Stanislav Fort | https://stanislavfort.github.io/blog/vision_transformer_without_augmentation/ |
+| Vision Transformer Adapters for Generalizable Multitask Learning | https://ivrl.github.io/VTAGML/ |
+| Fine-Tuning Vision Transformer (ViT) on Tiny ImageNet Dataset ... | https://rhincodone.github.io/posts/2024-11-15-Fine_Tuning_ViT_Tiny_ImageNet/ |
+| ViT-DD: Multi-Task Vision Transformer for Semi-Supervised Driver ... | https://ml4ad.github.io/files/papers2022/ViT-DD:%20Multi-Task%20Vision%20Transformer%20for%20Semi-Supervised%20Driver%20Distraction%20Detection.pdf |
+| Galaxy Morphological Classification with Efficient Vision Transformer | https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_123.pdf |
+| SSL with Vision Transformers \| Rohit Bandaru | https://rohitbandaru.github.io/blog/SSL-with-Vision-Transformers/ |
+| A-ViT: Adaptive Tokens for Efficient Vision Transformer | https://a-vit.github.io/ |
+| Computers & Graphics Multi-scale Knowledge Transfer Vision ... | https://zichunzhong.github.io/papers/KT-ViT.pdf |
+| Vision Transformer in TensorFlow | https://dzlab.github.io/notebooks/tensorflow/vision/classification/2021/10/01/vision_transformer.html |
+| Swin Transformer for Hierarchical Vision (2021) – Naoki Shibuya | https://naokishibuya.github.io/blog/2022-11-04-swin-transformer-2021/ |
+| VT-ADL: A Vision Transformer Network for Image Anomaly Detection ... | https://creatis-myriad.github.io/2022/07/06/Vision_Transformer_Network_for_Image_Anomaly_Detection_and_Localization.html |
+| Spherical Vision Transformers for Audio-Visual Saliency Prediction ... | https://cyberiada.github.io/SalViT360/ |
+| Transformers in Vision - IAML Distill Blog | https://iaml-it.github.io/posts/2021-04-28-transformers-in-vision/ |
+| Face Pyramid Vision Transformer | https://khawar-islam.github.io/fpvt/ |
+| Optimizing Vision Transformer Model for Deployment — PyTorch ... | https://h-huang.github.io/tutorials/beginner/vt_tutorial.html |
+| Representation in Vision Transformers and Attentionless Models ... | https://blbadger.github.io/vision-transformers.html |
+| DualToken-ViT: Position-aware Efficient Vision Transformer with ... | https://chywang.github.io/papers/sdm2024.pdf |
+| HTR-VT: Handwritten Text Recognition with Vision Transformer | https://yutingli0606.github.io/HTR-VT/ |
+| Panoramic Vision Transformer for Saliency Detection in 360 Videos | https://yhytoto12.github.io/assets/publications/paver/paper.pdf |
+| Vision Transformer - Nithish Duvvuru | https://nithish96.github.io/Computer%20Vision/transformers/vit/ |
+| History Aware Multimodal Transformer for Vision-and-Language ... | https://cshizhe.github.io/projects/vln_hamt.html |
+| CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image ... | https://rpand002.github.io/data/ICCV_2021_crossvit.pdf |
+| PVTv2: Improved Baselines with Pyramid Vision Transformer | https://implus.github.io/resources/reports/PVTv2_Improved_Baselines_with_Pyramid_Vision_Transformer.pdf |
+| CNN vs. Vision Transformer: A Practitioner's Guide to Selecting the ... | https://tobiasvanderwerff.github.io/2024/05/15/cnn-vs-vit.html |
+| Scattering Vision Transformer: Spectral Mixing Matters | https://badripatro.github.io/svt/ |
+| Transformer and Mixer Features \| Form and Formula | https://blbadger.github.io/transformer-features.html |
+| RepPoints: A New Framework for Object Detection | https://ancientmooner.github.io/doc/SwinTransformer_FiveReasons.pdf |
+| CNN vs Transformer \| Md Awsafur Rahman | https://awsaf49.github.io/blog/2023/cnn-vs-transformer/ |
+| ScalableViT: Rethinking the Context-oriented Generalization of ... | https://yangr116.github.io/files/ScalableViT.pdf |
+| Frequency and Attention is what you need in a Vision Transformer ... | https://badripatro.github.io/SpectFormers/ |
+| MCUFormer: Deploying Vision Transformers on Microcontrollers ... | https://ziweiwangthu.github.io/data/MCUFormer.pdf |
+| Visualizing Attention Maps in Pre-trained Vision Transformers ... | https://alessiodevoto.github.io/vit-attention/ |
+| Rotary Position Embedding for Vision Transformer | https://sangdooyun.github.io/data/heo2024eccv_ropevit.pdf |
+| Robustness Comparison of Vision Transformer and MLP-Mixer to ... | https://aisecure-workshop.github.io/amlcvpr2021/cr/29.pdf |
+| VSR-SIM - Spatio-temporal Vision Transformer for Super-resolution ... | https://vsr-sim.github.io/ |
+| P2T: Pyramid Pooling Transformer for Scene Understanding | https://yuhuan-wu.github.io/files/[22PAMI]%20P2T.pdf |
+| An Instance Normalization Transformer for Generalized Driving ... | https://trust-ai.github.io/SSAD2023/assets/papers/6.pdf |
+| Youngwan Lee - Youngwan Lee (이영완) | https://youngwanlee.github.io/ |
+| Explaining Information Flow Inside Vision Transformers Using ... | https://xai4debugging.github.io/files/papers/explaining_information_flow_in.pdf |
+| Adaptive Window Pruning for Efficient Local Motion Deblurring | https://leiali.github.io/LMD-ViT_webpage/ |
+| Lecture 4 | https://cmhcbb.github.io/files/COMP6211I/Lecture_4.pdf |
+| Tensorflow VITs \| Mike Polinowski | https://mpolinowski.github.io/docs/IoT-and-Machine-Learning/ML/2023-07-27-tensorflow-vision-transformer/2023-07-27/ |
+| Fine-Tune Your Own Vision Transformer - FusionBench | https://tanganke.github.io/fusion_bench/guides/clip_vit/finetune/ |
+| CompletionFormer | https://youmi-zym.github.io/projects/CompletionFormer/ |
+| Scene Representation Transformer | https://srt-paper.github.io/ |
+| Large-Scale Video Understanding with Transformers | https://anuragarnab.github.io/talks/Large_scale_video_understanding_transformers.pdf |
+| TeleViT: Teleconnection-driven Vision Transformer | https://orion-ai-lab.github.io/televit/ |
+| Zhengzhong Tu | https://vztu.github.io/publication.html |
+| EfficientViT Memory Efficient Vision Transformer with Cascaded ... | https://jijunhao.github.io/2023/11/06/article20231106/ |
+| Publications - Zihang Jiang | https://zihangjiang.github.io/publications/ |
+| Jigsaw-ViT: Learning Jigsaw Puzzles in Vision Transformer | https://yingyichen-cyy.github.io/Jigsaw-ViT/ |
+| Heng Huang \| Peipei Zhou's Homepage | https://peipeizhou-eecs.github.io/author/heng-huang/ |
+| Understanding the Efficacy of U-Net & Vision Transformer for ... | https://syns-ml.github.io/2023/assets/papers/31.pdf |
+| Patch-based Separable Transformer for Visual Recognition | https://hszhao.github.io/papers/tpami22_set.pdf |
+| Available models and sources (+ examples) \| thingsvision | https://thingsvision.github.io/AvailableModels.html |
+| Naoki Shibuya | https://naokishibuya.github.io/ |
+| Ze Liu (刘泽) | https://zeliu98.github.io/ |
+| Transformers \| dl-visuals | https://dvgodoy.github.io/dl-visuals/Transformers/ |
+| Yun Chia Yu | https://yunchiayu.github.io/ |
+| An Image is Worth 16x16 Words: Transformers for Image ... | https://vitalab.github.io/article/2020/10/15/vision_transformer.html |
+| Quantformer: Learning Extremely Low-precision Vision Transformers | https://xuxw98.github.io/files/Quantformer.pdf |
+| NVIDIA Jetson AI Lab | https://nvidia-ai-iot.github.io/jetson-generative-ai-playground/ |
+| REGIONVIT: REGIONAL-TO-LOCAL ATTENTION FOR VISION ... | https://rpand002.github.io/data/ICLR_2022_regionvit.pdf |
+| U-Diffusion Vision Transformer for Text-to-Speech - Speech Research | https://eihw.github.io/u-dit-tts/ |
+| Vision Transformer论文解读- SmallSquare's Blog | https://smallsquare.github.io/Vision-Transformer/ |
+| Vision Transformer (ViT) — TF Transformers documentation | https://legacyai.github.io/tf-transformers/build/html/model_doc/vit.html |
+| Blog \| Stanislav Fort | https://stanislavfort.github.io/blog/ |
+| Vision Transformer (ViT) For Image Classification | https://patrick-yp-yu.github.io/proj_vit_classification.html |
+| Swin Transformer | https://amaarora.github.io/posts/2022-07-04-swintransformerv1.html |
+| Masked Vision Transformers for Hyperspectral Image Classification ... | https://hsg-aiml.github.io/2023/06/05/Masked_Vision_Transformers_for_Hyperspectral_Image_Classification.html |
+| demos - André Pedersen | https://andreped.github.io/demos/ |
+| X-ViT: High Performance Linear Vision Transformer without Softmax ... | https://kakaoenterprise.github.io/papers/cvpr-xvit |
+| TSiT – tsai | https://timeseriesai.github.io/tsai/models.tsitplus.html |
+| Transformer - Michał Chromiak's blog | https://mchromiak.github.io/tag/transformer.html |
+| Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense ... | https://ycliu93.github.io/projects/polyhistor.html |
+| DeiT-LT: Distillation Strikes Back for Vision Transformer Training on ... | https://rangwani-harsh.github.io/DeiT-LT/ |
+| Vision Transformers and their Adversarial Robustness | https://abhiram4572.github.io/files/vision_transformers.pdf |
+| arXiv:2103.16302v2 [cs.CV] 18 Aug 2021 | https://sangdooyun.github.io/data/heo2021iccv_pit.pdf |
+| Spike Transformer: Monocular Depth Estimation for Spiking Camera | https://yuzhaofei.github.io/papers/22-ECCV-Spike%20Transformer-Monocular%20Depth%20Estimation%20for%20Spiking%20Camera.pdf |
+| Han Hu - Microsoft Research Asia | https://ancientmooner.github.io/ |
+| A-ColViT: Real-time Interactive Colorization by Adaptive Vision ... | https://practical-dl.github.io/2023/long_paper/27/CameraReady/27.pdf |
+| The Unreasonable Effectiveness of Recurrent Neural Networks | http://karpathy.github.io/2015/05/21/rnn-effectiveness/ |
+| What a Deep Neural Network thinks about your #selfie | http://karpathy.github.io/2015/10/25/selfie/ |
+| Neural network training makes beautiful fractals \| Jascha's blog | http://sohl-dickstein.github.io/2024/02/12/fractal.html |
+| A Recipe for Training Neural Networks | http://karpathy.github.io/2019/04/25/recipe/ |
+| A Neural Network in 13 lines of Python (Part 2 - Gradient Descent) - i ... | https://iamtrask.github.io/2015/07/27/python-network-part2/ |
+| Neural Network Classification - ilastik | https://ilastik.github.io/documentation/nn/nn |
+| Diversity and Generalization in Neural Network Ensembles | https://andresmasegosa.github.io/Diversity/ |
+| Web Neural Network API | https://webmachinelearning.github.io/webnn/ |
+| A Neural Network in 11 lines of Python (Part 1) - i am trask | https://iamtrask.github.io/2015/07/12/basic-python-network/ |
+| How to build a simple artificial neural network with Go \| sausheong's ... | https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/ |
+| Deep Neural Network Embeddings for Text-Independent Speaker ... | https://maelfabien.github.io/assets/litterature/representation/xvector.pdf |
+| Neural Networks | https://mlu-explain.github.io/neural-networks/ |
+| Single layer neural network — mlp • parsnip | https://tidymodels.github.io/parsnip/reference/mlp.html |
+| A Dual-Stage Attention-Based Recurrent Neural Network for Time ... | https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf |
+| ICLR 2025 Workshop on Weight Space Learning: Overview | https://weight-space-learning.github.io/ |
+| Hacker's guide to Neural Networks | http://karpathy.github.io/neuralnets/ |
+| How to implement a neural network (1/5) - gradient descent \| Peter's ... | https://peterroelants.github.io/posts/neural-network-implementation-part01/ |
+| Python vs Rust for Neural Networks \| Nathan Goldbaum | https://ngoldbaum.github.io/posts/python-vs-rust-nn/ |
+| A Convolutional Neural Network Cascade for Face Detection | https://xiaohuishen.github.io/assets/cvpr2015_cascnn.pdf |
+| Generalized Neural-Network Representation of High-Dimensional ... | https://aiichironakano.github.io/cs653/Behler-NNPES-PRL07.pdf |
+| Convolutional Neural Networks (CNNs / ConvNets) | https://cs231n.github.io/convolutional-networks/ |
+| A Timing Engine Inspired Graph Neural Network Model for Pre ... | https://jeremiemelo.github.io/publications/papers/PD_DAC2022_Gu.pdf |
+| KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction ... | https://xuanlin1991.github.io/files/publications/ijcai20.pdf |
+| How should we compare neural network representations? – The ... | https://bairblog.github.io/2021/11/08/similarity/ |
+| Convert Models to Neural Networks — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/convert-to-neural-network.html |
+| Neural Network Classifier — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/updatable-neural-network-classifier-on-mnist-dataset.html |
+| Welcome to the documentation of n2p2! — n2p2 - A neural network ... | https://compphysvienna.github.io/n2p2/ |
+| 2D Visualization of a Convolutional Neural Network | https://aharley.github.io/nn_vis/cnn/2d.html |
+| How do we interpret the outputs of a neural network trained on ... | https://yudixie.github.io/blog/2024/interpret-classification/ |
+| Neural Network Night | https://neuralnetworkingnight.github.io/ |
+| Neural Network Classifier & Regressor - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/02_neural_network_classifier_and_regressor.html |
+| On Getting Confidence Estimates from Neural Networks \| Bharath's ... | https://bharathpbhat.github.io/2021/04/04/getting-confidence-estimates-from-neural-networks.html |
+| Comparing ML Programs and Neural Networks — Guide to Core ML ... | https://apple.github.io/coremltools/docs-guides/source/comparing-ml-programs-and-neural-networks.html |
+| Model-based Reinforcement Learning with Neural Network ... | https://bairblog.github.io/2017/11/30/model-based-rl/ |
+| NeuralNetworkClassifier - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/stubs/qiskit_machine_learning.algorithms.NeuralNetworkClassifier.html |
+| K Nearest Neighbor as a Neural Network - Sewade Ogun's Website | https://ogunlao.github.io/2020/05/23/knn-as-a-neural-network.html |
+| The Quantum Convolution Neural Network - Qiskit Machine ... | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/11_quantum_convolutional_neural_networks.html |
+| 2.9. Neural network models (unsupervised) — scikit-learn 1.7.2 ... | https://thomasjpfan.github.io/scikit-learn-website/modules/neural_networks_unsupervised.html |
+| neural network case study | https://cs231n.github.io/neural-networks-case-study/ |
+| ByteGNN: Efficient Graph Neural Network Training at Large Scale | https://yaobaiwei.github.io/papers/ByteGNN_VLDB22.pdf |
+| Understanding LSTM Networks -- colah's blog | https://colah.github.io/posts/2015-08-Understanding-LSTMs/ |
+| Notes on neural networks from scratch in Clojure \| Matthew Downey | https://matthewdowney.github.io/clojure-neural-networks-from-scratch-mnist.html |
+| Parameterized Explainer for Graph Neural Network | https://bzong.github.io/doc/PGExplainer.pdf |
+| Neural Networks From Linear Algebraic Perspective \| Khalid Saifullah | https://khalidsaifullaah.github.io/neural-networks-from-linear-algebraic-perspective/ |
+| Neural Networks — MLX 0.29.3 documentation | https://ml-explore.github.io/mlx/build/html/python/nn.html |
+| CS231n Deep Learning for Computer Vision | https://cs231n.github.io/ |
+| Neural Networks, Manifolds, and Topology -- colah's blog | https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ |
+| Smart Contract Vulnerability Detection using Graph Neural Network | https://messi-q.github.io/projects/papers/ijcai2020/ijcai20.pdf |
+| Saving Neural Network Model Weights Using a Hierarchical ... | https://danieltakeshi.github.io/2017/07/06/saving-neural-network-model-weights-using-a-hierarchical-organization/ |
+| DeepWukong: Statically Detecting Software Vulnerabilities using ... | https://yuleisui.github.io/publications/tosem21.pdf |
+| CS231n Deep Learning for Computer Vision | https://cs231n.github.io/neural-networks-3/ |
+| Building Neural Network From Scratch - Jake Tae | https://jaketae.github.io/study/neural-net/ |
+| Neural Network demo — Preset: Binary Classifier for XOR | https://phiresky.github.io/neural-network-demo/ |
+| Building a Neural Network from Scratch in Python and in ... | https://beckernick.github.io/neural-network-scratch/ |
+| Weight Agnostic Neural Networks | https://weightagnostic.github.io/ |
+| Learning to Sort with a Neural Network – Jacob Kelly | https://jacobjinkelly.github.io/2018/06/20/sorting-numbers-with-a-neural-network/ |
+| Hamiltonian Neural Networks | http://greydanus.github.io/2019/05/15/hamiltonian-nns/ |
+| NEURAL NETWORK DYNAMICS | https://pnicompneurojc.github.io/papers/Vogels%202005.pdf |
+| Recurrent Neural Network for Text Classification with Multi-Task ... | https://xuanjing-huang.github.io/files/RNN.pdf |
+| Quantum Neural Networks - Qiskit Machine Learning 0.8.4 | https://qiskit-community.github.io/qiskit-machine-learning/tutorials/01_neural_networks.html |
+| Time Delay Neural Network – KaleidoEscape – Linguist turned ... | https://kaleidoescape.github.io/tdnn/ |
+| Implementing a two-layer neural network from scratch | https://ljvmiranda921.github.io/notebook/2017/02/17/artificial-neural-networks/ |
+| Physics Inspired Neural Network | https://swarnadeepseth.github.io/pendulum_PINN.html |
+| The Convolutional Neural Network | https://com-cog-book.github.io/com-cog-book/features/cov-net.html |
+| Compressing Neural Network Weights — Guide to Core ML Tools | https://apple.github.io/coremltools/docs-guides/source/quantization-neural-network.html |
+| 2. Feed-forward neural network — Reproducible Machine Learning ... | https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_7_DeepLearning/FeedForwardNeuralNetworks.html |
+| 4 Methods Overview – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/overview.html |
+| Overview of the new neural network system in Tesseract 4.00 \| tessdoc | https://tesseract-ocr.github.io/tessdoc/tess4/NeuralNetsInTesseract4.00.html |
+| Rethinking NoCs for Spatial Neural Network Accelerators | https://anands09.github.io/papers/MicroSwitch_NOCS2017.pdf |
+| Classification by a Neural Network using Keras – Introduction to ... | https://esciencecenter-digital-skills.github.io/intro-to-deep-learning-archaeology/02-keras/index.html |
+| Neural Network Verification: About Marabou | https://neuralnetworkverification.github.io/ |
+| Understanding Message Passing in GNNs – Emma Benjaminson ... | https://sassafras13.github.io/GNN/ |
+| Graph Neural Network for Tag Ranking in Tag-enhanced Video ... | https://ruobingxie.github.io/publications/CIKM-20_GraphTR.pdf |
+| Beyond the Single Neuron Convex Barrier for Neural Network ... | https://ggndpsngh.github.io/files/neurips19_krelu.pdf |
+| LAMMPS interface — n2p2 - A neural network potential package ... | https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html |
+| Variational inference in Bayesian neural networks - Martin Krasser's ... | http://krasserm.github.io/2019/03/14/bayesian-neural-networks/ |
+| Distance-Enhanced Graph Neural Network for Link Prediction | https://icml-compbio.github.io/icml-website-2021/2021/papers/WCBICML2021_paper_52.pdf |
+| Conv Nets: A Modular Perspective - colah's blog | https://colah.github.io/posts/2014-07-Conv-Nets-Modular/ |
+| torch.nn — PyTorch 2.7 documentation | https://glaringlee.github.io/nn.html |
+| Neural Network Classification Workflow (beta) released - ilastik | https://ilastik.github.io/news/2020/03/02/nn-beta |
+| Cosyne Tutorial 2022 - Spiking Neural Networks \| Spiking Neural ... | https://neural-reckoning.github.io/cosyne-tutorial-2022/ |
+| ConvnetJS demo: toy 2d classification with 2-layer neural network | https://ccc-js.github.io/convnetjs2demo/demo/classify2d.html |
+| How neural networks are trained | https://ml4a.github.io/ml4a/how_neural_networks_are_trained/ |
+| Convolutional Neural Network: How is it different from the other ... | https://yangxiaozhou.github.io/data/2020/09/24/intro-to-cnn.html |
+| GAMMA: Graph Neural Network-Based Multi-Bottleneck Localization ... | https://anuragdutt.github.io/assets/files/www_24/WWW24_camera_ready.pdf |
+| Transformers are Graph Neural Networks \| NTU Graph Deep ... | https://graphdeeplearning.github.io/post/transformers-are-gnns/ |
+| Pruning - Neural Network Distiller | https://intellabs.github.io/distiller/pruning.html |
+| How to implement a neural network (4/5) - vectorization of operations | https://peterroelants.github.io/posts/neural-network-implementation-part04/ |
+| Derivation: Derivatives for Common Neural Network Activation ... | https://dustinstansbury.github.io/theclevermachine/derivation-common-neural-network-activation-functions |
+| Intermittent Deep Neural Network Inference | https://g-ram.github.io/files/sonic_sysml_2018.pdf |
+| Artificial Neural Network Sampling — SSAGES 0.9.3 documentation | https://ssagesproject.github.io/docs/Artificial%20Neural%20Network%20Sampling.html |
+| Derivation of Backpropagation in Convolutional Neural Network (CNN) | https://zzutk.github.io/docs/reports/2016.10%20-%20Derivation%20of%20Backpropagation%20in%20Convolutional%20Neural%20Network%20(CNN).pdf |
+| Neural Network FAQ, part 2 of 7: Learning | https://vikasing.github.io/nnfaq/FAQ2.html |
+| Neural network parameters — dropout • dials | https://tidymodels.github.io/dials/reference/dropout.html |
+| Conditional Convolutional Neural Network for Modality-Aware Face ... | https://labicvl.github.io/docs/pubs/Chao_ICCV_2015.pdf |
+| Physics-Informed Tensor Basis Neural Network for Turbulence ... | https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_91.pdf |
+| A Neural Network Mode for PX4 on Embedded Flight Controllers | https://ntnu-arl.github.io/px4-nns/ |
+| Measuring the Effects of Data Parallelism on Neural Network Training | https://fid3024.github.io/papers/2019%20-%20Measuring%20the%20Effects%20of%20Data%20Parallelism%20on%20Neural%20Network%20Training.pdf |
+| The Transformer Blueprint: A Holistic Guide to ... - AI Research Blog | https://deeprevision.github.io/posts/001-transformer/ |
+| Build a Convolutional Neural Network | https://carpentries-incubator.github.io/intro-image-classification-cnn/03-build-cnn.html |
+| Advances in natural language processing | https://princeton-nlp.github.io/cos484/readings/advances_in_nlp.pdf |
+| Princeton NLP Group: Princeton Natural Language Processing | https://princeton-nlp.github.io/ |
+| McGill NLP: McGill Natural Language Processing | https://mcgill-nlp.github.io/ |
+| Advanced Natural Language Processing / Fall 2025 | https://cmu-l3.github.io/anlp-fall2025/ |
+| NALA Group | https://nala-cub.github.io/ |
+| CPSC 477/577 – Natural Language Processing | https://yale-nlp.github.io/cpsc477/ |
+| Natural Language Processing with R | https://s-ai-f.github.io/Natural-Language-Processing/ |
+| CSCI 662 \| CSCI 662 - Advanced Natural Language Processing | https://jonmay.github.io/USC-CS662/ |
+| COS 484: Natural Language Processing | https://princeton-nlp.github.io/cos484/ |
+| OHNLP | https://ohnlp.github.io/ |
+| Natural Language Processing | https://utah-intro-nlp.github.io/ |
+| CSCI 5541, Natural Language Processing | https://dykang.github.io/classes/csci5541/F24/index.html |
+| CS 4501 Natural Language Processing (Fall 2024) - Yu Meng | https://yumeng5.github.io/teaching/2024-fall-cs4501 |
+| CS 6501 Natural Language Processing (Spring 2024) - Yu Meng | https://yumeng5.github.io/teaching/2024-spring-cs6501 |
+| Modern Approaches in Natural Language Processing | https://slds-lmu.github.io/seminar_nlp_ss20/ |
+| Natural Language Processing with Python | https://tjzhifei.github.io/resources/NLTK.pdf |
+| NLP-progress: Tracking Progress in Natural Language Processing | https://sebastianruder.github.io/NLP-progress/ |
+| Item Response Theory for Natural Language Processing | https://eacl2024irt.github.io/ |
+| Natural Language Processing | https://uom-nlp.github.io/ |
+| DS-GA.1011 Natural Language Processing with Representation ... | https://nyu-cs2590.github.io/fall2023/ |
+| TextGraphs | https://michigannlp.github.io/textgraphs |
+| Workshop on Gender Bias in Natural Language Processing: index | https://gebnlp-workshop.github.io/ |
+| CS 769 Advanced Natural Language Processing (Fall 2023) | https://junjiehu.github.io/cs769-fall23/ |
+| A brief review of Natural Language Processing with Python ... | https://nlacara.github.io/blog/reviews/nltk_book.html |
+| CSE 447: Natural Language Processing, Fall 2024 | https://msclar.github.io/cse447-au24/ |
+| Natural Language Processing in Humans and Machines \| Teaching ... | https://denizenslab.github.io/teaching/seminars/NLP_HM/ |
+| Applied Natural Language Processing \| ISYE 8813, Fall2022 ... | https://mahdi-roozbahani.github.io/ANLP-Spring23/ |
+| Home – 6.861* Quantitative Methods for NLP – Advanced NLP | https://mit-6861.github.io/ |
+| CSE 4392 Special Topics (Natural Language Processing) | https://kenzhu2000.github.io/cse4392/ |
+| NLP4Disability – The Second Workshop on Natural Language ... | https://nlp4disability.github.io/ |
+| KNLP 2026 - SAC Special Track on Knowledge and Natural ... | https://knlp-sac.github.io/2026/ |
+| CS 769 Advanced Natural Language Processing (Spring 2022) | https://junjiehu.github.io/cs769-spring22/ |
+| Bridging Neurons and Symbols for Natural Language Processing ... | https://neusymbridge.github.io/ |
+| Natural Language Processing Fall 2025 | https://anoopsarkar.github.io/nlp-class/ |
+| Advanced Natural Language Processing / Spring 2025 | https://cmu-l3.github.io/anlp-spring2025/ |
+| 50.040 Natural Language Processing | https://isakzhang.github.io/courses/50040-nlp.html |
+| PittNAIL | https://pittnail.github.io/ |
+| The USF NLP Group | https://nlp-grp.github.io/ |
+| Embracing variability in natural language processing \| MaiNLP ... | https://mainlp.github.io/iclave12/ |
+| Chapter 6 Introduction: Transfer Learning for NLP \| Modern ... | https://slds-lmu.github.io/seminar_nlp_ss20/introduction-transfer-learning-for-nlp.html |
+| Natural Language Processing \| Alberto Barrón-Cedeño | https://albarron.github.io/teaching/natural-language-processing/ |
+| AI Dictionary \| NHS AI Lab | https://nhsx.github.io/ai-dictionary/?term=nlp |
+| Deep Learning Research Review Week 3: Natural Language ... | https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing |
+| Overview - CoreNLP | https://stanfordnlp.github.io/CoreNLP/ |
+| COMP3361: Natural Language Processing | https://taoyds.github.io/courses/comp3361 |
+| Jacob Eisenstein | https://jacobeisenstein.github.io/ |
+| SSNLP 2025: The 2025 Singapore Symposium on Natural ... | https://ssnlp-website.github.io/ssnlp25/ |
+| Natural Language Processing: A Primer — ENC2045 Computational ... | https://alvinntnu.github.io/NTNU_ENC2045_LECTURES/nlp/nlp-primer.html |
+| Natural Language Processing, Spring 2021 \| Rycolab | https://rycolab.github.io/classes/intro-nlp-s21/ |
+| Natural Language Processing — Coding for Economists | https://aeturrell.github.io/coding-for-economists/text-nlp.html |
+| CS 769 Advanced Natural Language Processing (Fall 2024) | https://junjiehu.github.io/cs769-fall24/ |
+| A Cross-Architecture Instruction Embedding Model for Natural ... | https://lannan.github.io/papers/bar2019-final57.pdf |
+| CSE 447: Natural Language Processing, Spring 2022 | https://fiftyloops.github.io/cse447-sp22/ |
+| CS 4120: Natural Language Processing, Spring 2023 | https://muzny.github.io/syllabus/cs4120_spring2023.pdf |
+| Natural Language Processing and Reasoning | https://14h034160212.github.io/Qiming_Bao_IEEE_VTS_Natural_Language_Processing_Reasoning_Invited_Talk_Final.pdf |
+| UoL NLP Group | https://livnlp.github.io/ |
+| CSCI 5640: Natural Language Processing — Spring 2025 | https://lavi-lab.github.io/csci5640/ |
+| CS 2731 Introduction to Natural Language Processing, Fall 2023 ... | https://michaelmilleryoder.github.io/cs2731_fall2023/ |
+| NLP4Prog Workshop 2021 \| Natural Language Processing for ... | https://nlp4prog.github.io/2021/ |
+| ClimateNLP 2025 | https://nlp4climate.github.io/ |
+| Natural Language Processing \| CSE 447 and 517 at the University ... | https://nasmith.github.io/NLP-winter22/ |
+| A Tidy Data Model for Natural Language Processing using cleanNLP | https://rjournal.github.io/archive/2017/RJ-2017-035/index.html |
+| CS 162 - Natural Language Processing - Winter 2023 course page ... | https://violetpeng.github.io/cs162_win23.html |
+| DL4NLP - Deep Learning for Natural Language Processing | https://liu-nlp.github.io/dl4nlp/ |
+| CS 4770 Natural Language Processing (Fall 2025) - Yu Meng | https://yumeng5.github.io/teaching/2025-fall-cs4770 |
+| Universal Natural Language Processing - NALA Group | https://nala-cub.github.io/projects/universal_nlp |
+| Text Analysis in Python: Summary and Setup | https://carpentries-incubator.github.io/python-text-analysis/ |
+| Natural Language Processing (CM3060) | https://world-class.github.io/REPL/modules/level-6/cm-3060-natural-language-processing/ |
+| Clinical NLP Workshop 2019 | https://clinical-nlp.github.io/2019/ |
+| Overview \| Deep Learning for Natural Language Processing: A ... | http://clulab.github.io/gentlenlp/ |
+| Large-scale Analysis of Counseling Conversations: An Application ... | https://behavioral-data.github.io/resources/pubpdfs/althoff2016counseling.pdf |
+| HOME — CITS4012 Natural Language Processing | https://weiliu2k.github.io/CITS4012/ |
+| Natural Language Processing using LLMs in R & Python :: Cheatsheet | https://rstudio.github.io/cheatsheets/html/nlp-with-llms.html |
+| Athens Natural Language Processing Summer School 2025 | https://athnlp.github.io/2025/index.html |
+| TrustNLP | https://trustnlpworkshop.github.io/ |
+| NLPSA @ IIS, Academia Sinica | https://academiasinicanlplab.github.io/ |
+| Sowmya Vajjala: Course Materials | https://econnlpcourse.github.io/course-materials/ |
+| References \| Modern Approaches in Natural Language Processing | https://slds-lmu.github.io/seminar_nlp_ss20/references.html |
+| CSCI-GA.2590 Natural Language Processing, Spring 2023 | https://nyu-cs2590.github.io/spring2023/ |
+| Natural Language Processing and Program Analysis for Supporting ... | https://pengyunie.github.io/p/NieETAL18TodoComments.pdf |
+| Natural Language Processing \| MSAIL | https://msail.github.io/tag/natural-language-processing/ |
+| Natural Language Processing with Transformers Book | https://nlp-with-transformers.github.io/website/ |
+| Deep Learning for Natural Language Processing (DL4NLP) | https://slds-lmu.github.io/dl4nlp/ |
+| AAAI 2020 Tutorial: Modularizing Natural Language Processing | https://asyml.github.io/aaai_tutorial/ |
+| Clinical NLP Workshop 2023 | https://clinical-nlp.github.io/2023/ |
+| NEURON: Query Execution Plan Meets Natural Language ... | https://raihanjoty.github.io/papers/liu-et-al-sigmod-demo-19.pdf |
+| Fundamentals of Natural Language Processing (NLP) in Python ... | https://carpentries-incubator.github.io/Natural-language-processing/ |
+| Natural Language Processing, CS322, SP19 \| CS322-SP19 | https://jmhessel.github.io/CS322-SP19/ |
+| AI6127: Deep Neural Networks for Natural Language Processing | https://ntunlpsg.github.io/AI6127-deep-nlp-20/ |
+| Five sources of bias in natural language processing \| MilaNLP Lab ... | https://milanlproc.github.io/publication/2021-five-sources-bias/ |
+| CS 6320 (Fall 23): Natural Language Processing | https://xinyadu.github.io/cs6320/index.html |
+| John E. Ortega / johneortega: John E. Ortega is a computational ... | https://johneortega.github.io/ |
+| Metamorphic Testing of Large Language Models for Natural ... | https://valerio-terragni.github.io/assets/pdf/cho-icsme-2025.pdf |
+| Transfer Learning for Natural Language Processing | https://tl4nlp.github.io/ |
+| COS 584: Advanced Natural Language Processing | https://princeton-nlp.github.io/cos484/cos584.html |
+| A Review of Natural Language Processing Techniques for Opinion ... | https://shiliangsun.github.io/pubs/NLP_OM.pdf |
+| 2.7. Extend the protocol: natural language processing - Digital ... | https://jacomyma.github.io/mapping-controversies/2.7/ |
+| Paradigm Shift in NLP \| Paradigm shift in natural language processing | https://txsun1997.github.io/nlp-paradigm-shift/ |
+| Welcome to the Modern World of Pronouns: Identity-Inclusive ... | https://milanlproc.github.io/publication/2022-welcome_modern_world_pronouns_identity-inclusive_natural_language_processing_beyond_gender/ |
+| Natural Language Processing | https://princeton-nlp.github.io/cos484/readings/eisenstein-nlp-notes.pdf |
+| The state of Computer Vision and AI: we are really, really far away. | http://karpathy.github.io/2012/10/22/state-of-computer-vision/ |
+| CSCI 1430: Introduction to Computer Vision | https://browncsci1430.github.io/ |
+| Women in Computer Vision | https://wicvworkshop.github.io/ |
+| Computer Vision: Foundations and Applications | https://stanford-cs131.github.io/winter2025/ |
+| Computer Vision at University of Virginia | https://uva-computer-vision-lab.github.io/ |
+| Synthetic Data for Computer Vision - CVPR 2025 \| Synthetic Data for ... | https://syndata4cv.github.io/ |
+| 6.S058: Introduction to Computer Vision, Spring 2025 | https://introtocv.github.io/ |
+| CS180/280A: Intro to Computer Vision and Computational ... | https://cal-cs180.github.io/ |
+| Computer Vision And Image Understanding Lab | https://uark-cviu.github.io/ |
+| CV4Ecology Workshop | https://cv4ecology.github.io/ |
+| CS C280, Computer Vision (Spring 2025) | http://cs280-berkeley.github.io/ |
+| What Uncertainties Do We Need in Bayesian Deep Learning for ... | https://seunghan96.github.io/assets/pdf/BNN/paper/29.What%20Uncertainties%20Do%20We%20Need%20in%20Bayesian%20Deep%20Learning(2017).pdf |
+| Computer Vision Models | https://udlbook.github.io/cvbook/ |
+| CV4MR 2025 | https://cv4mr.github.io/ |
+| 6.8300/1: Advances in Computer Vision, Spring 2024 | https://advances-in-vision.github.io/ |
+| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-25/ |
+| COMPSCI 670 • Fall 2022 - Computer Vision | https://cvl-umass.github.io/cv-fall-2022/ |
+| Reflections on Reviewing Computer Vision Papers - M. Usman ... | https://usman-rafique.github.io/posts/cv_review/ |
+| International Workshop on Frontiers of Computer Vision | https://iwfcv2025.github.io/ |
+| Computer Vision for Drug Discovery Where Are We and What is ... | https://cvdd-cvpr25.github.io/ |
+| eXCV Workshop at ICCV 2025 | https://excv-workshop.github.io/ |
+| WORKSHOP ON FAIR, DATA EFFICIENT AND TRUSTED ... | https://fadetrcv.github.io/2025/ |
+| Test-time Scaling for Computer Vision (ViSCALE) Workshop ... | https://viscale.github.io/ |
+| Advanced Computer Vision | https://16820advancedcv.github.io/ |
+| CVMI @ CVPR 2025 - 10th IEEE Workshop on Computer Vision for ... | https://cvmi-workshop.github.io/ |
+| Computer Vision in Advertising and Marketing CVAM @ ICCV 2025 ... | https://cvam-workshop.github.io/ |
+| Computer Vision in the Built Environment \| 3rd Workshop and ... | https://cv4aec.github.io/ |
+| 4th Workshop on Uncertainty Quantification for Computer Vision | https://uncertainty-cv.github.io/ |
+| Computer Vision – Digital Scholarship & Data Science Topic Guides | https://libereurope.github.io/ds-topic-guides/computer-vision.html |
+| PUT Vision Lab | https://putvision.github.io/ |
+| CVPR 2023 - 10th Workshop on Medical Computer Vision | https://mcv-workshop.github.io/ |
+| Computer Vision Group at Rice University | https://ricevision.github.io/ |
+| Machine Learning and Computer Vision Research Group | https://uob-mavi.github.io/people/ |
+| Computer Vision \| University of Juba | https://uojai.github.io/computervision/ |
+| Intro to Computer Vision and Computational ... - CS180/280A | https://cal-cs180.github.io/fa24/ |
+| Workshop on Computer Vision in the Wild 2025 | https://computer-vision-in-the-wild.github.io/cvpr-2025/ |
+| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-24/ |
+| Intro to Computer Vision \| NYU, Spring 2022 | https://esizikova.github.io/introCV-spring2022/ |
+| Vision Research Lab - Computer Vision Research at UC Santa ... | https://connor11son.github.io/vrl-test-site/index.html |
+| 6 Computer Vision - Applied Causal Inference | https://appliedcausalinference.github.io/aci_book/07-computer-vision.html |
+| Advanced Deep Learning for Computer Vision: Visual Computing ... | https://niessner.github.io/ADL4CV/ |
+| 2nd Workshop on Quantum Computer Vision and Machine Learning | https://qcvml.github.io/ |
+| Shu Kong \| Computer Vision Lab | https://aimerykong.github.io/group.html |
+| XAI4CV | https://xai4cv.github.io/ |
+| Computer Vision Model Leaderboard | https://roboflow.github.io/model-leaderboard/ |
+| Geometry-based Methods in Vision | https://geometric3d.github.io/ |
+| NECV 2024 | https://necv2024.github.io/ |
+| Introduction: Advanced Explainable AI for computer vision ... | https://jacobgil.github.io/pytorch-gradcam-book/ |
+| CMSC 426 Computer Vision Spring 2019 | https://cmsc426spring2019.github.io/ |
+| AliceVision \| Photogrammetric Computer Vision Framework | http://alicevision.github.io/ |
+| Astra-vision - Computer vision group, Astra, Inria | https://astra-vision.github.io/ |
+| CVM Lab \| Home | https://iitcvmlab.github.io/ |
+| COMPSCI 670 • Fall 2024 - Computer Vision | https://cvl-umass.github.io/compsci670-fall-2024/ |
+| Piotr's Matlab Toolbox | https://pdollar.github.io/toolbox/ |
+| 3rd Workshop on Uncertainty Quantification for Computer Vision | https://uncertainty-cv.github.io/2024/ |
+| COMPSCI 670 • Spring 2024 - Computer Vision | https://cvl-umass.github.io/compsci670-spring-2024/ |
+| ECCV 2020 Tutorial on Weakly-Supervised Learning in Computer ... | https://hbilen.github.io/wsl-eccv20.github.io/ |
+| Computer Vision Library for R • Rvision | https://swarm-lab.github.io/Rvision/ |
+| Image Processing and Computer Vision 2.0 documentation | https://rvdboomgaard.github.io/ComputerVision_LectureNotes/ |
+| AICV Lab - Home | https://uark-aicv.github.io/ |
+| Sara Beery | https://beerys.github.io/ |
+| The state of Computer Vision and AI: we are really, really far away. | https://karpathy.github.io/2012/10/22/state-of-computer-vision/?ref=programiz.com |
+| CVPPA 2024 Workshop | https://cvppa2024.github.io/ |
+| Workshop on Computer Vision in the Wild 2024 | https://computer-vision-in-the-wild.github.io/cvpr-2024/ |
+| Intelligent Robotics and Vision Lab at the University of Texas at ... | https://irvlutd.github.io/ |
+| Chapter 20 - Graph Neural Networks in Computer Vision | https://graph-neural-networks.github.io/static/file/chapter20.pdf |
+| Brown IVL: Interactive 3D Vision & Learning Lab (IVL) | https://brown-ivl.github.io/ |
+| Introduction to Computer Vision using OpenCV and Python \| Virgilio | https://virgili0.github.io/Virgilio/inferno/computer-vision/introduction-to-computer-vision.html |
+| Computer Vision for Developing Countries (CV4DC) Workshop 2024 | https://cv4dc.github.io/2024/ |
+| Synthetic Data for ... - Synthetic Data for Computer Vision - CVPR 2024 | https://syndata4cv.github.io/cvpr2024.html |
+| DS265-Deep Learning For Computer Vision – Department of ... | https://val-iisc.github.io/DLCV/ |
+| 4th Workshop on Image/Video/Audio Quality in Computer Vision and ... | https://wacv2025-image-quality-workshop2.github.io/index.html |
+| petiteFinder: an automated computer vision tool to compute Petite ... | https://klyshko.github.io/files/pf.pdf |
+| UBC Computer Vision Lab - Home | https://gursimar.github.io/ubc_cvrg/ |
+| Computer Vision in the Wild | https://computer-vision-in-the-wild.github.io/eccv-2022/ |
+| Intro to Computer Vision - COMPSCI 370 | https://cvl-umass.github.io/intro-cv-spring-2024/ |
+| Computer Vision \| University of Juba | https://uojai.github.io/computervision/schedule.html |
+| Learning Partial Differential Equations for Computer Vision 1 ... | https://zhouchenlin.github.io/Publications/Learning-BasedPDE-Sanya.pdf |
+| Tutorial on Computer Vision with Fisheye Cameras \| plaut.github.io | https://plaut.github.io/fisheye_tutorial/ |
+| Writing (Computer Vision) Papers from the Reviewer's Perspective ... | https://mvaldenegro.github.io/files/LXCV-ICCV-2021-tutorial-paper-writing.pdf |
+| AI-900-AIFundamentals - Explore Computer Vision | https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02v2.html |
+| AIKON: A Modular Computer Vision Platform for Historical Corpora | https://aikon-platform.github.io/ |
+| Interpretable Machine Learning for Computer Vision | https://interpretablevision.github.io/ |
+| Computer Vision in the Wild | https://computer-vision-in-the-wild.github.io/cvpr-2023/ |
+| EECS 442: Computer Vision (Winter 2024) | https://eecs442.github.io/ |
+| CMSC426 Computer Vision | http://cmsc426.github.io/ |
+| 16720 - Computer Vision | https://kriskitani.github.io/courses/16720B/ |
+| Ultralytics YOLO Docs: Home | https://ultralytics.github.io/docs/ |
+| Algebraic Topology for Computer Vision | https://chaochen.github.io/publications/chen_survey_2011.pdf |
+| Physical Simulation and Computer Vision | https://visionmeetphysics.github.io/ |
+| Privacy-Preserving Computer Vision | https://privacy-preserving-computer-vision.github.io/ |
+| CS 280 Computer Vision | http://cs280-berkeley.github.io/sp24.html |
+| kornia.org - Open Source Computer Vision | https://kornia.github.io/ |
+| Poltergeist: Acoustic Adversarial Machine Learning against ... | https://spqrlab1.github.io/papers/ji-poltergeist-oakland21.pdf |
+| Accelerating Ukraine Intelligence Analysis with Computer Vision on ... | https://bairblog.github.io/2022/03/21/ukraine-sar-maers/ |
+| Hands-On Computer Vision | https://semillerocv.github.io/ |
+| Workshop: Computer Vision and Generative Models for Medical ... | https://cvgmmi.github.io/CVGMMI-2025/ |
+| CMSC 733: Classical and Deep Learning Approaches for Geometric ... | https://cmsc733.github.io/ |
+| Courses \| Luca Magri | https://magrilu.github.io/courses/ |
+| Intro to Computer Vision - COMPSCI 370 | https://cvl-umass.github.io/intro-cv-spring-2023/ |
+| Generative Modeling by Estimating Gradients of the Data ... | http://yang-song.github.io/blog/2021/score/ |
+| Generative-Model \| Lil'Log | https://lilianweng.github.io/tags/generative-model/ |
+| VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI ... | https://augmentedperception.github.io/voluxgan/ |
+| Phidias: A Generative Model for Creating 3D Content from Text ... | https://rag-3d.github.io/ |
+| A Note on Using Log-Likelihood for Generative Models \| Bounded ... | https://bjlkeng.github.io/posts/a-note-on-using-log-likelihood-for-generative-models/ |
+| Efficient Generative Model Training via Embedded Representation ... | https://lins-lab.github.io/ERW/ |
+| Algorithmic Harms Associated with Generative Model-Augmented ... | https://oars-workshop.github.io/papers/Herlihy2025.pdf |
+| GANtlitz: Ultra High Resolution Generative Model for Multi-Modal ... | https://syntec-research.github.io/GANtlitz/ |
+| Hierarchical Gaussian Mixture based Task Generative Model for ... | https://nijingchao.github.io/paper/neurips2023_htgm.pdf |
+| GET3D: A Generative Model of High Quality 3D Textured Shapes ... | https://nv-tlabs.github.io/GET3D/ |
+| Flow-based Deep Generative Models \| Lil'Log | https://lilianweng.github.io/posts/2018-10-13-flow-models/ |
+| TRELLIS: Structured 3D Latents for Scalable and Versatile 3D ... | https://trellis3d.github.io/ |
+| VQ3D: Learning a 3D-Aware Generative Model on ImageNet | https://kylesargent.github.io/vq3d |
+| Singular Value Scaling: Efficient Generative Model Compression via ... | https://hjinnkim.github.io/SVS_site/ |
+| Deep Generative Models | https://kuleshov-group.github.io/dgm-website/ |
+| Generative Models for Computer Vision | https://generative-vision.github.io/workshop-CVPR-25/ |
+| A generative model for predicting outcomes in college basketball | https://franrruiz.github.io/contents/journals/2015/RuizPerezCruz2015.pdf |
+| Score-based Generative Modeling in Latent Space | https://nvlabs.github.io/LSGM/ |
+| Autoregressive Models | https://deepgenerativemodels.github.io/notes/autoregressive/ |
+| PayVAE: A Generative Model for Financial Transactions | https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_17.pdf |
+| Exposing flaws of generative model evaluation metrics and their ... | https://jescresswell.github.io/publication/2023-06-exposing-flaws |
+| Generative Models - Autoencoders · Deep Learning | https://atcold.github.io/NYU-DLSP21/en/week08/08-3/ |
+| PODIA-3D: Domain Adaptation of 3D Generative Model Across ... | https://gwang-kim.github.io/podia_3d/ |
+| SMPLicit: Topology-aware Generative Model for Clothed People | https://enriccorona.github.io/smplicit/ |
+| Maximum Likelihood Learning | https://deepgenerativemodels.github.io/assets/slides/cs236_lecture4.pdf |
+| SMPLitex: A Generative Model and Dataset for 3D Human Texture ... | https://dancasas.github.io/projects/SMPLitex/index.html |
+| Bias and Generalization in Deep Generative Models | https://ermongroup.github.io/blog/bias-and-generalization-dgm/ |
+| Discrete Distribution Networks: DDN | https://discrete-distribution-networks.github.io/ |
+| EscherNet: A Generative Model for Scalable View Synthesis | https://kxhit.github.io/EscherNet |
+| AI-Sketcher : A Deep Generative Model for Producing High-Quality ... | https://xiaoyangtao.github.io/assets/pubs/2018AAAI_Cao_AISketcher.pdf |
+| What are Diffusion Models? \| Lil'Log | https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ |
+| GenRep | https://ali-design.github.io/GenRep/ |
+| Model-based RL under the Generative Model Setting | https://wensun.github.io/CS4789_data/model_based_RL_Mar_11_annotated.pdf |
+| New Paper: Towards a Generative Model of Emotion Dynamics ... | https://jmbh.github.io/Generative-Model-Emotion-Dynamics/ |
+| Conditional Generative Model Based Predicate-Aware Query ... | https://nikhil96sher.github.io/publications/pdfs/2022-AAAI-Electra.pdf |
+| How to Detect Data-Copying in Generative Models \| UCSD Machine ... | https://ucsdml.github.io/jekyll/update/2020/08/03/how-to-detect-data-copying-in-generative-models.html |
+| En3D: An Enhanced Generative Model for Sculpting 3D Humans ... | https://menyifang.github.io/projects/En3D/index.html |
+| MIT 6.S978: Deep Generative Models, Fall 2024 | https://mit-6s978.github.io/schedule.html |
+| NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape ... | https://weizheliu.github.io/NeuSDFusion/static/pdfs/neusdfusion.pdf |
+| Ginver: Generative Model Inversion Attacks Against Collaborative ... | https://perfecthu.github.io/publications/WWW23_Ginver.pdf |
+| Curved Diffusion: A Generative Model With Optical Geometry Control | https://anylens-diffusion.github.io/ |
+| Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model ... | https://x-zhangyang.github.io/2023_Get3DHuman/ |
+| VideoFlow: A Flow-Based Generative Model for Video | https://invertibleworkshop.github.io/INNF_2019/accepted_papers/pdfs/INNF_2019_paper_18.pdf |
+| Generative model \| The Book of Statistical Proofs | https://statproofbook.github.io/D/gm.html |
+| A Deep Generative Model of Vowel Formant Typology \| Rycolab | https://rycolab.github.io/publication/cotterelleisner-naacl-18/ |
+| A Conditional Deep Generative Model of People in Natural Images | https://tajanthan.github.io/gm/docs/dgpose-wacv.pdf |
+| Yet Another Generative Model For Room Impulse Response ... | https://sh-lee97.github.io/neural-ir-est/ |
+| Graph Generative Model for Benchmarking Graph Neural Networks | https://graph-learning-benchmarks.github.io/assets/papers/glb2023/2942_graph_generative_model_for_ben.pdf |
+| SinGAN: Learning a Generative Model from a Single Natural Image | https://tamarott.github.io/SinGAN.htm |
+| Generative Models for Graphs | https://snap-stanford.github.io/cs224w-notes/machine-learning-with-networks/graph-generative-models |
+| Persistent Nature: A Generative Model of Unbounded 3D Worlds | https://chail.github.io/persistent-nature/ |
+| A generative model for vision \| Dileep George | https://dileeplearning.github.io/pubcopy/science-captcha/ |
+| Discriminative Model VS Generative Model - Lei Mao's Log Book | https://leimao.github.io/blog/Discriminative-Model-VS-Generative-Model/ |
+| Sample Complexity Bounds for Stochastic Shortest Path with a ... | https://misovalko.github.io/publications/tarbouriech2021sample.pdf |
+| Lecture 12: Gaussian Mixture Models | https://shuaili8.github.io/Teaching/VE445/L12_gmm.pdf |
+| GLOW: Generative flow - Amélie Royer | https://ameroyer.github.io/portfolio/2021-04-12-Glow/ |
+| Lecture 6: Generative Models and Naive Bayes — Applied ML | https://kuleshov-group.github.io/aml-book/contents/lecture6-naive-bayes.html |
+| Score-based Generative Models based on SDEs/ODEs | https://jmtomczak.github.io/blog/17/17_sbgms.html |
+| ContinuouSP: Generative Model for Crystal Structure Prediction with ... | https://ai-2-ase.github.io/papers/19_tone.pdf |
+| PV3D: A 3D Generative Model for Portrait Video Generation | https://showlab.github.io/pv3d/ |
+| DGM4MICCAI Workshop @MICCAI 2024 | https://dgm4miccai.github.io/ |
+| Score-based generative models: Score matching | https://jmtomczak.github.io/blog/16/16_score_matching.html |
+| Generative Learning Algorithm - Wei's Homepage | https://wei2624.github.io/MachineLearning/sv_generative_model/ |
+| [Generative Model] Diffusion Transformer (DiT) | https://leeyngdo.github.io/blog/generative-model/2024-07-01-diffusion-transformer/ |
+| Human Motion Diffusion Model | https://guytevet.github.io/mdm-page/ |
+| Generative AI Meets Reinforcement Learning | https://generative-rl-tutorial.github.io/ |
+| FTL-IGM: Few-Shot Task Learning through Inverse Generative ... | https://avivne.github.io/ftl-igm/ |
+| HAAR - Text-Conditioned Generative Model of 3D Strand-based ... | https://justusthies.github.io/posts/haar/ |
+| PixelSNAIL: An Improved Autoregressive Generative Model | https://vitalab.github.io/article/2018/10/11/pixel-snail.html |
+| Generative Model for Decision Trees | https://msetzu.github.io/about/docs/gentree.pdf |
+| Deep Learning - Lecture 5: Generative models | https://cwkx.github.io/data/teaching/dl-and-rl/dl-lecture5.pdf |
+| (What's the Probabilistic Story) Modeling Glory? | https://betanalpha.github.io/assets/case_studies/generative_modeling.html |
+| Don't Generate Me: Training Differentially Private Generative Models ... | https://nv-tlabs.github.io/DP-Sinkhorn/ |
+| GAN Lab: Play with Generative Adversarial Networks in Your Browser! | https://poloclub.github.io/ganlab/ |
+| Suppressing High-frequency Artifacts for Generative Model ... | https://hzwu.github.io/ModelWatermarking-Hanzhou-Wu-IH2024.pdf |
+| Multi-Task Video Generative Foundation Model with Full Attention | https://fulldit.github.io/ |
+| PartCrafter | https://wgsxm.github.io/projects/partcrafter/ |
+| Inverting Deep Generative Model, One Layer at a Time | https://cecilialeiqi.github.io/invert_GAN_poster.pdf |
+| [Generative Model] CycleGAN | https://leeyngdo.github.io/blog/generative-model/2023-09-02-cycleGAN/ |
+| Diverse Motion Stylization for Multiple Style Domains via Spatial ... | https://dk-jang.github.io/assets/pdf/SCA2021_DiverseMotion.pdf |
+| Interpretable Generative Models through Post-hoc Concept ... | https://lilywenglab.github.io/posthoc-generative-cbm/ |
+| EnIGMA: Enhanced Interactive Generative Model Agent for CTF ... | https://enigma-agent.github.io/assets/paper.pdf |
+| [Generative Model] Score Matching via SDEs | https://leeyngdo.github.io/blog/generative-model/2023-11-03-score-based-generative-models-with-sdes/ |
+| GIRAFFE: Representing Scenes as Compositional Generative ... | https://m-niemeyer.github.io/project-pages/giraffe/ |
+| A Hierarchical Generative Model of Electrocardiogram Records | https://andymiller.github.io/docs/miller-ml4hc-2017.pdf |
+| Generative (PO)MDP Interface · POMDPs.jl | http://juliapomdp.github.io/POMDPs.jl/v0.8/generative/ |
+| Generative Models for Physicists | https://wangleiphy.github.io/lectures/PILtutorial.pdf |
+| Compositional Scene Understanding through Inverse Generative ... | https://energy-based-model.github.io/compositional-inference/ |
+| SMPLitex: A Generative Model and Dataset for 3D Human Texture ... | https://dancasas.github.io/projects/SMPLitex/SMPLitex-dataset.html |
+| Generative and Discriminative models \| Mustafa Murat ARAT | https://mmuratarat.github.io/2019-08-23/generative-discriminative-models |
+| GET3D: A Generative Model of High Quality 3D Textured Shapes ... | https://nv-tlabs.github.io/GET3D/assets/paper.pdf |
+| A generative model of phonotactics \| Language Processing Group | https://langprocgroup.github.io/publication/futrell-2017-generative/ |
+| Leveraging Passage Retrieval with Generative ... - Kartik Perisetla | https://kartikperisetla.github.io/blog/2020/leveraging-passage-retrieval-generative-models-qna/ |
+| Flow-based Deep Generative Models | https://salu133445.github.io/pdf/flow_based_deep_generative_models_report.pdf |
+| DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to ... | https://gwang-kim.github.io/datid_3d/ |
+| Introduction | https://deepgenerativemodels.github.io/notes/introduction/ |
+| IJCAI-ECAI 2018 Tutorial on Deep Generative Models \| Deep ... | https://ermongroup.github.io/generative-models/ |
+| [Generative Model] Conditioned Diffusion Models | https://leeyngdo.github.io/blog/generative-model/2023-11-15-conditional-diffusions/ |
+| GameNGen | https://gamengen.github.io/ |
+| Conditional Generative Model - Haolin Jia's Homepage | https://harrypotterrrr.github.io/2022/01/25/gan-2.html |
+| What are Diffusion Models? \| Lil'Log | https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ |
+| Human Motion Diffusion Model | https://guytevet.github.io/mdm-page/ |
+| Building Diffusion Model's theory from ground up \| ICLR Blogposts ... | https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/ |
+| Measurement Score-Based Diffusion Model | https://wustl-cig.github.io/msmwww/ |
+| EMDM: Efficient Motion Diffusion Model for Fast, High-Quality ... | https://frank-zy-dou.github.io/projects/EMDM/index.html |
+| Diffusion Classifier | https://diffusion-classifier.github.io/ |
+| Align your Latents: High-Resolution Video Synthesis with Latent ... | https://nv-tlabs.github.io/VideoLDM/ |
+| BrepGen: A B-rep Generative Diffusion Model with Structured Latent ... | https://brepgen.github.io/ |
+| DICEPTION: A Generalist Diffusion Model for Vision Perception | https://aim-uofa.github.io/Diception/ |
+| SynthLight: Portrait Relighting with Diffusion Model by Learning to ... | https://vrroom.github.io/synthlight/ |
+| BSDF importance sampling using a diffusion model | https://fzy28.github.io/BSDF_diffusion_sampling_web/ |
+| Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi ... | https://synbol.github.io/Lumina-DiMOO/ |
+| MagicAnimate: Temporally Consistent Human Image Animation ... | https://showlab.github.io/magicanimate/ |
+| Taming Latent Diffusion Model for Neural Radiance Field Inpainting | https://hubert0527.github.io/MALD-NeRF/ |
+| ZoomLDM: Latent Diffusion Model for multi-scale image generation ... | https://histodiffusion.github.io/docs/projects/zoomldm/ |
+| Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model | https://ggx-research.github.io/publication/2023/05/10/publication-iadb.html |
+| Diffusion models are autoencoders – Sander Dieleman | https://benanne.github.io/2022/01/31/diffusion.html |
+| ReconX: Reconstruct Any Scene from Sparse Views with Video ... | https://liuff19.github.io/ReconX/ |
+| MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity ... | https://ku-cvlab.github.io/MoDiTalker/ |
+| Motion-Conditioned Diffusion Model for Controllable Video Synthesis | https://tsaishien-chen.github.io/MCDiff/ |
+| StarGen: A Spatiotemporal Autoregression Framework with Video ... | https://zju3dv.github.io/StarGen/ |
+| Diamond - diffusion for world modeling | https://diamond-wm.github.io/ |
+| PhysDiff: Physics-Guided Human Motion Diffusion Model | https://nvlabs.github.io/PhysDiff/ |
+| LION: Latent Point Diffusion Models for 3D Shape Generation | https://nv-tlabs.github.io/LION/ |
+| SMooDi: Stylized Motion Diffusion Model | https://neu-vi.github.io/SMooDi/ |
+| Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion ... | https://diffusion-vision.github.io/dmd/ |
+| CS492(D) Diffusion Models and Their Applications (KAIST, Fall 2024) | https://mhsung.github.io/kaist-cs492d-fall-2024/ |
+| GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents | https://pku-mocca.github.io/GestureDiffuCLIP-Page/ |
+| Diffusion Model for Dense Matching | https://ku-cvlab.github.io/DiffMatch/ |
+| CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text ... | https://caraj7.github.io/comat/ |
+| Multimodal Latent Diffusion Model for Complex Sewing Pattern ... | https://shengqiliu1.github.io/SewingLDM/ |
+| My notes on discrete denoising diffusion models (D3PMs ... | http://christopher-beckham.github.io/2022/07/11/d3pms.html |
+| SinDDM: A Single Image Denoising Diffusion Model | https://matankleiner.github.io/sinddm/ |
+| Beyond Surface Statistics: Scene Representations in a Latent ... | https://yc015.github.io/scene-representation-diffusion-model/ |
+| Training Diffusion Models with Reinforcement Learning | https://rl-diffusion.github.io/ |
+| Drift Diffusion Model — choiceRT_ddm • hBayesDM | https://ccs-lab.github.io/hBayesDM/reference/choiceRT_ddm.html |
+| Diffusion Models for Video Generation \| Lil'Log | https://lilianweng.github.io/posts/2024-04-12-diffusion-video/ |
+| Compositional Visual Generation with Composable Diffusion Models | https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/ |
+| DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal ... | https://ucsdml.github.io/2023/12/22/dyffusion.html |
+| VMix: Improving Text-to-Image Diffusion Model with Cross-Attention ... | https://vmix-diffusion.github.io/VMix/ |
+| MeshDiffusion | https://meshdiffusion.github.io/ |
+| HumanSD: A Native Skeleton-Guided Diffusion Model for Human ... | https://idea-research.github.io/HumanSD/ |
+| VideoScene: Distilling Video Diffusion Model to Generate 3D ... | https://hanyang-21.github.io/VideoScene/ |
+| High-Fidelity Relightable Monocular Portrait Animation with Lighting ... | https://mingtaoguo.github.io/ |
+| Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher ... | https://guolanqing.github.io/Self-Cascade/ |
+| Motion to Dance Music Generation using Latent Diffusion Model | https://dmdproject.github.io/ |
+| EMO | https://humanaigc.github.io/emote-portrait-alive/ |
+| BrepDiff: Single-stage B-rep Diffusion Model | https://brepdiff.github.io/ |
+| FloVD: Optical Flow Meets Video Diffusion Model for Enhanced ... | https://jinwonjoon.github.io/flovd_site/ |
+| DyMO: Training-Free Diffusion Model Alignment with Dynamic Multi ... | https://shelsin.github.io/dymo.github.io/ |
+| Local Action-Guided Motion Diffusion Model for Text-to-Motion ... | https://jpthu17.github.io/GuidedMotion-project/ |
+| DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose ... | https://dposer.github.io/ |
+| MotionDiffuse | https://mingyuan-zhang.github.io/projects/MotionDiffuse.html |
+| Generative Modeling by Estimating Gradients of the Data ... | http://yang-song.github.io/blog/2021/score/ |
+| PrefPaint: Aligning Image Inpainting Diffusion Model with Human ... | https://prefpaint.github.io/ |
+| Affordance Diffusion: Synthesizing Hand-Object Interactions | https://judyye.github.io/affordiffusion-www/ |
+| Cascaded Diffusion Models for High Fidelity Image Generation | https://cascaded-diffusion.github.io/ |
+| Fashion-VDM: Video Diffusion Model for Virtual Try-On | https://johannakarras.github.io/Fashion-VDM/ |
+| CyberHost: A One-stage Diffusion Framework for Audio-driven ... | https://cyberhost.github.io/ |
+| Circular Drift-diffusion Model \| Cognitive Models | https://yxlin.github.io/cognitive-model/cddm/ |
+| MVGenMaster: Scaling Multi-View Generation from Any Image via ... | https://ewrfcas.github.io/MVGenMaster/ |
+| GameNGen | https://gamengen.github.io/ |
+| Diffusion Models as a kind of VAE \| Angus Turner | https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html |
+| Neural Sign Actors: A diffusion model for 3D sign language ... | https://baltatzisv.github.io/neural-sign-actors/ |
+| Guidance: a cheat code for diffusion models – Sander Dieleman | https://benanne.github.io/2022/05/26/guidance.html |
+| 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint ... | https://klauscc.github.io/4diff |
+| CLE Diffusion: Controllable Light Enhancement Diffusion Model ... | https://yuyangyin.github.io/CLEDiffusion/ |
+| Diffusion Meets Flow Matching | https://diffusionflow.github.io/ |
+| Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D ... | https://ku-cvlab.github.io/3DFuse/ |
+| LayoutDM: Discrete Diffusion Model for Controllable Layout ... | https://cyberagentailab.github.io/layout-dm/ |
+| Reinforcement Learning Drift Diffusion Model 1 — pstRT_rlddm1 ... | https://ccs-lab.github.io/hBayesDM/reference/pstRT_rlddm1.html |
+| Diffusion Autoencoders: Toward a Meaningful and Decodable ... | https://diff-ae.github.io/ |
+| PanoDiffusion | https://sm0kywu.github.io/panodiffusion/ |
+| FusionDock: Physics-informed Diffusion Model for Molecular Docking | https://icml-compbio.github.io/2023/papers/WCBICML2023_paper159.pdf |
+| Dream 7B \| HKU NLP Group | https://hkunlp.github.io/blog/2025/dream/ |
+| Decentralized Diffusion | https://decentralizeddiffusion.github.io/ |
+| Random Conditioning with Distillation for Data-Efficient Diffusion ... | https://dohyun-as.github.io/Random-Conditioning/ |
+| Diffusion with Forward Models: Solving Stochastic Inverse Problems ... | https://diffusion-with-forward-models.github.io/ |
+| ReF-LDM: A Latent Diffusion Model for Reference-based Face ... | https://chiweihsiao.github.io/refldm.github.io/ |
+| FasterCache: Training-Free Video Diffusion Model Acceleration with ... | https://vchitect.github.io/FasterCache/ |
+| DOLCE: A model-based probabilistic diffusion framework for limited ... | https://wustl-cig.github.io/dolcewww/ |
+| Re-HOLD: Video Hand Object Interaction Reenactment via adaptive ... | https://fyycs.github.io/Re-HOLD/ |
+| DPOK: Reinforcement Learning for Fine-tuning Text-to-Image ... | https://mohammadghavamzadeh.github.io/PUBLICATIONS/nips23-DPOK.pdf |
+| Visual Layout Composer: Image-Vector Dual Diffusion Model for ... | https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf |
+| Image Neural Field Diffusion Models | https://yinboc.github.io/infd/ |
+| MV-Diffusion: Motion-aware Video Diffusion Model | https://hexiangteng.github.io/papers/ACM%20MM%202023%20MV%20diffusion.pdf |
+| DiffusionSat | https://samar-khanna.github.io/DiffusionSat/ |
+| Diff-BGM: A Diffusion Model for Video Background Music Generation | https://sizhelee.github.io/publication/diffbgm.html |
+| Large Language Diffusion Models | https://ml-gsai.github.io/LLaDA-demo/ |
+| A practical guide to Diffusion models \| Sven Elflein | https://selflein.github.io/diffusion_practical_guide |
+| SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation | https://swiftsketch.github.io/ |
+| ShapeFusion: A 3D diffusion model for localized shape editing | https://rolpotamias.github.io/Shapefusion/ |
+| Denoising Diffusion Models: A Generative Learning Big Bang | https://cvpr2023-tutorial-diffusion-models.github.io/ |
+| Application of the Merton Jump Diffusion Model in S&P500 | https://ionides.github.io/531w16/final_project/Project06/final_report.html |
+| WDM: 3D Wavelet Diffusion Models for High-Resolution Medical ... | https://pfriedri.github.io/wdm-3d-io/ |
+| The Wiener Diffusion Model Distribution — Wiener • brms | http://paul-buerkner.github.io/brms/reference/Wiener.html |
+| DiffV2IR: Visible-to-Infrared Diffusion Model via Vision-Language ... | https://diffv2ir.github.io/ |
+| ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model | https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html |
+| Visual Layout Composer: Image-Vector Dual Diffusion Model for ... | https://aminshabani.github.io/visual_layout_composer/index.html |
+| HumanNorm | https://humannorm.github.io/ |
+| GAN Lab: Play with Generative Adversarial Networks in Your Browser! | https://poloclub.github.io/ganlab/ |
+| From GAN to WGAN \| Lil'Log | https://lilianweng.github.io/posts/2017-08-20-gan/ |
+| Kyra Gan's Personal Website | https://kyra-gan.github.io/ |
+| Lu Gan | https://ganlumomo.github.io/ |
+| Gan Shen | https://gshen42.github.io/ |
+| Zhe Gan | https://zhegan27.github.io/ |
+| Zecheng Gan \| Homepage of Zecheng Gan （干则成） | https://zcgan.github.io/ |
+| Tackling the Generative Learning Trilemma with Denoising Diffusion ... | https://nvlabs.github.io/denoising-diffusion-gan/ |
+| Yiming Gan – Yiming Gan | https://gyiming.github.io/ |
+| Training GANs the right way \| Christopher Beckham, PhD | http://christopher-beckham.github.io/2021/06/28/training-gans.html |
+| Qijun Gan (干淇钧) - Homepage | https://agnjason.github.io/ |
+| EEG-GAN | https://autoresearch.github.io/EEG-GAN/ |
+| CGS-GAN | https://fraunhoferhhi.github.io/cgs-gan/ |
+| mahfuzmohammad/Fixed-Point-GAN: Official ... - GitHub | https://jlianglab.github.io/Fixed-Point-GAN |
+| pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D ... | https://marcoamonteiro.github.io/pi-GAN-website/ |
+| Weijie Gan | https://wjgancn.github.io/ |
+| My first GAN using CelebA data | https://fairyonice.github.io/My-first-GAN-using-CelebA-data.html |
+| Gan Fang \| Purdue CS | https://gfang99.github.io/ |
+| Zeyu Gan / HomePage: About Me | https://zygan1999.github.io/ |
+| Polymorphic-GAN | https://nv-tlabs.github.io/PMGAN/ |
+| Jingru Gan's Homepage - Jingru GAN | https://jingrug.github.io/ |
+| Wanshui Gan | https://ganwanshui.github.io/ |
+| House-GAN++: Generative Adversarial Layout Refinement Network ... | https://ennauata.github.io/houseganpp/page.html |
+| GAN playground: Experiment with Generative Adversarial Networks ... | https://reiinakano.github.io/gan-playground/ |
+| The Math Behind GANs - Jake Tae | https://jaketae.github.io/study/gan-math/ |
+| Wasserstein GAN and the Kantorovich-Rubinstein Duality - Vincent ... | https://vincentherrmann.github.io/blog/wasserstein/ |
+| Yuan Gan: About | https://yuangan.github.io/ |
+| GAN convergence and stability: eight techniques explained \| ML Blog | https://davidleonfdez.github.io/gan/2022/05/17/gan-convergence-stability.html |
+| VoLux-GAN: A Generative Model for 3D Face Synthesis with HDRI ... | https://augmentedperception.github.io/voluxgan/ |
+| Pix2Pix Image Transfer Activity | https://mitmedialab.github.io/GAN-play/ |
+| Generative Multiplane Images: Making a 2D GAN 3D-Aware | https://xiaoming-zhao.github.io/projects/gmpi/ |
+| Generative Adversarial Networks | https://deepgenerativemodels.github.io/notes/gan/ |
+| Gan Zhang | https://ganzhang-gfd.github.io/ |
+| My First GAN - Jake Tae | https://jaketae.github.io/study/gan/ |
+| Kyra (Jingyi) Gan | https://kyra-gan.github.io/cv.pdf |
+| Advanced GANs - Exploring Normalization Techniques for GAN ... | https://sthalles.github.io/advanced_gans/ |
+| Audio samples from "HiFi-GAN: Generative Adversarial Networks for ... | https://jik876.github.io/hifi-gan-demo/ |
+| GigaGAN: Scaling up GANs for Text-to-Image Synthesis | https://mingukkang.github.io/GigaGAN/ |
+| Edward Gan | https://edgan8.github.io/edgan8.github.io/ |
+| Understanding Generative Adversarial Networks – Naoki Shibuya | https://naokishibuya.github.io/blog/2017-11-03-understanding-generative-adversarial-networks/ |
+| Rewriting Geometric Rules of a GAN | https://peterwang512.github.io/GANWarping/ |
+| SURF-GAN | https://jgkwak95.github.io/surfgan/ |
+| The best of GAN papers in the year 2018 | http://dtransposed.github.io/blog/2018/12/31/Best-of-GANs-2018-(Part-1-out-of-2)/ |
+| Shuyu Gan | https://shuyugan.github.io/ |
+| Barbershop: GAN-based Image Compositing using Segmentation ... | https://zpdesu.github.io/Barbershop/ |
+| Temporally Consistent Semantic Video Editing | https://video-edit-gan.github.io/ |
+| Tianjun Gan's personal website | https://tianjungan.github.io/ |
+| Adversarial Generation of Continuous Images | https://universome.github.io/inr-gan.html |
+| IDInvert | https://genforce.github.io/idinvert/ |
+| Image Editing using GAN | https://tandon-a.github.io/Image-Editing-using-GAN/ |
+| ConText-GAN: using contextual texture information for realistic and ... | https://bhiconference.github.io/BHI2023/2023/pdfs/1570927321.pdf |
+| The Emotional GAN: Priming Adversarial Generation of Art with ... | https://dmelis.github.io/assets/publications/2017_emotional_gan/NIPS2017_Creativity.pdf |
+| Perceptual-Sensitive GAN for Generating Adversarial Patches | https://xlliu-beihang.github.io/file/aaai19.pdf |
+| VAE-GAN · Fun with ML | https://hellomoto-ai.github.io/splatoon2-ml/vae-gan/2019/04/11/initial-implementation/ |
+| Explaining in Style: Training a GAN to explain a classifier in ... | https://explaining-in-style.github.io/ |
+| Eric Gan | https://eric-gan.github.io/about.html |
+| Welcome Gan Chengguang academic personal websites - Gan ... | https://ganchengguang.github.io/ |
+| Elaine Gan's Homepage | https://elainegan-2020.github.io/ |
+| Stitch it in Time: GAN-Based Facial Editing of Real Videos | https://stitch-time.github.io/ |
+| D2M-GAN | https://l-yezhu.github.io/D2M-GAN/ |
+| CDE-GAN(Shiming Chen) | https://shiming-chen.github.io/CDE-GAN-website/CDE-GAN.html |
+| PU-GAN: a Point Cloud Upsampling Adversarial Network | https://liruihui.github.io/publication/PU-GAN/ |
+| Emilia Gan | https://efran.github.io/ |
+| CycleGAN Project Page | https://junyanz.github.io/CycleGAN/ |
+| Masked Auto-Encoders Meet Generative Adversarial Networks and ... | https://feizc.github.io/resume/ganmae.pdf |
+| Feature-Based vs. GAN-Based Imitation: When and Why \| Chenhao Li | https://breadli428.github.io/post/lfd/ |
+| Wensheng Gan's Homepage | https://wsgan001.github.io/ |
+| Wasserstein 2 Minibatch GAN with PyTorch — POT Python Optimal ... | https://pythonot.github.io/master/auto_examples/backends/plot_wass2_gan_torch.html |
+| Flow-GAN: Combining Maximum Likelihood and Adversarial ... | https://ermongroup.github.io/blog/flow-gan/ |
+| GAN in PyTorch - Jake Tae | https://jaketae.github.io/study/pytorch-gan/ |
+| Sketch Your Own GAN | https://peterwang512.github.io/GANSketching/ |
+| EditGAN | https://nv-tlabs.github.io/editGAN/ |
+| GAN-Avatar - Controllable Personalized GAN-based Human Head ... | https://zielon.github.io/ganavatar/ |
+| Distilling Diffusion Models into Conditional GANs | https://mingukkang.github.io/Diffusion2GAN/ |
+| GAN Ensembling | https://chail.github.io/gan-ensembling/ |
+| InterFaceGAN | https://genforce.github.io/interfacegan/ |
+| 干煸牛肉 Chinese Beef Jerky (Pan Dried) - 5 minutes! Gan Bian Niu ... | https://connie-feng.github.io/blog/recipes/chinese-beef-jerky/ |
+| Gan Luo (罗淦) - Homepage | https://luoxiaogan.github.io/GanLuo.github.io/ |
+| Appendix A. Training of the GW GAN with Fixed Adversary B ... | https://dmelis.github.io/assets/publications/2019_incomparable_learning/ICML2019_Incomparable-supp.pdf |
+| SPEECH2IR-GAN - Audio Demo | https://anton-jeran.github.io/S2IR/ |
+| Nickel and Diming Your GAN: A Dual-Method Approach to ... | https://lait-cvlab.github.io/Nickel_and_Diming_Your_GAN/ |
+| Gan Yu | https://theganyu.github.io/ |
+| Dual Encoder 3D GAN Inversion | https://berkegokmen1.github.io/dual-enc-3d-gan-inv/ |
+| HiFi-GAN: Generative Adversarial Networks for Efficient and High ... | https://tskim9439.github.io/assets/HiFiGAN/HiFiGAN.pdf |
+| PETIT-GAN | https://bermanz.github.io/PETIT/ |
+| Practical GAN-based Synthetic IP Header Trace Generation using ... | https://xieyaxiongfly.github.io/CSE610_UB/_files/paper/gan_ip.pdf |
+| Generative Adversarial Nets (GAN) — Machine Learning Lecture | https://hannibunny.github.io/mlbook/gan/GAN.html |
+| Anyres GAN | https://chail.github.io/anyres-gan/ |
+| COCO-GAN | https://hubert0527.github.io/COCO-GAN/ |
+| GAN 4 \| Shangeth | https://shangeth.github.io/post/gan-4 |
+| Towards a Framework for Human-AI Interaction Patterns in Co ... | https://hai-gen.github.io/2022/papers/paper-HAIGEN-GrabeImke.pdf |
+| Attributing Fake Images to GANs: Learning and Analyzing GAN ... | https://ningyu1991.github.io/projects/GANFingerprints.html |
+| Prot-A-GAN: Automatic Protein Function Annotation using GAN ... | https://icml-compbio.github.io/2021/papers/WCBICML2021_paper_55.pdf |
+| Training an LC-GAN \| Nadja Rhodes | https://iconix.github.io/dl/2018/07/28/lcgan |
+| 3D-FM GAN | https://lychenyoko.github.io/3D-FM-GAN-Webpage/ |
+| Generative-Model \| Lil'Log | https://lilianweng.github.io/tags/generative-model/ |
+| Source-Filter HiFi-GAN | https://chomeyama.github.io/SiFiGAN-Demo/ |
+| GAN Tutorial - EEG-GAN | https://autoresearch.github.io/EEG-GAN/Tutorials/Tutorial_AEGAN/ |
+| cv \| Lu Gan | https://ganlumomo.github.io/cv/ |
+| GAN Steerability | https://ali-design.github.io/gan_steerability/ |
+| Speech Recognition \| Web Accessibility Initiative (WAI) \| W3C | https://w3c.github.io/wai-website/perspective-videos/voice/ |
+| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/ |
+| MRTK2 to MRTK3 - simple global speech recognition ... | https://localjoost.github.io/MRTK2-to-MRTK3-simple-global-speech-recognition/ |
+| A tutorial on hidden Markov models and selected applications in ... | http://lcolladotor.github.io/courses/Courses/R/resources/Rabiner_HMM_Tutorial.pdf |
+| p5.speech \| Speech synthesis and recognition for p5.js | https://idmnyu.github.io/p5.js-speech/ |
+| Web Speech API | https://webaudio.github.io/web-speech-api/ |
+| Speech Recognition Is Not Solved – Awni Hannun – Writing About ... | https://awni.github.io/speech-recognition/ |
+| Using Radio Archives for Low-Resource Speech Recognition ... | https://mdoumbouya.github.io/nicolingua.pdf |
+| Basic concepts of speech recognition – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialconcepts/ |
+| Introduction to Automatic Speech Recognition (ASR) - | https://maelfabien.github.io/machinelearning/speech_reco/ |
+| Speech Recognition and Graph Transformer Network I · Deep ... | https://atcold.github.io/NYU-DLSP21/en/week11/11-1/ |
+| Speech Recognition | https://anwarvic.github.io/speech-recognition/ |
+| Real-time speech recognition from a microphone — sherpa 1.3 ... | https://k2-fsa.github.io/sherpa/onnx/python/real-time-speech-recongition-from-a-microphone.html |
+| Child Speech Recognition in Human-Robot Interaction: Evaluations ... | https://james-kennedy.github.io/publications/KennedyEtAl2017HRIFull.pdf |
+| THE XIAOMI-TALKFREELY SYSTEM FOR AUDIO-VISUAL SPEECH ... | https://mispchallenge.github.io/papers/task2/Xiaomi_tr_task2.pdf |
+| Speech Recognition and Graph Transformer Network II · Deep ... | https://atcold.github.io/NYU-DLSP21/en/week11/11-2/ |
+| Tuning speech recognition accuracy – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialtuning/ |
+| Task Arithmetic can Mitigate Synthetic-to-Real Gap in Automatic ... | https://farnhua.github.io/syn2real.github.io/ |
+| Is the language param required in speech recognition to transform ... | https://jrichardsz.github.io/speech-to-text/is-the-language-param-required-in-speech-recognition-to-transform-the-human-speech-to-a-text |
+| ViASR: A Novel Benchmark Dataset and Methods for Vietnamese ... | https://paclic2023.github.io/downloads/PACLIC_37/PACLIC_37_paper_67.pdf |
+| Life after Speech Recognition: Fuzzing Semantic Misinterpretation ... | https://wcventure.github.io/FuzzingPaper/Paper/NDSS19_Life.pdf |
+| SynthVSR: Scaling Visual Speech Recognition With Synthetic ... | https://liuxubo717.github.io/SynthVSR/ |
+| Speech recognition with .NET MAUI | https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/ |
+| BembaSpeech: A Speech Recognition Corpus for the Bemba ... | https://csikasote.github.io/assets/pdf/2022.lrec-1.790.pdf |
+| Best of Both Worlds: Robust Accented Speech Recognition with ... | https://poloclub.github.io/papers/21-interspeech-accpt.pdf |
+| Improving Speech Recognition for Children using Acoustic ... | https://slp-ntua.github.io/potam/preprints/conf/2014_WOCCI_children_ASR.pdf |
+| Speech recognition for Asterisk PBX | https://zaf.github.io/asterisk-speech-recog/ |
+| Unsupervised Active Learning: Optimizing Labeling Cost ... | https://zszheng147.github.io/publication/zheng2023unsupervisedal/ |
+| Artyom.js \| A speech recognition, voice commands and speech ... | https://sdkcarlos.github.io/sites/artyom.html |
+| Building an application with sphinx4 – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialsphinx4/ |
+| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/page4/ |
+| Almost Unsupervised Text to Speech and Automatic Speech ... | https://speechresearch.github.io/unsuper/ |
+| EXPLORING EFFECTIVE DISTILLATION OF SELF-SUPERVISED ... | https://zszheng147.github.io/publication/wang2022exploring/ |
+| About KaleidoEscape – KaleidoEscape – Linguist turned Programmer | https://kaleidoescape.github.io/about/ |
+| Kernel Approximation Methods for Speech Recognition | https://avnermay.github.io/files/thesis_defense_slides.pdf |
+| Automatic Speech Recognition (Multi-tasking) | https://espnet.github.io/espnet/recipe/asr1.html |
+| A Joint Training Framework for Robust Automatic Speech Recognition | https://zqwang7.github.io/publications/taslp2016.pdf |
+| X-VECTORS: ROBUST DNN EMBEDDINGS FOR SPEAKER ... | https://maelfabien.github.io/assets/litterature/representation/x_vector.pdf |
+| EXPLOITING LSTM STRUCTURE IN DEEP NEURAL NETWORKS ... | https://cloudygoose.github.io/papers/16lstmdnn_icassp16.pdf |
+| Speech Enhancement Using End-to-End Speech Recognition ... | https://sas91.github.io/pdf/p229-subramanian.pdf |
+| Postprocessing Framework – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/postpframework/ |
+| CMUSphinx Tutorial For Developers – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorial/ |
+| Introduction to Automatic Speech Recognition | https://kharshit.github.io/blog/2019/04/19/introduction-to-automatic-speech-recognition |
+| The History of Speech Recognition to the Year 2030 – Awni Hannun ... | https://awni.github.io/future-speech/ |
+| An Overview of Multi-Task Learning in Speech Recognition | http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html |
+| Temporal Multimodal Learning in Audiovisual Speech Recognition | https://dtaoo.github.io/papers/2016_avSpeech.pdf |
+| Fundamentals of Speech Recognition | https://slpcourse.github.io/materials/lecture_notes/Xiao_Guest_lecture_ASR.pdf |
+| Relative Positional Encoding for Speech Recognition and Direct ... | https://esalesky.github.io/assets/pdf/interspeech20_relativepos.pdf |
+| MelNet - Audio Samples | https://audio-samples.github.io/ |
+| CHiME-6 Challenge | https://chimechallenge.github.io/chime6/ |
+| AVATAR: Unconstrained Audiovisual Speech Recognition | https://gabeur.github.io/avatar-visspeech |
+| HMM Speech Recognition | https://sut-ai.github.io/supplementary/notebooks/hmm_speech_recognition/ |
+| Robust AM-FM Features for Speech Recognition | https://slp-ntua.github.io/potam/preprints/journal/2005_dimitriadis_maragos_potamianos_draft.pdf |
+| Whisper: Web-Scale Supervised Pretraining for Speech Recognition ... | https://john-see.github.io/blog/2022/Whisper/ |
+| CMUSphinx Documentation – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/ |
+| Frequently Asked Questions (FAQ) – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/faq/ |
+| Speech Recognition — OpenSeq2Seq 0.2 documentation | https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html |
+| Zipformer-transducer-based Models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/ncnn/pretrained_models/zipformer-transucer-models.html |
+| Using PocketSphinx with GStreamer and Python – CMUSphinx ... | http://cmusphinx.github.io/wiki/gstreamer/ |
+| Speech Recognition - Robotics Knowledgebase | https://roboticsknowledgebase.github.io/wiki/sensing/speech-recognition/ |
+| Semantic Language model – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/semanticlanguagemodel/ |
+| Quantized QuartzNet with Brevitas for efficient speech recognition ... | https://xilinx.github.io/finn/2020/03/27/brevitas-quartznet-release.html |
+| Sample-Efficient Unsupervised Domain Adaptation of Speech ... | https://slp-ntua.github.io/potam/preprints/journal/2023_TASL_domain_adaptation.pdf |
+| VoiceFilter-Lite: Streaming Targeted Voice Separation for On-Device ... | https://google.github.io/speaker-id/publications/VoiceFilter-Lite/ |
+| NeMo — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/onnx/nemo/index.html |
+| IMPROVING SPEECH RECOGNITION ACCURACY OF LOCAL POI ... | https://songjuncao.github.io/files/SLT2021_presentation.pdf |
+| Overview of the CMUSphinx toolkit – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialoverview/ |
+| Sequence-to-sequence learning with Transducers - Loren Lugosch | https://lorenlugosch.github.io/posts/2020/11/transducer/ |
+| SNRi Target Training for Joint Speech Enhancement and Recognition | https://google.github.io/df-conformer/snri_target/ |
+| About CMUSphinx – CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/wiki/about/ |
+| A Simple Applescript Voice Recognition Program \| mhamilt.github.io | https://mhamilt.github.io/blog/2018/08/30/a-simple-applescript-voice-recognition-program.html |
+| Layer-wise relevance propagation for explainable deep learning ... | https://homangab.github.io/papers/isspit.pdf |
+| react-speech-kit \| Demo | https://mikeyparton.github.io/react-speech-kit/ |
+| Lattices and Confusion Networks for Automatic Speech Recognition ... | https://alecokas.github.io/asr/2019/09/30/lattices-for-asr.html |
+| Noise Robust Speech Recognition for Search and Rescue Domain | https://sangeet2020.github.io/assets/pdf/MS_Thesis_Speech_Recognition_for_SAR_domain.pdf |
+| Language-specific Effects on Automatic Speech Recognition Errors ... | https://yjunechoe.github.io/static/papers/Choe%20et_al%202022%20COLING.pdf |
+| How many Mel‐frequency cepstral coefficients to be utilized in ... | https://hasan-rakibul.github.io/pdfs/hasan2022how.pdf |
+| Testing with assistive technologies — Web Accessibility Guide — NZ ... | https://govtnz.github.io/web-a11y-guidance/ka/how-disabled-people-use-the-web/at/testing-with-at.html |
+| Publications | https://desh2608.github.io/publications/ |
+| Error Correction of Speech Recognition by Custom Phonetic ... | http://kazukifujiwara.github.io/projects/PhoneticAlphabet/index.html |
+| Multilingual and Low-Resource Speech Recognition - | https://maelfabien.github.io/machinelearning/speech_reco_6/ |
+| Audio Deep Learning Made Simple - Automatic Speech Recognition ... | https://ketanhdoshi.github.io/Audio-ASR/ |
+| Join Our Community – CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/wiki/communicate/ |
+| Deep Neural Networks for Acoustic Modeling in Speech Recognition | https://peidong-wang.github.io/files/Automatic%20Speech%20Recognition%20%28ASR%29%20and%20Robust%20ASR.pdf |
+| SpecAugment; A Simple Data Augmentation Method for Automatic ... | https://seunghan96.github.io/audio/ts/cl/(audio_paper23)SpecAug/ |
+| CMUDict 0.7b update – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/2014/11/cmudict-0-7b-update/ |
+| THE NPU-ASLP SYSTEM FOR AUDIO-VISUAL SPEECH ... | https://mispchallenge.github.io/mispchallenge2022/papers/task2/Track2_NPU-ASLP.pdf |
+| Modeling speech recognition and synthesis simultaneously ... | https://gbegus.github.io/assets/pdf/begusZhouInterspeech.pdf |
+| RECURRENT NEURAL NETWORK LANGUAGE MODEL WITH ... | https://cloudygoose.github.io/papers/15mrnnlm_icassp15.pdf |
+| Spoken Digit Speech Recognition - Ludwig | https://ludwig-ai.github.io/ludwig-docs/latest/examples/speech_recognition/ |
+| Quantum Neural Networks for Speech and Natural Language ... | https://huckiyang.github.io/quantum-ml-main/ |
+| Adapting the default acoustic model – CMUSphinx Open Source ... | http://cmusphinx.github.io/wiki/tutorialadapt/ |
+| AUTOMATIC SPEECH RECOGNATION FOR AMHARIC ... | https://pml4dc.github.io/iclr2023/pdf/PML4DC_ICLR2023_4.pdf |
+| Speech Recognition (ASR) \| Open LLM Vtuber | https://open-llm-vtuber.github.io/en/docs/user-guide/backend/asr/ |
+| deepspeech-playbook \| A crash course for training speech ... | https://mozilla.github.io/deepspeech-playbook/SCORER.html |
+| Mu Yang's Website | https://mu-y.github.io/ |
+| CMUSphinx Open Source Speech Recognition | http://cmusphinx.github.io/page2/ |
+| Versions Of Decoders – CMUSphinx Open Source Speech ... | http://cmusphinx.github.io/wiki/versions/ |
+| LP Conformer for VSR/AVSR | https://anwarvic.github.io/speech-recognition/LP_Conformer |
+| Publications - Songjun Cao | https://songjuncao.github.io/publications/ |
+| LIBRISPEECH: AN ASR CORPUS BASED ON PUBLIC DOMAIN ... | https://maelfabien.github.io/assets/litterature/databases/librispeech.pdf |
+| Audio Deep Learning Made Simple - Automatic Speech Recognition ... | https://ketanhdoshi.github.io/Audio-ASR/ |
+| meegkit.asr — MEEGkit 0.1.9 documentation | https://nbara.github.io/python-meegkit/modules/meegkit.asr.html |
+| Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/ |
+| Introduction to Automatic Speech Recognition (ASR) - | https://maelfabien.github.io/machinelearning/speech_reco/ |
+| Installation & Usage - Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/run/ |
+| ASR example — MEEGkit 0.1.9 documentation | https://nbara.github.io/python-meegkit/auto_examples/example_asr.html |
+| c. Automated rejection - EEGLAB Wiki | https://sccn.github.io/tutorials/06_RejectArtifacts/cleanrawdata.html |
+| ESPnet2-ASR realtime demonstration | https://espnet.github.io/espnet/notebook/ESPnet2/Demo/ASR/asr_realtime_demo.html |
+| ASR pipeline with Whisper - Docling | https://docling-project.github.io/docling/examples/minimal_asr_pipeline/ |
+| asr.GRASP \| GRASP-suite | http://bodenlab.github.io/GRASP-suite/project/graspcmd/ |
+| espnet2.asr.encoder.contextual_block_conformer_encoder ... | https://espnet.github.io/espnet/guide/espnet2/asr/ContextualBlockConformerEncoder.html |
+| Seed-ASR | https://bytedancespeech.github.io/seedasr_tech_report/ |
+| Setting Up Auto Service Request | https://xy2401-local-doc-java.github.io/bigdata/bda412/BIGOG/asr.htm |
+| Configuration - Whisper ASR Webservice | https://ahmetoner.github.io/whisper-asr-webservice/environmental-variables/ |
+| Dual-Mode ASR: Unify and Improve Streaming ASR with full-context ... | https://eloweimi.github.io/files/Tutorials/DualMode_ASR_ErfanLoweimi.pdf |
+| On-device VAD + ASR (本地非流式语音识别) — sherpa 1.3 ... | https://k2-fsa.github.io/sherpa/onnx/harmony-os/vad-asr.html |
+| Streaming ASR — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/python/streaming_asr/index.html |
+| espnet.asr.asr_utils.torch_load | https://espnet.github.io/espnet/guide/espnet/asr/torch_load.html |
+| The Challenges of using Transformers in ASR | https://desh2608.github.io/2020-01-08-transformer-asr/ |
+| Pre-trained models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/onnx/pretrained_models/index.html |
+| Implementing Attack Surface Reduction Policies \| Azure with Tom | https://awt-tom.github.io/posts/Attack-surface-reduction/ |
+| Streaming ASR — icefall 0.1 documentation | https://k2-fsa.github.io/icefall/recipes/Streaming-ASR/index.html |
+| Streaming ASR — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/cpp/online_asr/index.html |
+| On Prosody Modeling for ASR+TTS based Voice Conversion | https://unilight.github.io/Publication-Demos/publications/prosody-asr-tts-vc/index.html |
+| sherpa — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/ |
+| Pre-trained models — sherpa 1.3 documentation | https://k2-fsa.github.io/sherpa/cpp/pretrained_models/index.html |
+| Enriching ASR Lattices with POS Tags for Dependency Parsing | https://speechnlp.github.io/2017/papers/W17-4605.pdf |
+| Evaluation of ASR in concrete using acoustic emission and deep ... | https://liaiusc.github.io/files/Evaluation%20of%20ASR.pdf |
+| ESPnet2 real streaming Transformer demonstration | https://espnet.github.io/espnet/notebook/ESPnet2/Demo/ASR/streaming_asr_demo.html |
+| LLM Powered Autonomous Agents \| Lil'Log | https://lilianweng.github.io/posts/2023-06-23-agent/ |
+| LLM Fun: Building a Q&A Bot of Myself \| Bounded Rationality | https://bjlkeng.github.io/posts/building-a-qa-bot-of-me-with-openai-and-cloudflare/ |
+| Configure LLM Provider \| goose | https://block.github.io/goose/docs/getting-started/providers/ |
+| Using an LLM in GitHub Actions | https://tonybaloney.github.io/posts/using-llm-in-github-actions.html |
+| LLM - txtai | https://neuml.github.io/txtai/pipeline/text/llm/ |
+| Welcome to TensorRT LLM's Documentation! — TensorRT LLM | https://nvidia.github.io/TensorRT-LLM/ |
+| Quick Start Guide — TensorRT LLM | https://nvidia.github.io/TensorRT-LLM/quick-start-guide.html |
+| OnPrem.LLM – onprem | https://amaiya.github.io/onprem/ |
+| LLM (ML) Job Interviews (Fall 2024) - Process • Mimansa Jaiswal | https://mimansajaiswal.github.io/posts/llm-ml-job-interviews-fall-2024-process/ |
+| Guardrails and Security for LLMs: Safe, Secure, and Controllable ... | https://llm-guardrails-security.github.io/ |
+| Probabilistic Modeling and Statistical Inference | https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html |
+| 8th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/tpm2025/ |
+| 7th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/ |
+| Fault Localization via Efficient Probabilistic Modeling of Program ... | https://xiongyingfei.github.io/papers/ICSE22a.pdf |
+| TPM 2023 | https://tractable-probabilistic-modeling.github.io/tpm2023/ |
+| TPM 2022 | https://tractable-probabilistic-modeling.github.io/tpm2022/ |
+| probabilistic modeling \| Diana Cai | https://dicai.github.io/tags/probabilistic-modeling/ |
+| Post-Inference Methods for Scalable Probabilistic Modeling and ... | https://willieneis.github.io/pdf/willie_thesis.pdf |
+| 7th Workshop on Tractable Probabilistic Modeling | https://tractable-probabilistic-modeling.github.io/tpm2024/papers/ |
+| Probabilistic Modeling with Matrix Product States | https://jterilla.github.io/entropy-21-01236-with-cover.pdf |
+| Siddhartha Srinivasa | https://siddhss5.github.io/ |
+| Biomechatronics and Intelligent Robotics Lab | https://haosu-robotics.github.io/ |
+| One year of working as a Robotics consultant | https://msadowski.github.io/one-year-of-robotics-consulting/ |
+| Trustworthy Robotics Lab @ Georgia Tech | http://trustworthyrobotics.github.io/ |
+| Stanford Robotics Seminar | https://stanfordasl.github.io/robotics_seminar/ |
+| CCNY Robotics Lab | https://ccny-ros-pkg.github.io/ |
+| Intelligent Robotics and Vision Lab at the University of Texas at ... | https://irvlutd.github.io/ |
+| Getting Started as a Robotics Software Engineer! \| Mike Likes Robots | https://mikelikesrobots.github.io/blog/getting-started-robot-sw-eng/ |
+| Northwest Robotics Symposium 2025 | https://nwrsymposium.github.io/ |
+| Aluminum Narwhals: Team 3128 | http://team3128.github.io/ |
+| Learning Deep Representations of Data Distributions | https://ma-lab-berkeley.github.io/deep-representation-learning-book/ |
+| Self-Supervised Representation Learning \| Lil'Log | https://lilianweng.github.io/posts/2019-11-10-self-supervised/ |
+| Table Representation Learning Workshop | https://table-representation-learning.github.io/ |
+| 5TH MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2025-mrl.html |
+| Representation Learning on Graphs and Manifolds | https://rlgm.github.io/rlgm.github.io/ |
+| metapath2vec: Scalable Representation Learning for ... | https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf |
+| 2ND MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2022-mrl.html |
+| ProNE: Fast and Scalable Network Representation Learning | https://ericdongyx.github.io/papers/IJCAI19-zhang-et-al-proNE-network-representation-learning.pdf |
+| 4TH MULTILINGUAL REPRESENTATION LEARNING (MRL ... | https://sigtyp.github.io/ws2024-mrl.html |
+| A Few Words on Representation Learning - Thalles' blog | https://sthalles.github.io/a-few-words-on-representation-learning/ |
+| 2 Interpretability – Interpretable Machine Learning | https://christophm.github.io/interpretable-ml-book/interpretability.html |
+| Interpretability vs Neuroscience [rough note] -- colah's blog | https://colah.github.io/notes/interp-v-neuro/ |
+| Learning Interpretability Tool | https://pair-code.github.io/lit/ |
+| Understanding Data Scientists' Use of Interpretability Tools for ... | https://harmanpk.github.io/Papers/CHI2020_Interpretability.pdf |
+| The 2nd New England Mechanistic Interpretability (NEMI) Workshop | https://nemiconf.github.io/summer25/ |
+| General Information \| Workshop on Actionable Interpretability@ICML ... | https://actionable-interpretability.github.io/ |
+| NEMI: New England Mechanistic Interpretability | https://nemiconf.github.io/summer24/ |
+| Getting Started in Mechanistic Interpretability - TransformerLens ... | https://transformerlensorg.github.io/TransformerLens/content/getting_started_mech_interp.html |
+| Measuring Mechanistic Interpretability at Scale Without Humans | https://brendel-group.github.io/mis/ |
+| Interpretability for current NLP | https://nasmith.github.io/NLP-winter22/assets/slides/interpretability.pdf |
+| Multimodal Topic Modeling - BERTopic | https://maartengr.github.io/BERTopic/getting_started/multimodal/multimodal.html |
+| ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning | https://knowledgemr-workshop.github.io/ |
+| All-printed chip-less wearable neuromorphic system for multimodal ... | https://yusong17.github.io/mypaper/ys-nc.pdf |
+| Multimodal Representation and Retrieval [MRR 2025] | https://mrr-workshop.github.io/ |
+| Multimodal Machine Learning | https://cmu-mmml.github.io/ |
+| Scalable, multimodal profiling of chromatin accessibility, gene ... | https://clareaulab.github.io/pdfs/MimitouLareauChen-NBT-2021.pdf |
+| AIpparel: A Multimodal Foundation Model for Digital Garments | https://georgenakayama.github.io/AIpparel/ |
+| Multimodal Spectroscopic Dataset \| NeurIPS 2024 | https://rxn4chemistry.github.io/multimodal-spectroscopic-dataset/ |
+| UMD CMSC848K: Multimodal Foundation Models | https://jbhuang0604.github.io/teaching/CMSC848K/ |
+| PaLM-E: An Embodied Multimodal Language Model | https://palm-e.github.io/ |
